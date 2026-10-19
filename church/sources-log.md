@@ -29,3 +29,5 @@ is kept (never this repo) · files it fed.
 - Street number may be 18650, not 18670 (Kevin unsure) — Kevin, in
   chat — fed facts.md (unconfirmed), docs/_data/church.yml for a
   map-pin test.
+- Church coordinates 35.073058, -94.588978; 18650 also mis-pins (house
+  next door) — Kevin, in chat — fed facts.md, docs/_data/church.yml.

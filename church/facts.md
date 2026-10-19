@@ -12,9 +12,9 @@ site.
   18670). On the preview at Kevin's request to test the map pin;
   confirm the number before launch. Earlier tries: 18670 County Road
   E1340 (didn't populate properly), 18670 Old Highway 112
-- Map pin: with 18670, Google placed the pin too far down the road (Kevin,
-  2026-10-19). Exact coordinates: unknown — site falls back to the
-  address search until Kevin sends them
+- Map pin: 35.073058, -94.588978 — confirmed (Kevin, 2026-10-19).
+  Google misplaces the address (18670: far down the road; 18650: the
+  house next door), so the site's Directions links use this pin
 - Directions: no clear landmark. Heading north: church on the left,
   just around the bend. Heading west: on the right, just before the
   bend — confirmed (Kevin, 2026-10-19)
