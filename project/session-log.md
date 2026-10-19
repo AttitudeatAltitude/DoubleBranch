@@ -73,3 +73,16 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   for review (root exception 2).
 - Suggestion: Events first page on a data file. Done as part of the
   conversion, since Kevin had agreed to Jekyll.
+
+## 2026-10-19 — Going public (draft preview)
+- Merged docs/CLAUDE.md Jekyll wording (Kevin approved).
+- D1 decided: public (Kevin). Scanned full history first: clean apart
+  from Kevin's personal email as the initial commit's author.
+- Can't change repo visibility or enable Pages from the session (no
+  tool for repo settings) → Kevin does both; steps in chat + backlog.
+- Found: root publish gate triggers on "GitHub Pages is live", which
+  would put every draft edit behind leadership approval. Proposed
+  re-keying it to launch (`preview: false`); held on
+  `claude/publish-gate-preview` for review.
+- Backlog *Proposed* unchanged at Kevin's request (schema.org data,
+  Google Business Profile stay proposed).
