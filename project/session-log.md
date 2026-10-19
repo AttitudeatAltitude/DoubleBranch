@@ -112,3 +112,6 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   item replaced by a backlog task.
 - Kevin may have given the wrong number: switched to 18650 Old Highway
   112 to test the pin; facts.md marks it unconfirmed until he checks.
+- 18650 pinned the house next door. Kevin sent coordinates → `map_pin`
+  set; Directions links now route to the exact point. Street number
+  still unconfirmed (backlog).

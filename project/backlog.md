@@ -30,11 +30,10 @@ their phase closes.
   member
 - [todo] Leader blurbs for About: pastor, each deacon, each ministry
   leader — name, role, 1–2 sentences, each person's OK — Kevin
-- [blocked] **Exact map pin**: Google drops the address pin too far
-  down the road. Site is ready (`map_pin` in docs/_data/church.yml);
-  needs the church's coordinates — Kevin, since 2026-10-19. First:
-  does 18650 (vs 18670) place the pin right? Confirm the number either
-  way before launch
+- [done] Exact map pin set (35.073058, -94.588978); Directions links
+  use it — Claude, 2026-10-19
+- [todo] **Confirm the street number** (18650 or 18670 Old Highway 112)
+  before launch, e.g. from the church's mail or a utility bill — Kevin
 - [todo] Remaining visitor answers: nursery/children's class ages and
   when each meets — Kevin
 - [todo] Draft "what to expect" visitor copy (dress, length, kids,
