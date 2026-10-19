@@ -110,3 +110,5 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   directions to the exact point), else falls back to address search.
   Both modes tested. Waiting on Kevin's coordinates. Map-pin *Proposed*
   item replaced by a backlog task.
+- Kevin may have given the wrong number: switched to 18650 Old Highway
+  112 to test the pin; facts.md marks it unconfirmed until he checks.

@@ -32,7 +32,9 @@ their phase closes.
   leader — name, role, 1–2 sentences, each person's OK — Kevin
 - [blocked] **Exact map pin**: Google drops the address pin too far
   down the road. Site is ready (`map_pin` in docs/_data/church.yml);
-  needs the church's coordinates — Kevin, since 2026-10-19
+  needs the church's coordinates — Kevin, since 2026-10-19. First:
+  does 18650 (vs 18670) place the pin right? Confirm the number either
+  way before launch
 - [todo] Remaining visitor answers: nursery/children's class ages and
   when each meets — Kevin
 - [todo] Draft "what to expect" visitor copy (dress, length, kids,
