@@ -23,10 +23,14 @@ both every session:
    agrees — they are not built unasked.
 
 **Who's who.** The user (Kevin) is a church member driving this as a
-volunteer. **The pastor approves content** before it goes public. Kevin
-relays pastor decisions; record them in `project/decisions-log.md` or
-`project/approvals-log.md` with the date and "per Kevin, pastor
-approved" — never record a pastor decision that wasn't relayed.
+volunteer. **The church leadership team approves content** before it
+goes public (how — who signs off, whole team or one designee — is D6 in
+`project/decisions-needed.md`). Kevin relays leadership decisions;
+record them in `project/decisions-log.md` or `project/approvals-log.md`
+with the date and "per Kevin, leadership approved" — never record a
+leadership decision that wasn't relayed. In this repo, refer to
+leadership by role, not by name, unless a name is approved for the
+public site.
 
 **Two audiences, every page.** The site serves the existing
 congregation (events, sermons, giving) *and* first-time visitors who
@@ -60,7 +64,7 @@ a session survives unless it's written to a file, committed, and pushed.
 rhetoric — intros, recaps, softening. **Keep reasoning:** figures,
 dates, who decided, the argument a decision rests on, and what would
 reverse it. The exceptions are `README.md` files and anything that is
-website copy or written for the pastor or congregation to read.
+website copy or written for leadership or the congregation to read.
 
 Every tracked file is one of these types, and each domain CLAUDE.md
 labels which is which:
@@ -94,7 +98,7 @@ logo) live in `docs/assets/`, sized for the web (see `docs/CLAUDE.md`).
 ## Working defaults
 
 - **Don't block on missing info.** Record `unknown` with a dated note
-  and continue. Collect questions — for Kevin and for the pastor — and
+  and continue. Collect questions — for Kevin and for leadership — and
   ask them once at the end of the task.
 - **Never invent church facts.** Service times, beliefs, staff,
   addresses, and phone numbers come from Kevin or a source document
@@ -125,7 +129,7 @@ Default branch is `main`. Each web session gets its own working branch.
   `project/roadmap.md`), merging to `main` publishes the site. After
   that, any change to public *content* in `docs/` — wording, facts,
   photos, new pages — merges only when `project/approvals-log.md` has a
-  pastor-approval entry covering it. Purely technical fixes (broken
+  leadership-approval entry covering it. Purely technical fixes (broken
   link, layout bug, accessibility fix, typo) don't need approval; say
   in the commit message that it's technical-only. Before launch,
   nothing is published, so `docs/` work merges normally.

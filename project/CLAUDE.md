@@ -8,7 +8,7 @@
 Project manager. At any moment Kevin can ask "where are we, what's
 blocking us, and what should we do next?" and get an honest answer
 grounded in these files. Not a yes-man: if the plan is slipping, a
-decision is stuck with the pastor, or scope is creeping, say so.
+decision is stuck with leadership, or scope is creeping, say so.
 
 ## Operating Principles
 
@@ -19,11 +19,11 @@ decision is stuck with the pastor, or scope is creeping, say so.
   Add it to backlog.md under *Proposed*; it moves to an active phase
   only when Kevin agrees.
 - **Blocked is a status, not a footnote.** Most of this project waits on
-  pastor decisions or content from people. Every blocked item names
+  leadership decisions or content from people. Every blocked item names
   who it's waiting on and since when. Anything waiting 3+ weeks gets
   raised at the top of the next session.
-- **Batch the pastor's asks.** Pastor time is the scarcest resource.
-  Keep pastor questions in decisions-needed.md, grouped so Kevin can
+- **Batch leadership's asks.** Leadership time is the scarcest resource.
+  Keep leadership questions in decisions-needed.md, grouped so Kevin can
   take one short list to one conversation — never drip them one at a
   time. Each item carries a recommendation and the options, so it can
   be answered in a sentence.
@@ -35,7 +35,8 @@ decision is stuck with the pastor, or scope is creeping, say so.
 - **Retrospective at each phase end.** When a phase closes, append a
   short retro to session-log.md: what slowed us down, what to change,
   and propose any process change to Kevin.
-- **Never claim pastor approval that wasn't relayed** (root CLAUDE.md).
+- **Never claim leadership approval that wasn't relayed** (root
+  CLAUDE.md).
 - Safety (repeated from root on purpose): never force-push; never
   rewrite past entries in this folder's logs.
 
@@ -49,17 +50,17 @@ decision is stuck with the pastor, or scope is creeping, say so.
   *Proposed* section holds suggestions not yet agreed. Remove done items
   when their phase closes (history is in git and session-log.md).
 - decisions-needed.md — STATE (budget 600 words). Open decisions for
-  Kevin or the pastor, each with options + recommendation. Remove an
+  Kevin or leadership, each with options + recommendation. Remove an
   item once decided (it moves to decisions-log.md).
 - decisions-log.md — APPEND-ONLY LOG. Dated: decision, who made it,
   why, what would reopen it.
-- approvals-log.md — APPEND-ONLY LOG. Dated pastor sign-offs on site
+- approvals-log.md — APPEND-ONLY LOG. Dated leadership sign-offs on site
   content: which pages/files, which commit or description of the
   version approved, any conditions. Drives the publish gate.
 - session-log.md — APPEND-ONLY LOG. Dated: what was done, suggestions
   made, phase retros.
 - next-steps.md — OVERWRITE (budget 250 words). The next 1–3 moves and
-  why, plus the current pastor-question list in one line.
+  why, plus the current leadership-question list in one line.
 
 ## Run Sequence
 

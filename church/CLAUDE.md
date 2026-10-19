@@ -17,11 +17,11 @@ traced to a line here, and every line here says how sure we are of it.
   service time or address only in `docs/`.
 - **Every fact carries a status:** `confirmed (source, date)`,
   `unconfirmed (source, date)`, or `unknown`. "Source" is a person's
-  role ("Kevin", "per pastor via Kevin") or a sources-log.md entry.
+  role ("Kevin", "per leadership via Kevin") or a sources-log.md entry.
   Only `confirmed` facts go on the public site; the rest render as
   `[TBD]`.
-- **Pastor owns doctrine.** beliefs.md text is the church's own words,
-  approved by the pastor. Don't paraphrase, summarize, or "improve" a
+- **The church owns its doctrine.** beliefs.md text is the church's own
+  words (expected source: the bylaws), approved by leadership. Don't paraphrase, summarize, or "improve" a
   statement of faith; if a plain-language intro is wanted, draft it
   separately and mark it for approval.
 - **Public-safe only.** See the root Privacy rule. Contacts here are

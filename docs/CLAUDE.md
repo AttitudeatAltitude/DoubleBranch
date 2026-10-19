@@ -55,7 +55,7 @@ beat cleverness every time.
 1. Orient: read README.md, the `church/` STATE files the pages draw on,
    and `project/next-steps.md`.
 2. Surface open items: `[TBD]` placeholders still on pages, and any
-   content change waiting on pastor approval.
+   content change waiting on leadership approval.
 3. Build/edit — facts from `church/` only.
 4. Verify: render at phone and desktop width; check links; check every
    image has alt text and is web-sized.
