@@ -17,14 +17,6 @@ Needed by: Phase 3. Site served at
 `attitudeataltitude.github.io/DoubleBranch` until a domain is bought
 (Phase 4, optional).
 
-## D2 — Site stack — Kevin
-- A. Plain HTML/CSS, no build. Simplest, but shared header/footer is
-  copied on every page.
-- B. Jekyll (built into GitHub Pages, no tooling on our side): shared
-  layouts, and events/ministries can be simple data files a successor
-  edits like a form. **Recommended.**
-Needed by: start of Phase 2.
-
 ## D3 — Online giving provider — leadership (and whoever handles
 finances)
 No provider today. Options to research and price before leadership

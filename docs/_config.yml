@@ -1,0 +1,12 @@
+# Site settings. GitHub Pages reads this file automatically.
+
+title: Double Branch Baptist Church
+
+# Preview mode shows the yellow "Draft preview" banner and asks search
+# engines not to list the site. Change to false at launch.
+preview: true
+
+# Files in this folder that are notes, not web pages. Never publish these.
+exclude:
+  - README.md
+  - CLAUDE.md

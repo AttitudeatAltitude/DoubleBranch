@@ -9,6 +9,9 @@ site.
 - City: Poteau, Oklahoma — confirmed (Kevin, 2026-10-19)
 - Street address: 18670 County Road E1340, Poteau, OK 74953 —
   confirmed (Kevin, 2026-10-19)
+- Directions: no clear landmark. Heading north: church on the left,
+  just around the bend. Heading west: on the right, just before the
+  bend — confirmed (Kevin, 2026-10-19)
 - Affiliation: affiliated with a Baptist body (Kevin, 2026-10-19) — which one
   unknown
 - Founded: unknown
@@ -28,7 +31,9 @@ site.
   (Kevin, 2026-10-19)
 - Accessibility: no stairs; wheelchair accessible — confirmed (Kevin,
   2026-10-19). Accessible parking spaces: unknown
-- Children's classes/nursery: unknown
+- Children: nursery and a children's class both offered — confirmed
+  (Kevin, 2026-10-19). Ages and whether during the 11:00 service or
+  Sunday school: unknown
 
 ## Contact
 - Church phone: none (Kevin, 2026-10-19)

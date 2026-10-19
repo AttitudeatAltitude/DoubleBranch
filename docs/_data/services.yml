@@ -1,0 +1,13 @@
+# Weekly services. Change a time here and it updates on every page.
+- day: Sunday
+  name: Sunday School
+  time: 10:00 AM
+- day: Sunday
+  name: Morning Worship
+  time: 11:00 AM
+- day: Sunday
+  name: Evening Service
+  time: 6:00 PM
+- day: Wednesday
+  name: Bible Study
+  time: 7:00 PM

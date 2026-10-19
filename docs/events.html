@@ -1,68 +1,34 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Preview only: remove the robots line at launch so search engines can list the site. -->
-  <meta name="robots" content="noindex">
-  <title>Events & Ministries | Double Branch Baptist Church</title>
-  <meta name="description" content="Weekly schedule, ministries, and upcoming events at Double Branch Baptist Church, Poteau, OK.">
-  <link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
-  <a class="skip-link" href="#main">Skip to content</a>
-  <!-- Preview banner: delete this line at launch. -->
-  <div class="preview-banner">Draft preview — highlighted <span class="tbd">[TBD]</span> items are still being gathered.</div>
-
-  <header class="site-header">
-    <div class="wrap">
-      <a class="brand" href="index.html">
-      <svg width="38" height="38" viewBox="0 0 40 40" aria-hidden="true" focusable="false">
-        <circle cx="20" cy="20" r="19" fill="none" stroke="#e9c79f" stroke-width="1.5"/>
-        <path d="M20 34 V22 M20 22 C20 16 13 14 11 8 M20 22 C20 16 27 14 29 8" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
-        <path d="M10 30 q5 -3 10 0 t10 0" fill="none" stroke="#9cc3cf" stroke-width="1.8" stroke-linecap="round"/>
-      </svg>
-        <span class="brand-name">Double Branch<small>Baptist Church · Poteau, OK</small></span>
-      </a>
-      <nav class="site-nav" aria-label="Main">
-        <ul>
-          <li><a href="visit.html">Plan a Visit</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="sermons.html">Sermons</a></li>
-          <li><a href="events.html" aria-current="page">Events &amp; Ministries</a></li>
-          <li><a href="give.html">Give</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
-
-  <main id="main">
-    <section class="hero page-hero">
-      <div class="wrap">
-        <p class="eyebrow">Get involved</p>
-        <h1>Events &amp; ministries</h1>
-        <p class="lede">Our weekly schedule, groups, and what's coming up.</p>
-      </div>
-  <svg class="hero-art" viewBox="0 0 1440 110" preserveAspectRatio="none" aria-hidden="true" focusable="false">
-    <path d="M0 70 C180 30 320 40 470 62 C620 84 760 20 930 30 C1100 40 1250 78 1440 50 V110 H0 Z" fill="#2e5442" opacity=".55"/>
-    <path d="M0 92 C220 60 420 70 640 88 C860 106 1080 64 1440 82 V110 H0 Z" fill="#faf6ee"/>
-  </svg>
-    </section>
+---
+layout: default
+title: "Events & Ministries"
+description: "Weekly schedule, ministries, and upcoming events at Double Branch Baptist Church, Poteau, OK."
+eyebrow: "Get involved"
+heading: "Events & ministries"
+lede: "Our weekly schedule, groups, and what's coming up."
+---
     <section class="section">
       <div class="wrap grid grid-2">
         <div class="card">
           <h2>Every week</h2>
-          <ul class="times">
-            <li><span><span class="day">Sunday</span><span class="what">Sunday School</span></span><time datetime="10:00">10:00 AM</time></li>
-            <li><span><span class="day">Sunday</span><span class="what">Morning Worship</span></span><time datetime="11:00">11:00 AM</time></li>
-            <li><span><span class="day">Sunday</span><span class="what">Evening Service</span></span><time datetime="18:00">6:00 PM</time></li>
-            <li><span><span class="day">Wednesday</span><span class="what">Bible Study</span></span><time datetime="19:00">7:00 PM</time></li>
-          </ul>
+          {% include service-times.html %}
         </div>
         <div class="card">
           <h2>Coming up</h2>
+          {%- if site.data.events.size > 0 %}
+          <ul class="events">
+            {%- for ev in site.data.events %}
+            <li>
+              <h3>{{ ev.name }}</h3>
+              <p class="role">{{ ev.date }}{% if ev.time %} · {{ ev.time }}{% endif %}</p>
+              {%- if ev.details %}<p>{{ ev.details }}</p>{% endif %}
+            </li>
+            {%- endfor %}
+          </ul>
+          {%- elsif site.preview %}
           <p class="tbd">[TBD: upcoming events, with dates.]</p>
+          {%- else %}
+          <p>No special events on the calendar right now. Join us at any of our weekly services.</p>
+          {%- endif %}
         </div>
       </div>
     </section>
@@ -72,47 +38,13 @@
         <h2>Ministries</h2>
         <p>Meet the people who lead each ministry on our <a href="about.html#leaders">About page</a>.</p>
         <div class="grid grid-3">
-          <div class="card"><h3>Sunday School</h3><p>Sundays, 10:00 AM.</p><p><span class="tbd">[TBD: classes offered]</span></p></div>
-          <div class="card"><h3>Children</h3><p><span class="tbd">[TBD: what, when, ages]</span></p></div>
-          <div class="card"><h3>Youth</h3><p><span class="tbd">[TBD: what, when, ages]</span></p></div>
-          <div class="card"><h3>Men</h3><p><span class="tbd">[TBD: what, when]</span></p></div>
-          <div class="card"><h3>Women</h3><p><span class="tbd">[TBD: what, when]</span></p></div>
+          {%- for m in site.data.ministries %}
+          <div class="card">
+            <h3>{{ m.name }}</h3>
+            <p>{% if m.when %}{{ m.when }}{% else %}<span class="tbd">[TBD: when]</span>{% endif %}</p>
+            <p>{% if m.details %}{{ m.details }}{% else %}<span class="tbd">[TBD: what it is, who it's for]</span>{% endif %}</p>
+          </div>
+          {%- endfor %}
         </div>
       </div>
     </section>
-  </main>
-
-  <footer class="site-footer">
-    <div class="wrap">
-      <div class="footer-grid">
-        <div>
-          <h2>Double Branch Baptist Church</h2>
-          <address>18670 County Road E1340<br>Poteau, OK 74953</address>
-          <p><a href="https://www.google.com/maps/search/?api=1&amp;query=18670+County+Road+E1340%2C+Poteau%2C+OK+74953">Get directions</a></p>
-        </div>
-        <div>
-          <h2>Service times</h2>
-          <ul>
-            <li>Sunday School — 10:00 AM</li>
-            <li>Sunday Worship — 11:00 AM</li>
-            <li>Sunday Evening — 6:00 PM</li>
-            <li>Wednesday Bible Study — 7:00 PM</li>
-          </ul>
-        </div>
-        <div>
-          <h2>Pages</h2>
-          <ul>
-            <li><a href="visit.html">Plan a Visit</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="sermons.html">Sermons</a></li>
-            <li><a href="events.html">Events &amp; Ministries</a></li>
-            <li><a href="give.html">Give</a></li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
-        </div>
-      </div>
-      <p class="fine">© Double Branch Baptist Church, Poteau, Oklahoma.</p>
-    </div>
-  </footer>
-</body>
-</html>
