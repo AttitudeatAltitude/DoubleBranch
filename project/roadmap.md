@@ -18,10 +18,10 @@ Exit when: every fact the V1 pages need is `confirmed`, or knowingly
 deferred with `[TBD]`.
 
 ## Phase 2 — Build V1 — NOT STARTED (skeleton built early)
-Pages (draft list, pending D5): Home · Plan a Visit (what to expect,
-service times, map, parking/kids/dress) · About & Beliefs · Our Pastor
-& Staff · Sermons (link/embed Facebook) · Events & Ministries · Give ·
-Contact.
+Pages (D5, decided): Home · Plan a Visit (what to expect, service
+times, map, parking/kids/dress) · About (beliefs; pastor, deacons,
+ministry leaders) · Sermons (link/embed Facebook) · Events & Ministries
+· Give · Contact.
 Exit when: all pages built from `church/`, pass the phone visitor test,
 and preview is shareable with leadership.
 
