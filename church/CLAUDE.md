@@ -46,6 +46,9 @@ traced to a line here, and every line here says how sure we are of it.
   calendar items only.
 - media.md — STATE (budget 600 words). Sermons/livestream setup (where
   it streams, how, with what equipment) and the streaming-upgrade plan.
+- audio-guide.md — REFERENCE. Weekly sermon-audio recording steps for
+  the soundboard volunteer (human-facing). Update when the setup in
+  media.md changes or a test Sunday shows a step is wrong.
 - sources-log.md — APPEND-ONLY LOG. Manifest of source documents and
   information received: date, what, from whom, where the original is
   kept, which files it fed.
