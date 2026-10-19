@@ -17,3 +17,7 @@ is kept (never this repo) · files it fed.
 - L-20 recording specs — retailer spec listings (Markertek, Adorama,
   Zoom L-20R page) via web search — fed media.md, audio-guide.md.
   Verify against the L-20 Operation Manual before the test Sunday.
+- Visitor answers (dress + James 2:1–4, ~1 hr service, hymns/piano and
+  newer songs to tracks, parking obvious, no stairs) and leaders to
+  feature (pastor, deacons, ministry leaders) — Kevin, in chat — fed
+  facts.md.

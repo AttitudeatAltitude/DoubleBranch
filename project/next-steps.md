@@ -2,19 +2,16 @@
 
 OVERWRITE — budget 250 words.
 
-1. **Kevin: look over the skeleton** (docs/, screenshots shared in
-   session). Say what to change in the look: colors, fonts, the hills
-   header, the page order. Confirm or edit the page list (D5) and pick
-   the stack (D2). Option A is what's built.
-2. **Kevin: answer the six Plan a Visit questions** (dress, service
-   length, music, kids, parking/door, accessibility). That's the most-
-   read page and has the most `[TBD]`s. A text-message answer is fine.
-3. **Kevin: check the L-20 for an SD card**, then do one test recording
-   per church/audio-guide.md.
+1. **Kevin: decide D2 (plain HTML vs Jekyll).** Explained in chat
+   2026-10-19. Cheapest to switch now, before pages fill up.
+2. **Building photos** on a clear morning or late afternoon while fall
+   color lasts (backlog Phase 1 has the shot list).
+3. **Kevin: two visitor answers left**: kids/nursery, and a road
+   landmark (check the map pin at the same time).
 4. **Kevin: one conversation with the pastor and deacons**: OK to
-   proceed, D6, D1, D4, D3, D7, church email. List in
-   decisions-needed.md.
+   proceed, D6, D1, D4, D3, D7, church email. Add: OK to ask each
+   leader for a name and 1–2 sentence blurb for the About page.
 
-Why this order: design feedback is cheapest now, before content fills
-the pages. Visitor answers come from Kevin alone. Leadership's OK is
-still the only thing that could change the project's direction.
+Why this order: D2 changes how every page is built; photos are time-
+sensitive (foliage); leadership's OK is still the gate for publishing
+names.

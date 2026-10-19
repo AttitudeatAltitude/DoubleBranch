@@ -47,3 +47,13 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   overlapping on phone.
 - Suggestion: building photos to replace the illustrated header
   (backlog *Proposed*).
+
+## 2026-10-19 — Visitor answers + About merge
+- Kevin answered 5 of 6 Plan a Visit questions (dress + James 2:1–4,
+  ~1 hr, hymns/piano + newer songs to tracks, parking obvious, no
+  stairs) → facts.md, then visit.html. Kids/nursery still TBD.
+- D5 decided: Pastor & Staff merged into About, which now has pastor,
+  deacon, and ministry-leader cards (all TBD). Site is 7 pages.
+- Explained Jekyll for D2 in chat; D2 still open.
+- Building photos agreed → backlog with timing guidance. James verse
+  shown as reference only. Quoting it needs the church's translation.

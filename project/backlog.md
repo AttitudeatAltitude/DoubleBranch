@@ -21,14 +21,22 @@ their phase closes.
 - [todo] List ministries + recurring events with times and contact role
   — Kevin
 - [todo] Pastor bio + photo, with permission to publish — Kevin → pastor
-- [todo] Photo policy (no identifiable kids) approved by leadership; collect
-  5–10 building/worship photos — Kevin
+- [todo] Photo policy (no identifiable kids) approved by leadership — Kevin
+- [todo] **Building photos** (agreed 2026-10-19): road sign, front of
+  building, entrance, empty sanctuary. No people. Exterior in the first
+  or last ~2 hours of sun, with the sun behind the photographer; bright
+  overcast also works; avoid midday. Sanctuary mid-morning, lights on.
+  Fall color now (late Oct–early Nov) is a good window — Kevin / a
+  member
+- [todo] Leader blurbs for About: pastor, each deacon, each ministry
+  leader — name, role, 1–2 sentences, each person's OK — Kevin
+- [todo] Remaining visitor answers: kids/nursery; road landmark — Kevin
 - [todo] Draft "what to expect" visitor copy (dress, length, kids,
   parking, music style) — Claude drafts from Kevin's answers
 
 ## Phase 2 — Build V1
 - [done] Site skeleton (runs ahead of phase, Kevin asked) — plain
-  HTML/CSS, all 8 draft-list pages with `[TBD]` placeholders, preview
+  HTML/CSS, all 7 pages (D5) with `[TBD]` placeholders, preview
   banner + noindex — Claude, 2026-10-19. Built on D2 option A by
   default; Jekyll conversion later is ~30 min if D2 goes B.
 - [todo] Fill page copy as church/ facts are confirmed — Claude
@@ -51,13 +59,6 @@ their phase closes.
   `docs/README.md`
 
 ## Proposed (not yet agreed)
-- **Building photos to replace the illustrated header** — one member,
-  15 minutes on a sunny morning: the sign at the road, the front of the
-  building, the entrance visitors should use, the sanctuary empty. No
-  people, so no consent needed (D4 still applies if anyone's in frame).
-  A real photo is the biggest single trust signal for a first-time
-  visitor, and the entrance shot answers "which door?" on Plan a Visit.
-  (Claude, 2026-10-19)
 - **Free church email (e.g. a Gmail account) for the Contact page** —
   the site currently has no way for a visitor to reach anyone. A free
   address owned by the church (not a person), with login shared between
