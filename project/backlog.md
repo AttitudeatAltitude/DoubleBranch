@@ -48,7 +48,7 @@ their phase closes.
 - [todo] Fill page copy as church/ facts are confirmed — Claude
 - [done] Tracker board for Kevin (private artifact, two-way: answers,
   ticks, decisions, notes) — Claude, 2026-10-19. Sync steps in
-  project/CLAUDE.md pending Kevin's review
+  project/CLAUDE.md (approved)
 - [done] Preview link live: https://attitudeataltitude.github.io/DoubleBranch/
   — repo public + Pages from `main` `/docs` (Kevin), first deploy
   verified 2026-10-19

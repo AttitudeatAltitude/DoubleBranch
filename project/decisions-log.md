@@ -50,3 +50,6 @@ explicit dated note.
   turns on** — Kevin approved; root CLAUDE.md merged. Why: lets the
   draft preview stay online while content is still changing. Reopen
   if: the draft is mistaken for the real site.
+- **Tracker sync steps in project/CLAUDE.md** — Kevin approved; merged.
+  Sessions read the tracker at start and refresh it at journal time;
+  repo wins on conflict.
