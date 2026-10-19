@@ -46,3 +46,7 @@ explicit dated note.
   the preview carries a draft banner and noindex. Reopen if:
   leadership objects, or private content ever needs to live here.
 - **docs/CLAUDE.md Jekyll stack wording approved** — Kevin. Merged.
+- **Publish gate starts at launch (`preview: false`), not when Pages
+  turns on** — Kevin approved; root CLAUDE.md merged. Why: lets the
+  draft preview stay online while content is still changing. Reopen
+  if: the draft is mistaken for the real site.
