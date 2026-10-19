@@ -60,6 +60,12 @@ their phase closes.
   `docs/README.md`
 
 ## Proposed (not yet agreed)
+- **Search-engine "church card" data** — add a hidden block to the
+  layout that tells Google, in its own format (schema.org `Church`),
+  the name, address, and service times, all read from `_data/`. About
+  15 minutes. Helps Google show the address and times directly in
+  search results. Pairs with the Google Business Profile item.
+  (Claude, 2026-10-19)
 - **Free church email (e.g. a Gmail account) for the Contact page** —
   the site currently has no way for a visitor to reach anyone. A free
   address owned by the church (not a person), with login shared between
