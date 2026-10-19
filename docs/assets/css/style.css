@@ -1,0 +1,223 @@
+/* Double Branch Baptist Church — site styles.
+   Mobile-first. No external fonts or scripts. Colors live in :root so a
+   successor can re-theme the whole site by editing a few lines. */
+
+:root {
+  --pine: #1f3b2d;        /* header, hero, footer */
+  --pine-soft: #2e5442;
+  --creek: #3d6b7d;       /* links */
+  --clay: #a14e1f;        /* buttons, accents */
+  --clay-dark: #823d16;
+  --cream: #faf6ee;       /* page background */
+  --paper: #ffffff;       /* cards */
+  --line: #e4dccb;
+  --ink: #1c2420;         /* body text */
+  --ink-soft: #4a554f;
+  --tbd-bg: #fff1c2;
+  --tbd-line: #c99a12;
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  --radius: 10px;
+  --wrap: 68rem;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1.125rem;     /* 18px — easy reading for every age */
+  line-height: 1.6;
+}
+
+img { max-width: 100%; height: auto; }
+
+h1, h2, h3 {
+  font-family: var(--serif);
+  line-height: 1.2;
+  color: var(--pine);
+  margin: 0 0 .5em;
+}
+h1 { font-size: clamp(2rem, 6vw, 3.25rem); }
+h2 { font-size: clamp(1.5rem, 4vw, 2rem); }
+h3 { font-size: 1.25rem; }
+
+p { margin: 0 0 1em; }
+
+a { color: var(--creek); text-underline-offset: .15em; }
+a:hover { color: var(--pine); }
+
+:focus-visible { outline: 3px solid var(--clay); outline-offset: 2px; }
+
+.wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 1rem; }
+
+.skip-link {
+  position: absolute; left: -999px; top: 0;
+  background: var(--paper); padding: .5rem 1rem; z-index: 10;
+}
+.skip-link:focus { left: 0; }
+
+/* ---------- Preview banner (remove at launch) ---------- */
+.preview-banner {
+  background: var(--tbd-bg);
+  border-bottom: 1px solid var(--tbd-line);
+  font-size: .9rem;
+  text-align: center;
+  padding: .4rem 1rem;
+}
+
+/* ---------- Header ---------- */
+.site-header { background: var(--pine); color: #fff; }
+.site-header .wrap {
+  display: flex; flex-wrap: wrap; align-items: center;
+  justify-content: space-between; gap: .5rem 1.5rem;
+  padding-top: .75rem; padding-bottom: .75rem;
+}
+.brand {
+  display: flex; align-items: center; gap: .6rem;
+  color: #fff; text-decoration: none;
+}
+.brand:hover { color: #fff; }
+.brand svg { flex: none; }
+.brand-name { font-family: var(--serif); font-size: 1.2rem; line-height: 1.1; }
+.brand-name small {
+  display: block; font-family: var(--sans); font-size: .75rem;
+  letter-spacing: .08em; text-transform: uppercase; opacity: .8;
+}
+
+.site-nav ul {
+  list-style: none; margin: 0; padding: 0;
+  display: flex; flex-wrap: wrap; gap: .25rem .25rem;
+}
+.site-nav a {
+  display: block; padding: .35rem .6rem; border-radius: 6px;
+  color: #fff; text-decoration: none; font-size: 1rem;
+}
+.site-nav a:hover { background: var(--pine-soft); color: #fff; }
+.site-nav a[aria-current="page"] { background: var(--pine-soft); box-shadow: inset 0 -2px 0 #e9c79f; }
+
+/* ---------- Hero ---------- */
+.hero {
+  position: relative; overflow: hidden;
+  background: linear-gradient(170deg, var(--pine) 0%, var(--pine-soft) 100%);
+  color: #fff;
+  padding: 2.5rem 0 4.5rem;
+}
+.hero h1 { color: #fff; margin-bottom: .25em; }
+.hero .lede { font-size: 1.2rem; max-width: 34rem; opacity: .95; }
+.hero .eyebrow {
+  text-transform: uppercase; letter-spacing: .12em; font-size: .85rem;
+  color: #e9c79f; margin-bottom: .5rem;
+}
+.hero-art {
+  position: absolute; left: 0; right: 0; bottom: -1px; width: 100%;
+  height: 70px; display: block;
+}
+.page-hero { padding: 2rem 0 3.5rem; }
+.page-hero h1 { font-size: clamp(1.9rem, 5vw, 2.75rem); }
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-block; padding: .7rem 1.2rem; border-radius: 999px;
+  background: var(--clay); color: #fff; font-weight: 600;
+  text-decoration: none; border: 2px solid var(--clay);
+}
+.btn:hover { background: var(--clay-dark); border-color: var(--clay-dark); color: #fff; }
+.btn-ghost { background: transparent; border-color: rgba(255,255,255,.7); }
+.btn-ghost:hover { background: rgba(255,255,255,.12); border-color: #fff; }
+.btn-row { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.25rem; }
+
+/* ---------- Sections ---------- */
+main { display: block; }
+.section { padding: 2.5rem 0; }
+.section + .section { padding-top: 0; }
+.section-alt { background: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.section-alt + .section { padding-top: 2.5rem; }
+
+.card {
+  background: var(--paper); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 1.25rem;
+}
+.card h3:last-child, .card p:last-child { margin-bottom: 0; }
+
+/* .lift pulls the first block up over the hero's hills */
+.lift { margin-top: -3rem; position: relative; }
+.visit-card { box-shadow: 0 6px 24px rgba(31,59,45,.12); }
+
+.grid { display: grid; gap: 1rem; }
+
+/* ---------- Service times ---------- */
+.times { list-style: none; margin: 0 0 1rem; padding: 0; }
+.times li {
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+  padding: .55rem 0; border-bottom: 1px dashed var(--line);
+}
+.times li:last-child { border-bottom: 0; }
+.times .day { color: var(--ink-soft); font-size: .95rem; display: block; }
+.times .what { font-weight: 600; }
+.times time { font-family: var(--serif); font-size: 1.2rem; color: var(--pine); white-space: nowrap; }
+
+address { font-style: normal; }
+
+/* ---------- Tiles (home page links) ---------- */
+.tile { display: block; text-decoration: none; color: var(--ink); height: 100%; }
+.tile:hover { border-color: var(--clay); color: var(--ink); }
+.tile h3 { color: var(--pine); }
+.tile .more { color: var(--clay); font-weight: 600; }
+
+/* ---------- FAQ (Plan a Visit) ---------- */
+.faq dt { font-family: var(--serif); font-size: 1.2rem; color: var(--pine); margin-top: 1.25rem; }
+.faq dd { margin: .25rem 0 0; }
+
+/* ---------- People ---------- */
+.person { display: grid; gap: 1rem; align-items: start; }
+.photo-placeholder {
+  aspect-ratio: 4 / 5; width: 100%; max-width: 220px;
+  border-radius: var(--radius); border: 2px dashed var(--tbd-line);
+  background: var(--tbd-bg); display: grid; place-items: center;
+  text-align: center; font-size: .9rem; color: var(--ink-soft); padding: 1rem;
+}
+
+/* ---------- [TBD] placeholders — deliberately easy to spot ---------- */
+.tbd {
+  background: var(--tbd-bg);
+  border: 1px dashed var(--tbd-line);
+  border-radius: 4px;
+  padding: 0 .3em;
+  color: #5c4500;
+  font-size: .95em;
+}
+p.tbd, div.tbd { display: block; padding: .75rem 1rem; }
+
+/* ---------- Footer ---------- */
+.site-footer { background: var(--pine); color: #e8efe9; margin-top: 2rem; padding: 2.5rem 0 1.5rem; font-size: 1rem; }
+.site-footer h2 { color: #fff; font-size: 1.15rem; margin-bottom: .5rem; }
+.site-footer a { color: #fff; }
+.site-footer ul { list-style: none; margin: 0; padding: 0; }
+.site-footer .footer-grid { display: grid; gap: 1.5rem; }
+.site-footer .fine { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--pine-soft); font-size: .85rem; opacity: .8; }
+.site-footer .tbd { color: #5c4500; }
+
+/* ---------- Wider screens ---------- */
+@media (min-width: 40rem) {
+  .grid-2 { grid-template-columns: repeat(2, 1fr); }
+  .grid-3 { grid-template-columns: repeat(2, 1fr); }
+  .person { grid-template-columns: 220px 1fr; gap: 1.5rem; }
+  .site-footer .footer-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 60rem) {
+  .grid-3 { grid-template-columns: repeat(3, 1fr); }
+  .hero { padding: 4rem 0 6rem; }
+  .hero-art { height: 110px; }
+  .page-hero { padding: 3rem 0 5rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}

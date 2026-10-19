@@ -30,3 +30,20 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - Found: no phone/email means the Contact page has nothing to show.
 - Suggestion: free church-owned email account (backlog *Proposed*);
   D7 opened for sermon audio home.
+
+## 2026-10-19 — Site skeleton (design pass)
+- Kevin asked to start the site skeleton ahead of Phase 2, focused on
+  design. Built docs/: 8 pages per the roadmap draft list (D5 still
+  open) + one stylesheet. Plain HTML/CSS, no JS, system fonts, so it
+  follows the standing D2 default (option A). D2 itself is still open.
+- Design: pine green / cream / clay palette, serif headings, 18px body,
+  hills SVG in the hero instead of photos, text wordmark + placeholder
+  mark (not a logo). Facts used: name, address, service times only
+  (confirmed in facts.md); everything else is a visible `[TBD]`.
+- Preview safeguards: "Draft preview" banner and `noindex` on every
+  page; remove both at launch.
+- Verified with Playwright at 390px and 1280px: no overflow, internal
+  links resolve, color pairs ≥ 5.4:1 contrast. Fixed stacked cards
+  overlapping on phone.
+- Suggestion: building photos to replace the illustrated header
+  (backlog *Proposed*).

@@ -27,8 +27,11 @@ their phase closes.
   parking, music style) — Claude drafts from Kevin's answers
 
 ## Phase 2 — Build V1
-- [todo] Site skeleton + shared header/footer, mobile-first — Claude
-- [todo] One page per D5 page list — Claude
+- [done] Site skeleton (runs ahead of phase, Kevin asked) — plain
+  HTML/CSS, all 8 draft-list pages with `[TBD]` placeholders, preview
+  banner + noindex — Claude, 2026-10-19. Built on D2 option A by
+  default; Jekyll conversion later is ~30 min if D2 goes B.
+- [todo] Fill page copy as church/ facts are confirmed — Claude
 - [todo] Preview link for leadership review — Claude
 
 ## Phase 3 — Review & launch
@@ -48,6 +51,13 @@ their phase closes.
   `docs/README.md`
 
 ## Proposed (not yet agreed)
+- **Building photos to replace the illustrated header** — one member,
+  15 minutes on a sunny morning: the sign at the road, the front of the
+  building, the entrance visitors should use, the sanctuary empty. No
+  people, so no consent needed (D4 still applies if anyone's in frame).
+  A real photo is the biggest single trust signal for a first-time
+  visitor, and the entrance shot answers "which door?" on Plan a Visit.
+  (Claude, 2026-10-19)
 - **Free church email (e.g. a Gmail account) for the Contact page** —
   the site currently has no way for a visitor to reach anyone. A free
   address owned by the church (not a person), with login shared between
