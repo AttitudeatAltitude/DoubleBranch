@@ -15,8 +15,7 @@ fact we're still gathering.
 |---|---|---|
 | `index.html` | Home | Service times and address first, then links to the main pages |
 | `visit.html` | Plan a Visit | First-time visitors: when, where, common questions |
-| `about.html` | About & Beliefs | Who we are, affiliation, statement of faith |
-| `staff.html` | Pastor & Staff | Pastor's photo and bio, deacons |
+| `about.html` | About | Who we are, statement of faith, and short blurbs on the pastor, deacons, and ministry leaders |
 | `sermons.html` | Sermons | Link to the Facebook livestream and past sermons |
 | `events.html` | Events & Ministries | Weekly schedule, upcoming events, ministries |
 | `give.html` | Give | Ways to give |
