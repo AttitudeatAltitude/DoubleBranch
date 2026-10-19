@@ -10,7 +10,7 @@ description: "Double Branch Baptist Church in Poteau, Oklahoma. Sunday School 10
         <p class="lede">You're welcome to join us this Sunday.</p>
         <div class="btn-row">
           <a class="btn" href="visit.html">Plan a visit</a>
-          <a class="btn btn-ghost" href="{{ site.data.church.maps_url }}">Get directions</a>
+          <a class="btn btn-ghost" href="{% include maps-url.html %}">Get directions</a>
         </div>
       </div>
   {% include hills.html %}
@@ -25,7 +25,7 @@ description: "Double Branch Baptist Church in Poteau, Oklahoma. Sunday School 10
           <div>
             <h2>Find us</h2>
             {% include address.html %}
-            <p><a href="{{ site.data.church.maps_url }}">Open in Maps</a></p>
+            <p><a href="{% include maps-url.html %}">Open in Maps</a></p>
             <p>First time here? <a href="visit.html">Here's what to expect.</a></p>
           </div>
         </div>

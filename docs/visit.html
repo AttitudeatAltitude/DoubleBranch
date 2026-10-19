@@ -15,7 +15,7 @@ lede: "Here's what to expect, so you can walk in knowing what's ahead."
         <div class="card visit-card">
           <h2>Where</h2>
           {% include address.html %}
-          <p><a class="btn" href="{{ site.data.church.maps_url }}">Get directions</a></p>
+          <p><a class="btn" href="{% include maps-url.html %}">Get directions</a></p>
           <p>Watch for the bend in the road:</p>
           <ul class="directions">
             <li><strong>Heading north:</strong> the church is on your left, just around the bend.</li>

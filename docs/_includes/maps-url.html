@@ -1,0 +1,6 @@
+{%- comment -%} Directions link: uses the exact pin from _data/church.yml when set, otherwise searches the address. {%- endcomment -%}
+{%- if site.data.church.map_pin -%}
+https://www.google.com/maps/dir/?api=1&amp;destination={{ site.data.church.map_pin | remove: " " | url_encode }}
+{%- else -%}
+{{ site.data.church.maps_url }}
+{%- endif -%}

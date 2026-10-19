@@ -58,7 +58,7 @@
         <div>
           <h2>{{ church.name }}</h2>
           {% include address.html %}
-          <p><a href="{{ church.maps_url }}">Get directions</a></p>
+          <p><a href="{% include maps-url.html %}">Get directions</a></p>
         </div>
         <div>
           <h2>Service times</h2>

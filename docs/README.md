@@ -19,7 +19,7 @@ in one place, so you change them once:
 | To change… | Edit this file |
 |---|---|
 | Service times (every page) | `_data/services.yml` |
-| Church name, address, map link | `_data/church.yml` |
+| Church name, address, map link, exact map pin | `_data/church.yml` |
 | Upcoming events | `_data/events.yml` |
 | Ministries list | `_data/ministries.yml` |
 | Menu at the top | `_data/nav.yml` |
