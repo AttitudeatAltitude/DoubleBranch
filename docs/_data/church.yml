@@ -8,4 +8,4 @@ maps_url: https://www.google.com/maps/search/?api=1&query=18650+Old+Highway+112%
 # Google places the address too far down the road, so the
 # "Get directions" buttons use this pin when it's filled in.
 # Leave blank to fall back to searching the address above.
-map_pin:
+map_pin: 35.073058,-94.588978
