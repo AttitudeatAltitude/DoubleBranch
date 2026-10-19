@@ -41,9 +41,9 @@ their phase closes.
   ministries in `docs/_data/`; preview banner + noindex via
   `preview:` in `_config.yml` — Claude, 2026-10-19
 - [todo] Fill page copy as church/ facts are confirmed — Claude
-- [blocked] Preview link: make repo public, then Settings → Pages →
-  deploy from `main`, `/docs` — Kevin (repo settings), since 2026-10-19.
-  URL will be https://attitudeataltitude.github.io/DoubleBranch/
+- [done] Preview link live: https://attitudeataltitude.github.io/DoubleBranch/
+  — repo public + Pages from `main` `/docs` (Kevin), first deploy
+  verified 2026-10-19
 
 ## Phase 3 — Review & launch
 - [todo] Leadership full-site review → approvals-log.md — Kevin →
