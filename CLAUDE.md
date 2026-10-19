@@ -125,14 +125,16 @@ Default branch is `main`. Each web session gets its own working branch.
   2. The change touches any CLAUDE.md or other standing-instruction
      file — leave it on the session branch and ask for review.
   3. **The publish gate** (below) isn't satisfied.
-- **Publish gate.** Once GitHub Pages is live (see
-  `project/roadmap.md`), merging to `main` publishes the site. After
-  that, any change to public *content* in `docs/` — wording, facts,
-  photos, new pages — merges only when `project/approvals-log.md` has a
+- **Publish gate.** Launch is when `preview:` in `docs/_config.yml`
+  is set to `false` (Phase 3, `project/roadmap.md`). After launch, any
+  change to public *content* in `docs/` — wording, facts, photos, new
+  pages — merges only when `project/approvals-log.md` has a
   leadership-approval entry covering it. Purely technical fixes (broken
   link, layout bug, accessibility fix, typo) don't need approval; say
-  in the commit message that it's technical-only. Before launch,
-  nothing is published, so `docs/` work merges normally.
+  in the commit message that it's technical-only. Before launch, the
+  site may be online as a draft preview (banner + noindex) and `docs/`
+  work merges normally — but the draft is reachable by anyone with the
+  link, so the Privacy rule applies to it in full.
 - **Session closeout — ask, don't assume.** When Kevin says to close
   out / wrap up / finish, ask whether to merge the current branch into
   `main` first. If it's already merged, say so. If it's held under an
