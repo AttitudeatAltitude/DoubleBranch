@@ -39,3 +39,10 @@ explicit dated note.
   data-file typo fails the Pages build (last good site stays up; GitHub
   emails the error). Reopen if: a successor finds it harder than plain
   HTML in practice.
+- **D1 repo visibility: public** — Kevin. Why: free GitHub Pages, and
+  a shareable draft preview now. History scanned first: no private
+  content; the initial commit's author email is Kevin's personal Gmail
+  and becomes public (Kevin told). Leadership hasn't been told yet;
+  the preview carries a draft banner and noindex. Reopen if:
+  leadership objects, or private content ever needs to live here.
+- **docs/CLAUDE.md Jekyll stack wording approved** — Kevin. Merged.

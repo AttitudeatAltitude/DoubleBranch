@@ -4,18 +4,8 @@ STATE — budget 600 words. Each: who decides, options,
 recommendation. Remove once decided (→ decisions-log.md).
 
 **Leadership list (take as one conversation):** OK to proceed, D6
-how approvals work, D1 visibility, D3 giving provider, D4 photo
+how approvals work (and the draft preview is already online), D3 giving provider, D4 photo
 policy, D7 sermon audio home, church email (backlog *Proposed*).
-
-## D1 — Repo visibility / hosting — Kevin, then leadership OK
-Free GitHub Pages needs a public repo; private needs GitHub Pro
-(~$4/mo, verify current price).
-- A. Public repo, free (works because root Privacy rule already keeps
-  the repo public-safe). **Recommended.**
-- B. Private + GitHub Pro.
-Needed by: Phase 3. Site served at
-`attitudeataltitude.github.io/DoubleBranch` until a domain is bought
-(Phase 4, optional).
 
 ## D3 — Online giving provider — leadership (and whoever handles
 finances)
