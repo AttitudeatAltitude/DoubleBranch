@@ -26,3 +26,6 @@ is kept (never this repo) · files it fed.
 - Corrected street address (18670 Old Highway 112) after the County
   Road E1340 address didn't populate properly on the preview — Kevin, in chat
   — fed facts.md, docs/_data/church.yml.
+- Street number may be 18650, not 18670 (Kevin unsure) — Kevin, in
+  chat — fed facts.md (unconfirmed), docs/_data/church.yml for a
+  map-pin test.
