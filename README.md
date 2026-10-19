@@ -2,8 +2,8 @@
 
 Building a first website for Double Branch Baptist Church (Poteau, OK),
 for both the congregation and first-time visitors. Claude acts as
-project manager and builder; the pastor approves content before it goes
-public.
+project manager and builder; the church leadership team approves content
+before it goes public.
 
 ## Folders
 

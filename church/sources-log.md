@@ -8,3 +8,6 @@ is kept (never this repo) · files it fed.
   facts only) — fed facts.md.
 - Current streaming setup and YouTube intent — Kevin, in chat — fed
   media.md.
+- Street address, four service times, bylaws exist, no media budget,
+  audio-first OK, approvals by leadership team — Kevin, in chat — fed
+  facts.md, beliefs.md, media.md.

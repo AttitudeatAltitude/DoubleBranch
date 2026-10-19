@@ -7,15 +7,16 @@ site.
 ## Identity
 - Name: Double Branch Baptist Church — confirmed (Kevin, 2026-10-19)
 - City: Poteau, Oklahoma — confirmed (Kevin, 2026-10-19)
-- Street address: unknown
+- Street address: 18670 County Road E1340, Poteau, OK 74953 —
+  confirmed (Kevin, 2026-10-19)
 - Affiliation (SBC / BMA / independent / other): unknown
 - Founded: unknown
 
 ## Services
-- Sunday morning worship: unknown
-- Sunday school: unknown
-- Sunday evening: unknown
-- Wednesday / midweek: unknown
+- Sunday school: 10:00 AM — confirmed (Kevin, 2026-10-19)
+- Sunday morning worship: 11:00 AM — confirmed (Kevin, 2026-10-19)
+- Sunday evening service: 6:00 PM — confirmed (Kevin, 2026-10-19)
+- Wednesday Bible study: 7:00 PM — confirmed (Kevin, 2026-10-19)
 - Typical service length, music style, dress: unknown
 
 ## Contact
@@ -24,7 +25,7 @@ site.
 - Mailing address (if different): unknown
 
 ## People (public-approved only)
-- Pastor: unknown — name/bio/photo need pastor's OK to publish
+- Pastor: unknown — name/bio/photo need the pastor's OK to publish
 - Other staff/deacons to list: unknown
 
 ## Online presence

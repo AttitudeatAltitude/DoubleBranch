@@ -3,10 +3,11 @@
 STATE — budget 600 words. Each: who decides, options,
 recommendation. Remove once decided (→ decisions-log.md).
 
-**Pastor list (take as one conversation):** D1 hosting/visibility
-approval, D3 giving provider, D4 photo policy, plus "OK to proceed."
+**Leadership list (take as one conversation):** OK to proceed, D6
+how approvals work, D1 visibility, D3 giving provider, D4 photo
+policy.
 
-## D1 — Repo visibility / hosting — Kevin, then pastor OK
+## D1 — Repo visibility / hosting — Kevin, then leadership OK
 Free GitHub Pages needs a public repo; private needs GitHub Pro
 (~$4/mo, verify current price).
 - A. Public repo, free (works because root Privacy rule already keeps
@@ -24,18 +25,28 @@ Needed by: Phase 3. Site served at
   edits like a form. **Recommended.**
 Needed by: start of Phase 2.
 
-## D3 — Online giving provider — pastor (and whoever handles finances)
-No provider today. Options to research and price before the pastor
+## D3 — Online giving provider — leadership (and whoever handles
+finances)
+No provider today. Options to research and price before leadership
 decides: Tithe.ly, Givelify, Subsplash, Pushpay, or the church's bank's
 own tool. Compare: fees per gift, monthly cost, payout timing, text-to-
 give, recurring gifts, who can see donor data.
 Recommendation: pending research (Claude, Phase 1). Fallback for V1:
 Give page with mailing address + "give in person" until chosen.
 
-## D4 — Photo policy — pastor
+## D4 — Photo policy — leadership
 Proposed: no identifiable children; adults only with consent;
 building/grounds/groups-from-behind fine; who can say yes to a photo.
 Recommendation: adopt as written. (Kevin agreed 2026-10-19.)
 
 ## D5 — V1 page list — Kevin
 Draft in roadmap.md Phase 2. Confirm or edit before Phase 2.
+
+## D6 — How leadership approval works — Kevin, then leadership
+Approvals come from the leadership team, not the pastor alone (Kevin,
+2026-10-19). Undecided: who is on it (roles, not names, in this repo);
+does one designated member's OK count, or the whole team; how review
+happens (shared preview link + reply, or a meeting).
+Recommendation: one designated approver (e.g. the pastor) signs off on
+behalf of the team after they've had the preview link for a week —
+keeps approvals from stalling on a full meeting.

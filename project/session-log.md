@@ -13,3 +13,12 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   Faith/practices.md (only public facts copied).
 - Suggestions made: Google Business Profile; events inbox;
   audio-first sermon archive (all in backlog.md *Proposed*).
+
+## 2026-10-19 — Setup follow-up
+- Kevin approved CLAUDE.md files → merged to main.
+- Recorded address + service times (confirmed), bylaws to-do,
+  audio-only first with $0 budget, leadership-team approvals.
+- Leadership change applied to non-instruction files directly; CLAUDE.md
+  wording held on branch per root exception 2.
+- Suggestion: verify the map pin for the county-road address (backlog
+  *Proposed*).

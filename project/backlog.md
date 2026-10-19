@@ -6,20 +6,23 @@ their phase closes.
 
 ## Phase 0 — Setup & decisions
 - [done] Repo structure + CLAUDE.md files drafted — Claude, 2026-10-19
-- [blocked] Review and approve CLAUDE.md files — Kevin, since 2026-10-19
-- [todo] Tell the pastor about the project; get an OK to proceed and
-  agreement on how approvals will work — Kevin
-- [todo] Decide D1–D4 (decisions-needed.md) — Kevin / pastor
+- [done] CLAUDE.md files approved — Kevin, 2026-10-19
+- [blocked] Review leadership-team approval change to CLAUDE.md files —
+  Kevin, since 2026-10-19
+- [todo] Tell the pastor/leadership team about the project; get an OK
+  to proceed and agreement on how approvals will work (D6) — Kevin
+- [todo] Decide D1–D6 (decisions-needed.md) — Kevin / leadership
 
 ## Phase 1 — Content gathering
-- [todo] Fill facts.md: address, service times, phone/email (church,
-  not personal), affiliation — Kevin
-- [todo] Get the statement of faith in the church's own words (church
-  constitution/bylaws or covenant if one exists) — Kevin → pastor
+- [doing] Fill facts.md — address + service times done 2026-10-19;
+  remaining: church phone/email, affiliation — Kevin
+- [todo] **Get a copy of the church bylaws** (photo or scan is fine)
+  — Kevin. Feeds beliefs.md and possibly ministries/leadership
+  structure. Original stays outside the repo; distil only.
 - [todo] List ministries + recurring events with times and contact role
   — Kevin
 - [todo] Pastor bio + photo, with permission to publish — Kevin → pastor
-- [todo] Photo policy (no identifiable kids) approved by pastor; collect
+- [todo] Photo policy (no identifiable kids) approved by leadership; collect
   5–10 building/worship photos — Kevin
 - [todo] Draft "what to expect" visitor copy (dress, length, kids,
   parking, music style) — Claude drafts from Kevin's answers
@@ -27,17 +30,21 @@ their phase closes.
 ## Phase 2 — Build V1
 - [todo] Site skeleton + shared header/footer, mobile-first — Claude
 - [todo] One page per D5 page list — Claude
-- [todo] Preview link for pastor review — Claude
+- [todo] Preview link for leadership review — Claude
 
 ## Phase 3 — Review & launch
-- [todo] Pastor full-site review → approvals-log.md — Kevin → pastor
+- [todo] Leadership full-site review → approvals-log.md — Kevin →
+  leadership
 - [todo] Enable GitHub Pages (after D1) — Kevin (repo settings)
 - [todo] Link site from Facebook page — whoever runs it
 
 ## Phase 4 — Post-launch
-- [todo] Streaming equipment recommendation (camera, audio feed from
-  soundboard, tripod, encoder/phone mount) at 2–3 budget levels —
-  Claude researches; Kevin supplies budget + room details
+- [todo] **Audio sermon recording guide** — agreed 2026-10-19, may
+  start before Phase 4. Step-by-step weekly instructions + equipment
+  options led by a $0 tier (no budget yet). Blocked on soundboard
+  details (church/media.md) — Kevin
+- [todo] Video/camera upgrade recommendation — deferred until audio is
+  running and a budget exists
 - [todo] YouTube channel setup + migration plan from Facebook
 - [todo] Name a second maintainer; write the editing guide in
   `docs/README.md`
@@ -51,6 +58,8 @@ their phase closes.
   email or text thread) where ministry leaders send event updates, so
   events.md doesn't depend on Kevin hearing about things. (Claude,
   2026-10-19)
-- **Audio-first sermon archive** — even before the camera upgrade, the
-  soundboard audio could feed a podcast-style sermon list; cheaper and
-  better quality than phone video. (Claude, 2026-10-19)
+- **Check the map pin before launch** — rural county-road addresses
+  often geocode to the wrong spot in Google/Apple Maps. Search the
+  address on both from a phone; if the pin is off, the Google Business
+  Profile fixes it, and the Plan a Visit page should add a landmark
+  ("from Hwy __, turn at __"). 10 minutes. (Claude, 2026-10-19)

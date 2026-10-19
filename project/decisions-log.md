@@ -17,3 +17,11 @@ explicit dated note.
 - **Photos: no identifiable children** — Kevin; pending pastor (D4).
 - **Git: LifeOS rules + publish gate** — Kevin. After launch, public
   content changes need logged pastor approval before merging to main.
+
+- **CLAUDE.md files approved** — Kevin. Merged to main.
+- **Approvals come from the leadership team, not the pastor alone** —
+  Kevin. Mechanics open as D6. CLAUDE.md wording change held for review.
+- **Sermons: audio-only first; no media budget** — Kevin. Why: no
+  budget; audio is cheaper and an improvement over phone video. Reopen
+  when a budget exists.
+- **Bylaws exist; copy to be obtained** — Kevin.
