@@ -2,9 +2,10 @@
 
 OVERWRITE — budget 250 words.
 
-1. **Kevin: make the repo public, then turn on Pages** (Settings →
-   Pages → Deploy from a branch → `main`, `/docs`). Preview:
-   https://attitudeataltitude.github.io/DoubleBranch/
+1. **Kevin: try the preview on your phone**:
+   https://attitudeataltitude.github.io/DoubleBranch/. Check the times
+   and address are quick to find, "Get directions" opens Maps, and the
+   pin lands at the bend.
 2. **Kevin: tell the pastor the draft is online** — it's reachable by
    link, though unlisted. Fold into the leadership conversation (D6,
    D4, D3, D7, church email, leader blurbs).
