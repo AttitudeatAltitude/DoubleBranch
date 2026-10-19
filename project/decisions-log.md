@@ -32,3 +32,10 @@ explicit dated note.
   pastor, deacons, and ministry leaders instead. V1 is now 7 pages:
   Home, Plan a Visit, About, Sermons, Events & Ministries, Give,
   Contact. Reopen if: the leaders section outgrows the About page.
+- **D2 site stack: Jekyll (GitHub Pages' built-in)** — Kevin. Why:
+  service times appeared in 10 places in plain HTML; Jekyll keeps
+  shared pieces (header, footer, times) and changing lists (events,
+  ministries) in one file each, with no tooling on our side. Cost: a
+  data-file typo fails the Pages build (last good site stays up; GitHub
+  emails the error). Reopen if: a successor finds it harder than plain
+  HTML in practice.
