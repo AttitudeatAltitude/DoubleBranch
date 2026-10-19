@@ -2,17 +2,19 @@
 
 OVERWRITE — budget 250 words.
 
-1. **Kevin: approve audio-guide.md's listing** in church/CLAUDE.md
-   (held on `claude/church-website-setup`).
-2. **Kevin: check the L-20 for an SD card**, then try one test
-   recording (Wednesday is a good low-stakes run) using
-   church/audio-guide.md. Report what didn't match the board.
-3. **Kevin: one conversation with the pastor and deacons** — OK to
-   proceed, D6, D1, D4, D3, D7, and a church email account. List in
+1. **Kevin: look over the skeleton** (docs/, screenshots shared in
+   session). Say what to change in the look: colors, fonts, the hills
+   header, the page order. Confirm or edit the page list (D5) and pick
+   the stack (D2). Option A is what's built.
+2. **Kevin: answer the six Plan a Visit questions** (dress, service
+   length, music, kids, parking/door, accessibility). That's the most-
+   read page and has the most `[TBD]`s. A text-message answer is fine.
+3. **Kevin: check the L-20 for an SD card**, then do one test recording
+   per church/audio-guide.md.
+4. **Kevin: one conversation with the pastor and deacons**: OK to
+   proceed, D6, D1, D4, D3, D7, church email. List in
    decisions-needed.md.
-4. **Kevin: bylaws copy** — unblocks beliefs.md; may also name the
-   affiliation.
 
-Why this order: the test recording is free and independent of every
-decision; leadership's OK is the only thing that could change the
-project's direction.
+Why this order: design feedback is cheapest now, before content fills
+the pages. Visitor answers come from Kevin alone. Leadership's OK is
+still the only thing that could change the project's direction.
