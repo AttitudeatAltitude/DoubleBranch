@@ -14,7 +14,8 @@ their phase closes.
 
 ## Phase 1 — Content gathering
 - [doing] Fill facts.md — remaining: which Baptist body the church is
-  affiliated with — Kevin
+  affiliated with; Facebook page link (Sermons + Contact pages); year
+  founded; mailing address if different — Kevin
 - [todo] **Get a copy of the church bylaws** (photo or scan is fine)
   — Kevin. Feeds beliefs.md and possibly ministries/leadership
   structure. Original stays outside the repo; distil only.
@@ -36,8 +37,8 @@ their phase closes.
   before launch, e.g. from the church's mail or a utility bill — Kevin
 - [todo] Remaining visitor answers: nursery/children's class ages and
   when each meets — Kevin
-- [todo] Draft "what to expect" visitor copy (dress, length, kids,
-  parking, music style) — Claude drafts from Kevin's answers
+- [done] "What to expect" copy on Plan a Visit from Kevin's answers —
+  Claude, 2026-10-19
 
 ## Phase 2 — Build V1
 - [done] Site skeleton (runs ahead of phase, Kevin asked) — 7 pages
@@ -63,8 +64,8 @@ their phase closes.
 - [todo] Video/camera upgrade recommendation — deferred until audio is
   running and a budget exists
 - [todo] YouTube channel setup + migration plan from Facebook
-- [todo] Name a second maintainer; write the editing guide in
-  `docs/README.md`
+- [todo] Name a second maintainer (editing guide already in
+  `docs/README.md`)
 
 ## Proposed (not yet agreed)
 - **Search-engine "church card" data** — add a hidden block to the
