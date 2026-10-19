@@ -25,3 +25,5 @@ explicit dated note.
   budget; audio is cheaper and an improvement over phone video. Reopen
   when a budget exists.
 - **Bylaws exist; copy to be obtained** — Kevin.
+- **Leadership approval wording in CLAUDE.md files approved** — Kevin.
+  Leadership team = pastor and deacons.

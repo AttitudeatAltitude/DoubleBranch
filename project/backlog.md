@@ -7,15 +7,14 @@ their phase closes.
 ## Phase 0 — Setup & decisions
 - [done] Repo structure + CLAUDE.md files drafted — Claude, 2026-10-19
 - [done] CLAUDE.md files approved — Kevin, 2026-10-19
-- [blocked] Review leadership-team approval change to CLAUDE.md files —
-  Kevin, since 2026-10-19
+- [done] Leadership-team approval wording merged — Kevin, 2026-10-19
 - [todo] Tell the pastor/leadership team about the project; get an OK
   to proceed and agreement on how approvals will work (D6) — Kevin
 - [todo] Decide D1–D6 (decisions-needed.md) — Kevin / leadership
 
 ## Phase 1 — Content gathering
-- [doing] Fill facts.md — address + service times done 2026-10-19;
-  remaining: church phone/email, affiliation — Kevin
+- [doing] Fill facts.md — remaining: which Baptist body the church is
+  affiliated with — Kevin
 - [todo] **Get a copy of the church bylaws** (photo or scan is fine)
   — Kevin. Feeds beliefs.md and possibly ministries/leadership
   structure. Original stays outside the repo; distil only.
@@ -39,10 +38,9 @@ their phase closes.
 - [todo] Link site from Facebook page — whoever runs it
 
 ## Phase 4 — Post-launch
-- [todo] **Audio sermon recording guide** — agreed 2026-10-19, may
-  start before Phase 4. Step-by-step weekly instructions + equipment
-  options led by a $0 tier (no budget yet). Blocked on soundboard
-  details (church/media.md) — Kevin
+- [doing] **Sermon audio** (runs ahead of Phase 4) — guide drafted
+  (church/audio-guide.md). Next: confirm an SD card is in the L-20; one
+  test recording; pick where audio lives (D7) — Kevin
 - [todo] Video/camera upgrade recommendation — deferred until audio is
   running and a budget exists
 - [todo] YouTube channel setup + migration plan from Facebook
@@ -50,6 +48,12 @@ their phase closes.
   `docs/README.md`
 
 ## Proposed (not yet agreed)
+- **Free church email (e.g. a Gmail account) for the Contact page** —
+  the site currently has no way for a visitor to reach anyone. A free
+  address owned by the church (not a person), with login shared between
+  2 people on the leadership team, solves it in 15 minutes and survives
+  volunteers changing. Optionally a free Google Voice number later.
+  Needs leadership OK. (Claude, 2026-10-19)
 - **Google Business Profile** — free; it's what shows when someone
   searches "Baptist church Poteau" or opens Maps. Arguably more visitors
   will find the church through it than through the site itself. Needs

@@ -9,7 +9,8 @@ site.
 - City: Poteau, Oklahoma — confirmed (Kevin, 2026-10-19)
 - Street address: 18670 County Road E1340, Poteau, OK 74953 —
   confirmed (Kevin, 2026-10-19)
-- Affiliation (SBC / BMA / independent / other): unknown
+- Affiliation: affiliated with a Baptist body (Kevin, 2026-10-19) — which one
+  unknown
 - Founded: unknown
 
 ## Services
@@ -20,13 +21,15 @@ site.
 - Typical service length, music style, dress: unknown
 
 ## Contact
-- Church phone: unknown
-- Church email: unknown (none may exist — see D-list if so)
+- Church phone: none (Kevin, 2026-10-19)
+- Church email: none (Kevin, 2026-10-19) — Contact page has no contact
+  method yet; see backlog *Proposed*
 - Mailing address (if different): unknown
 
 ## People (public-approved only)
 - Pastor: unknown — name/bio/photo need the pastor's OK to publish
-- Other staff/deacons to list: unknown
+- Leadership team: pastor and deacons (Kevin, 2026-10-19); names not
+  recorded here until approved for the site
 
 ## Online presence
 - Facebook page: exists, used for live sermon broadcast — URL unknown

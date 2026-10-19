@@ -22,3 +22,11 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   wording held on branch per root exception 2.
 - Suggestion: verify the map pin for the county-road address (backlog
   *Proposed*).
+
+## 2026-10-19 — Soundboard + contact gap
+- Merged leadership-team CLAUDE.md wording (approved).
+- L-20 records to SD card → $0 audio path; drafted church/audio-guide.md
+  (new REFERENCE file; church/CLAUDE.md file list held for review).
+- Found: no phone/email means the Contact page has nothing to show.
+- Suggestion: free church-owned email account (backlog *Proposed*);
+  D7 opened for sermon audio home.

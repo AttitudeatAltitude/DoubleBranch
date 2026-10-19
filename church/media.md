@@ -14,7 +14,12 @@ STATE — budget 600 words.
   upgrade deferred.
 - Budget: none currently (Kevin, 2026-10-19). Recommendations must lead
   with a $0 option using what the church already has.
-- Needed before an audio recommendation: soundboard make/model and its
-  spare outputs (record out, aux, USB), whether a computer is available
-  at the board, who would run it each week. Unknown.
+- Soundboard: **Zoom LiveTrak L-20** (Kevin, 2026-10-19). Records to SD card
+  (20 channels + stereo mix, WAV 44.1/48/96 kHz, 16/24-bit) and works as
+  a USB audio interface (retailer spec listings, 2026-10-19). SD-card
+  recording means no computer needed — $0 path, plus ~$10 SD card if
+  none. Steps in audio-guide.md.
+- No computer at the board (Kevin, 2026-10-19).
+- Unknown: whether an SD card is already in the board; who runs the
+  board weekly; where sermon audio will be published (D7).
 - Still needed later for video: room size, lighting, upload speed.
