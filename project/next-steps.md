@@ -2,16 +2,19 @@
 
 OVERWRITE — budget 250 words.
 
-1. **Kevin: review the docs/CLAUDE.md stack wording** on branch
-   `claude/docs-claude-jekyll` (records D2 in the standing rules).
-2. **Building photos** on a clear morning or late afternoon while fall
-   color lasts (backlog Phase 1 has the shot list).
-3. **Kevin: nursery/children's class ages and when each meets**; check
-   the map pin for the address on Google and Apple Maps.
-4. **Kevin: one conversation with the pastor and deacons**: OK to
-   proceed, D6, D1, D4, D3, D7, church email, OK to ask each leader for
-   a name and 1–2 sentence blurb.
+1. **Kevin: approve the publish-gate wording** on branch
+   `claude/publish-gate-preview` (gate starts at launch, not when
+   Pages turns on). Without it, every draft edit needs leadership sign-
+   off once Pages is on.
+2. **Kevin: make the repo public, then turn on Pages** (Settings →
+   Pages → Deploy from a branch → `main`, `/docs`). Preview:
+   https://attitudeataltitude.github.io/DoubleBranch/
+3. **Kevin: tell the pastor the draft is online** — it's reachable by
+   link, though unlisted. Fold into the leadership conversation (D6,
+   D4, D3, D7, church email, leader blurbs).
+4. **Building photos** while fall color lasts; nursery/children's class
+   ages.
 
-Why this order: the CLAUDE.md review is quick and keeps the rules in
-sync with the site; photos are time-sensitive (foliage); leadership's
-OK is still the gate for publishing names.
+Why this order: the gate wording decides whether we can keep iterating
+on the draft once it's online; the pastor should hear about the site
+from Kevin before stumbling on it.
