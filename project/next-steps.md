@@ -2,16 +2,14 @@
 
 OVERWRITE — budget 250 words.
 
-1. **Kevin: try the preview on your phone**:
-   https://attitudeataltitude.github.io/DoubleBranch/. Check the times
-   and address are quick to find, "Get directions" opens Maps, and the
-   pin lands at the bend.
-2. **Kevin: tell the pastor the draft is online** — it's reachable by
-   link, though unlisted. Fold into the leadership conversation (D6,
-   D4, D3, D7, church email, leader blurbs).
-3. **Building photos** while fall color lasts; nursery/children's class
-   ages.
+1. **Kevin: tell the pastor the draft is online**, then hold the one
+   leadership conversation: OK to proceed, D6, D4, D3, D7, church
+   email, OK to ask leaders for About-page blurbs.
+2. **Building photos** while fall color lasts (late Oct–early Nov).
+3. **Kevin: quick facts** — street number (18650 vs 18670), nursery /
+   children's class ages, Facebook page link, affiliation.
+4. **Kevin: L-20 SD card + one test recording** (church/audio-guide.md).
 
-Why this order: the preview link is the next thing to try out; the
-pastor should hear about the site
-from Kevin before stumbling on it.
+Why this order: leadership's OK gates names, photos of people, and
+launch; photos are time-sensitive; the facts are quick and fill the
+most-visited pages.
