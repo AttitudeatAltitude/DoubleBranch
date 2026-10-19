@@ -17,7 +17,7 @@ Agree the photo policy and collect a first set of approved photos.
 Exit when: every fact the V1 pages need is `confirmed`, or knowingly
 deferred with `[TBD]`.
 
-## Phase 2 — Build V1 — NOT STARTED
+## Phase 2 — Build V1 — NOT STARTED (skeleton built early)
 Pages (draft list, pending D5): Home · Plan a Visit (what to expect,
 service times, map, parking/kids/dress) · About & Beliefs · Our Pastor
 & Staff · Sermons (link/embed Facebook) · Events & Ministries · Give ·
