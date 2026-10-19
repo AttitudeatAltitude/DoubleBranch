@@ -97,3 +97,10 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   local `/docs` build 7,171 B gzipped (zip wrapper accounts for the
   difference) → Pages built from `/docs`; notes and CLAUDE files not
   published.
+
+## 2026-10-19 — Address correction
+- Kevin: address didn't populate properly on the preview → street
+  address now 18670 Old Highway 112 (city/ZIP unchanged). Updated
+  facts.md first, then `_data/church.yml` (address + Maps link) and
+  contact.html's description. Built and checked: new address on all 7
+  pages, old one gone.
