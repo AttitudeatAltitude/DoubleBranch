@@ -21,3 +21,5 @@ is kept (never this repo) · files it fed.
   newer songs to tracks, parking obvious, no stairs) and leaders to
   feature (pastor, deacons, ministry leaders) — Kevin, in chat — fed
   facts.md.
+- Nursery + children's class, directions near the bend (no landmark) —
+  Kevin, in chat — fed facts.md.
