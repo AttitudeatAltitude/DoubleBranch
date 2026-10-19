@@ -115,3 +115,6 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - 18650 pinned the house next door. Kevin sent coordinates → `map_pin`
   set; Directions links now route to the exact point. Street number
   still unconfirmed (backlog).
+- Closeout: all branches merged to main; backlog tidied (visitor copy
+  done, editing guide done, missing facts listed). Street number left
+  open at Kevin's request.
