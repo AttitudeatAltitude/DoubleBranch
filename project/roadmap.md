@@ -8,7 +8,7 @@ STATE — budget 600 words. Phases, exit criteria, status.
 Repo structure and standing instructions in place; leadership on board;
 foundational decisions made.
 Exit when: Kevin approves the CLAUDE.md files; leadership has OK'd the
-project; decisions D1–D6 in decisions-needed.md are made.
+project; decisions D1–D6 are made (D1, D2, D5 done).
 
 ## Phase 1 — Content gathering — NOT STARTED
 Fill `church/` with confirmed facts: service times, address, contact,
@@ -27,7 +27,7 @@ and preview is shareable with leadership.
 
 ## Phase 3 — Review & launch — NOT STARTED
 Leadership reviews the full site; approvals logged; repo visibility and
-hosting settled (D1); GitHub Pages turned on; Google Business Profile
+preview mode turned off (`preview: false`); Google Business Profile
 and Facebook page link to the site.
 Exit when: site is live and findable by searching the church name.
 

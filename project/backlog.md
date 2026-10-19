@@ -10,7 +10,7 @@ their phase closes.
 - [done] Leadership-team approval wording merged — Kevin, 2026-10-19
 - [todo] Tell the pastor/leadership team about the project; get an OK
   to proceed and agreement on how approvals will work (D6) — Kevin
-- [todo] Decide D1–D6 (decisions-needed.md) — Kevin / leadership
+- [todo] Decide D3, D4, D6, D7 (decisions-needed.md) — Kevin / leadership
 
 ## Phase 1 — Content gathering
 - [doing] Fill facts.md — remaining: which Baptist body the church is
@@ -41,12 +41,15 @@ their phase closes.
   ministries in `docs/_data/`; preview banner + noindex via
   `preview:` in `_config.yml` — Claude, 2026-10-19
 - [todo] Fill page copy as church/ facts are confirmed — Claude
-- [todo] Preview link for leadership review — Claude
+- [blocked] Preview link: make repo public, then Settings → Pages →
+  deploy from `main`, `/docs` — Kevin (repo settings), since 2026-10-19.
+  URL will be https://attitudeataltitude.github.io/DoubleBranch/
 
 ## Phase 3 — Review & launch
 - [todo] Leadership full-site review → approvals-log.md — Kevin →
   leadership
-- [todo] Enable GitHub Pages (after D1) — Kevin (repo settings)
+- [todo] Launch: set `preview: false` in docs/_config.yml after
+  leadership approval — Claude
 - [todo] Link site from Facebook page — whoever runs it
 
 ## Phase 4 — Post-launch
