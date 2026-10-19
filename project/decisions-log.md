@@ -27,3 +27,8 @@ explicit dated note.
 - **Bylaws exist; copy to be obtained** — Kevin.
 - **Leadership approval wording in CLAUDE.md files approved** — Kevin.
   Leadership team = pastor and deacons.
+- **D5 page list: Pastor & Staff merged into About** — Kevin. Why: the
+  church has no staff in the usual sense; About carries blurbs for the
+  pastor, deacons, and ministry leaders instead. V1 is now 7 pages:
+  Home, Plan a Visit, About, Sermons, Events & Ministries, Give,
+  Contact. Reopen if: the leaders section outgrows the About page.

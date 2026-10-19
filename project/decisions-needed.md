@@ -39,9 +39,6 @@ Proposed: no identifiable children; adults only with consent;
 building/grounds/groups-from-behind fine; who can say yes to a photo.
 Recommendation: adopt as written. (Kevin agreed 2026-10-19.)
 
-## D5 — V1 page list — Kevin
-Draft in roadmap.md Phase 2. Confirm or edit before Phase 2.
-
 ## D6 — How leadership approval works — Kevin, then leadership
 Approvals come from the leadership team — the pastor and deacons
 (Kevin, 2026-10-19). Undecided: does one designated member's OK count,
