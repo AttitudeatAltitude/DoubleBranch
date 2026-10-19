@@ -23,3 +23,6 @@ is kept (never this repo) · files it fed.
   facts.md.
 - Nursery + children's class, directions near the bend (no landmark) —
   Kevin, in chat — fed facts.md.
+- Corrected street address (18670 Old Highway 112) after the County
+  Road E1340 address didn't populate properly on the preview — Kevin, in chat
+  — fed facts.md, docs/_data/church.yml.

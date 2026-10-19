@@ -7,8 +7,9 @@ site.
 ## Identity
 - Name: Double Branch Baptist Church — confirmed (Kevin, 2026-10-19)
 - City: Poteau, Oklahoma — confirmed (Kevin, 2026-10-19)
-- Street address: 18670 County Road E1340, Poteau, OK 74953 —
-  confirmed (Kevin, 2026-10-19)
+- Street address: 18670 Old Highway 112, Poteau, OK 74953 — confirmed
+  (Kevin, 2026-10-19). Replaces 18670 County Road E1340, which didn't
+  populate properly on the preview; city/ZIP carried over unchanged
 - Directions: no clear landmark. Heading north: church on the left,
   just around the bend. Heading west: on the right, just before the
   bend — confirmed (Kevin, 2026-10-19)
