@@ -1,0 +1,13 @@
+# The menu at the top of every page, in order.
+- title: Plan a Visit
+  url: visit.html
+- title: About
+  url: about.html
+- title: Sermons
+  url: sermons.html
+- title: Events & Ministries
+  url: events.html
+- title: Give
+  url: give.html
+- title: Contact
+  url: contact.html

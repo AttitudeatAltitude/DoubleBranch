@@ -161,9 +161,17 @@ main { display: block; }
 .times li:last-child { border-bottom: 0; }
 .times .day { color: var(--ink-soft); font-size: .95rem; display: block; }
 .times .what { font-weight: 600; }
-.times time { font-family: var(--serif); font-size: 1.2rem; color: var(--pine); white-space: nowrap; }
+.times .at { font-family: var(--serif); font-size: 1.2rem; color: var(--pine); white-space: nowrap; }
 
 address { font-style: normal; }
+
+.directions { padding-left: 1.2rem; margin: 0; }
+.directions li { margin-bottom: .4rem; }
+
+.events { list-style: none; margin: 0; padding: 0; }
+.events li { padding: .6rem 0; border-bottom: 1px dashed var(--line); }
+.events li:last-child { border-bottom: 0; }
+.events h3 { margin-bottom: .1rem; }
 
 /* ---------- Tiles (home page links) ---------- */
 .tile { display: block; text-decoration: none; color: var(--ink); height: 100%; }

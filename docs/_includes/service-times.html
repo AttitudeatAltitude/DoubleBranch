@@ -1,0 +1,5 @@
+<ul class="times">
+  {%- for s in site.data.services %}
+  <li><span><span class="day">{{ s.day }}</span><span class="what">{{ s.name }}</span></span><span class="at">{{ s.time }}</span></li>
+  {%- endfor %}
+</ul>

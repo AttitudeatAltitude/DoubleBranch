@@ -1,0 +1,17 @@
+# Ministries, shown on the Events & Ministries page.
+# Leave a line blank and the site shows a yellow [TBD] box for it.
+- name: Sunday School
+  when: Sundays, 10:00 AM
+  details:
+- name: Children
+  when:
+  details: A nursery and a children's class.
+- name: Youth
+  when:
+  details:
+- name: Men
+  when:
+  details:
+- name: Women
+  when:
+  details:

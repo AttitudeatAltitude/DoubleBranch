@@ -1,0 +1,8 @@
+# Upcoming events, shown on the Events & Ministries page.
+# Add one block per event, in date order. Delete an event once it has passed.
+# To add one, copy this example, remove the # marks, and fill it in:
+#
+# - name: Example Event
+#   date: Sunday, November 8
+#   time: 6:00 PM
+#   details: One or two sentences about it.
