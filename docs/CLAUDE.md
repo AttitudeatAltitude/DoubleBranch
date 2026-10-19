@@ -22,11 +22,15 @@ beat cleverness every time.
   find the service time, the address, and what to expect within one
   scroll on a phone? Most visitors arrive on a phone, from a search or a
   Facebook link.
-- **Simple stack.** Static site GitHub Pages can serve with no build
-  step on our side (stack choice is pending in
-  `project/decisions-needed.md`; until decided, no framework, no npm,
-  no external JS beyond an embedded map/video). Anything that would add
-  a build step, a paid service, or a login gets proposed first.
+- **Simple stack.** Jekyll as built into GitHub Pages (D2, Kevin,
+  2026-10-19): no build step on our side, no plugins beyond Pages'
+  defaults, no npm, no external JS beyond an embedded map/video.
+  Anything repeated across pages goes in `_layouts/`, `_includes/` or
+  `_data/`, never copied. Anything that would add a build step, a paid
+  service, or a login gets proposed first.
+- **Data files stay successor-proof.** Keep `_data/*.yml` flat with
+  plain labels and a `#` comment explaining how to add an entry. A
+  blank value renders `[TBD]`.
 - **Accessible and light.** Semantic HTML, real headings, alt text on
   every image, sufficient contrast, readable at 200% zoom, works
   without JavaScript. Images resized and compressed before commit
@@ -47,8 +51,10 @@ beat cleverness every time.
 
 - README.md — quick map of this folder: pages, what each is for, and
   how to edit them (written for a non-technical successor).
-- Site pages and `assets/` — SITE. Created in Phase 2 per
-  `project/roadmap.md`; list them in README.md as they're added.
+- Site pages, `_config.yml`, `_layouts/`, `_includes/`, `_data/` and
+  `assets/` — SITE. List pages in README.md as they're added.
+  `_config.yml` `preview: true` shows the draft banner and noindex; set
+  false at launch. README.md and CLAUDE.md are excluded from the build.
 
 ## Run Sequence
 
@@ -57,8 +63,10 @@ beat cleverness every time.
 2. Surface open items: `[TBD]` placeholders still on pages, and any
    content change waiting on leadership approval.
 3. Build/edit — facts from `church/` only.
-4. Verify: render at phone and desktop width; check links; check every
-   image has alt text and is web-sized.
+4. Verify: build with Jekyll (`gem install jekyll -v 3.10.0`, then
+   `jekyll build -s docs -d <scratch>/site`); render the built pages at
+   phone and desktop width; check links; check every image has alt text
+   and is web-sized.
 5. Journal: update README.md page list; project files per
    `project/CLAUDE.md`.
 6. Commit with the prefixes below; end-of-task git per root CLAUDE.md,
