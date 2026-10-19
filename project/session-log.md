@@ -118,3 +118,18 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - Closeout: all branches merged to main; backlog tidied (visitor copy
   done, editing guide done, missing facts listed). Street number left
   open at Kevin's request.
+
+## 2026-10-19 — Tracker board
+- Kevin asked for a dashboard to track status and give input outside
+  Claude Code. Asked first: two-way, 50s atomic-age theme, Kevin only,
+  all sections.
+- Built https://claude.ai/artifact/Lp771qVc4DGzWEckWZH3gB: phase dial,
+  next moves, quick links, key facts, then answer boxes (9 questions),
+  to-dos (8), leadership decisions (6, with recommendations), notes to
+  Claude, ideas (3, approve/not now), completed (9). Data in the
+  artifact's db: `board/status`, `items/*`, `notes/*`; rules: owner-only
+  read and write (checked: editor-level read sees nothing).
+- Kevin's saves set `savedAt` + `synced:false`; Claude records them in
+  the repo and sets `synced:true`. Repo stays the source of truth.
+- Sync steps for project/CLAUDE.md held on `claude/tracker-sync` for
+  review (root exception 2).

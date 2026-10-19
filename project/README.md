@@ -12,4 +12,7 @@ How the website project is run.
 - `approvals-log.md` — leadership sign-offs on site content.
 - `session-log.md` — what each work session did.
 - `next-steps.md` — the next 1–3 moves.
+- **Tracker** (Kevin's status board, outside the repo):
+  https://claude.ai/artifact/Lp771qVc4DGzWEckWZH3gB. Answers, ticks
+  and notes typed there are copied into these files each session.
 - `CLAUDE.md` — standing instructions for Claude.
