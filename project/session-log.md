@@ -86,3 +86,14 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   `claude/publish-gate-preview` for review.
 - Backlog *Proposed* unchanged at Kevin's request (schema.org data,
   Google Business Profile stay proposed).
+
+## 2026-10-19 — Pages verified
+- Kevin made the repo public and enabled Pages. Verified: API shows
+  `visibility: public`, `has_pages: true`; first "pages build and
+  deployment" run (commit 8213b80) succeeded in build, report and
+  deploy, with no Jekyll warnings.
+- Session network can't reach github.io or the artifact store, so the
+  live pages weren't fetched directly. Published bundle 7,335 B vs.
+  local `/docs` build 7,171 B gzipped (zip wrapper accounts for the
+  difference) → Pages built from `/docs`; notes and CLAUDE files not
+  published.
