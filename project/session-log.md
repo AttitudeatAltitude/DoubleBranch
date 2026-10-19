@@ -57,3 +57,19 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - Explained Jekyll for D2 in chat; D2 still open.
 - Building photos agreed → backlog with timing guidance. James verse
   shown as reference only. Quoting it needs the church's translation.
+
+## 2026-10-19 — Jekyll conversion
+- D2 decided: Jekyll (Kevin). Converted docs/: `_layouts/default.html`
+  (header/nav/footer/banner), `_includes/` (service times, address,
+  hills), `_data/` (church, services, nav, events, ministries).
+  `_config.yml` `preview: true` drives banner + noindex; excludes
+  README.md and CLAUDE.md from the published site.
+- Built locally with Jekyll 3.10.0 (GitHub Pages' version). Verified 7
+  pages at 390/1280px, links, launch mode (preview false → no
+  banner/noindex), and a sample event rendering.
+- Facts: nursery + children's class; directions by the bend (no
+  landmark) → facts.md, visit.html.
+- docs/CLAUDE.md "stack pending" wording update held on its own branch
+  for review (root exception 2).
+- Suggestion: Events first page on a data file. Done as part of the
+  conversion, since Kevin had agreed to Jekyll.
