@@ -30,6 +30,9 @@ their phase closes.
   member
 - [todo] Leader blurbs for About: pastor, each deacon, each ministry
   leader — name, role, 1–2 sentences, each person's OK — Kevin
+- [blocked] **Exact map pin**: Google drops the address pin too far
+  down the road. Site is ready (`map_pin` in docs/_data/church.yml);
+  needs the church's coordinates — Kevin, since 2026-10-19
 - [todo] Remaining visitor answers: nursery/children's class ages and
   when each meets — Kevin
 - [todo] Draft "what to expect" visitor copy (dress, length, kids,
@@ -83,8 +86,3 @@ their phase closes.
   email or text thread) where ministry leaders send event updates, so
   events.md doesn't depend on Kevin hearing about things. (Claude,
   2026-10-19)
-- **Check the map pin before launch** — rural county-road addresses
-  often geocode to the wrong spot in Google/Apple Maps. Search the
-  address on both from a phone; if the pin is off, the Google Business
-  Profile fixes it, and the Plan a Visit page should add a landmark
-  ("from Hwy __, turn at __"). 10 minutes. (Claude, 2026-10-19)

@@ -104,3 +104,9 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   facts.md first, then `_data/church.yml` (address + Maps link) and
   contact.html's description. Built and checked: new address on all 7
   pages, old one gone.
+- Follow-up: the site was fine; Google drops the pin too far down the
+  road. Added optional `map_pin` (lat,long) to `_data/church.yml`;
+  `_includes/maps-url.html` uses it for every Directions link (Google
+  directions to the exact point), else falls back to address search.
+  Both modes tested. Waiting on Kevin's coordinates. Map-pin *Proposed*
+  item replaced by a backlog task.
