@@ -1,8 +1,8 @@
 # Church name and address, used on every page.
 name: Double Branch Baptist Church
-street: 18670 Old Highway 112
+street: 18650 Old Highway 112
 city: Poteau, OK 74953
-maps_url: https://www.google.com/maps/search/?api=1&query=18670+Old+Highway+112%2C+Poteau%2C+OK+74953
+maps_url: https://www.google.com/maps/search/?api=1&query=18650+Old+Highway+112%2C+Poteau%2C+OK+74953
 
 # Exact map pin for the church, as latitude,longitude (e.g. 35.0,-94.6).
 # Google places the address too far down the road, so the
