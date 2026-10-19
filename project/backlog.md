@@ -30,15 +30,16 @@ their phase closes.
   member
 - [todo] Leader blurbs for About: pastor, each deacon, each ministry
   leader — name, role, 1–2 sentences, each person's OK — Kevin
-- [todo] Remaining visitor answers: kids/nursery; road landmark — Kevin
+- [todo] Remaining visitor answers: nursery/children's class ages and
+  when each meets — Kevin
 - [todo] Draft "what to expect" visitor copy (dress, length, kids,
   parking, music style) — Claude drafts from Kevin's answers
 
 ## Phase 2 — Build V1
-- [done] Site skeleton (runs ahead of phase, Kevin asked) — plain
-  HTML/CSS, all 7 pages (D5) with `[TBD]` placeholders, preview
-  banner + noindex — Claude, 2026-10-19. Built on D2 option A by
-  default; Jekyll conversion later is ~30 min if D2 goes B.
+- [done] Site skeleton (runs ahead of phase, Kevin asked) — 7 pages
+  (D5), Jekyll (D2): shared layout; services, church, nav, events,
+  ministries in `docs/_data/`; preview banner + noindex via
+  `preview:` in `_config.yml` — Claude, 2026-10-19
 - [todo] Fill page copy as church/ facts are confirmed — Claude
 - [todo] Preview link for leadership review — Claude
 
