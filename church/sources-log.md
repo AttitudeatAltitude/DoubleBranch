@@ -31,3 +31,8 @@ is kept (never this repo) · files it fed.
   map-pin test.
 - Church coordinates 35.073058, -94.588978; 18650 also mis-pins (house
   next door) — Kevin, in chat — fed facts.md, docs/_data/church.yml.
+- 2026-10-20/21 — Tracker answers (Kevin): Facebook group is private,
+  link YouTube instead and embed the latest/live service; no Bible
+  translation needed; church email doublebranchbaptist@gmail.com set
+  up; D7 choice YouTube — fed facts.md, media.md, docs/ (Contact,
+  Sermons, Home).
