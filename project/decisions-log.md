@@ -53,3 +53,16 @@ explicit dated note.
 - **Tracker sync steps in project/CLAUDE.md** — Kevin approved; merged.
   Sessions read the tracker at start and refresh it at journal time;
   repo wins on conflict.
+
+## 2026-10-21 — Tracker sync
+- **Church email: doublebranchbaptist@gmail.com** — Kevin set it up
+  (backlog *Proposed* item, chosen on the tracker). On the Contact
+  page. Who holds the login is open; recommendation stays 2 leaders.
+  Leadership not yet asked.
+- **D7: YouTube** (option A) — Kevin's choice; leadership to confirm
+  Nov 8. Why: the Facebook group is private, so it can't serve
+  visitors; Kevin wants the Sermons page to embed the latest/live
+  service. Reopen if: leadership prefers another home.
+- **No Facebook link on the site** — Kevin: the group is private.
+- **Targets: ~80% V1 at leadership's Nov 8 meeting; launch around New
+  Year 2027** — Kevin. Leadership hasn't agreed the date.
