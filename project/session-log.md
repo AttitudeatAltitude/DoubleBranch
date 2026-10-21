@@ -133,3 +133,16 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   the repo and sets `synced:true`. Repo stays the source of truth.
 - Sync steps for project/CLAUDE.md held on `claude/tracker-sync` for
   review (root exception 2).
+
+## 2026-10-21 — Tracker sync, deacon buy-in
+- Kevin: talked to a deacon on 2026-10-20 — on board and gathering
+  content. Informal; not a leadership approval (none recorded).
+- Synced tracker saves: church email, D7 = YouTube, Facebook group is
+  private, no translation needed, note: Nov 8 leadership meeting and
+  New Year 2027 launch target. Recorded in church/ and project/.
+- Site: Contact shows the church email (from `_data/church.yml`) and
+  drops Facebook; Sermons and Home say services will stream on YouTube,
+  with a [TBD] for the channel link/embed. Built with Jekyll 3.10.0:
+  mailto renders; no "Facebook" left on any page.
+- Suggestion: one-page handout for the Nov 8 meeting (backlog
+  *Proposed*).
