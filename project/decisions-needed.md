@@ -3,9 +3,10 @@
 STATE — budget 600 words. Each: who decides, options,
 recommendation. Remove once decided (→ decisions-log.md).
 
-**Leadership list (take as one conversation):** OK to proceed, D6
-how approvals work (and the draft preview is already online), D3 giving provider, D4 photo
-policy, D7 sermon audio home, church email (backlog *Proposed*).
+**Leadership list (Nov 8 meeting):** OK to proceed, D6 how approvals
+work (and the draft preview is already online), D3 giving provider, D4
+photo policy, D7 confirm YouTube, the New Year 2027 launch target, and
+who holds the church email login.
 
 ## D3 — Online giving provider — leadership (and whoever handles
 finances)
@@ -30,7 +31,7 @@ Recommendation: one designated approver (e.g. the pastor) signs off on
 behalf of the team after they've had the preview link for a week —
 keeps approvals from stalling on a full meeting.
 
-## D7 — Where sermon audio lives — Kevin, then leadership
+## D7 — Where sermon audio lives — Kevin chose A (2026-10-21); leadership to confirm
 - A. YouTube (audio over a still image) — free, and it's where video is
   headed anyway; one channel for both. **Recommended.**
 - B. Free podcast host (e.g. Spotify for Creators — verify current

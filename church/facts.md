@@ -28,8 +28,8 @@ site.
 - Sunday evening service: 6:00 PM — confirmed (Kevin, 2026-10-19)
 - Wednesday Bible study: 7:00 PM — confirmed (Kevin, 2026-10-19)
 - Dress: wear whatever you like; site cites James 2:1–4 (not treating
-  the well-dressed better) — confirmed (Kevin, 2026-10-19). Translation
-  for any quoted verse: unknown
+  the well-dressed better) — confirmed (Kevin, 2026-10-19). Verse is
+  cited, not quoted, so no translation needed (Kevin, 2026-10-20)
 - Worship service length: about one hour — confirmed (Kevin, 2026-10-19)
 - Music: hymns sung with piano accompaniment, plus newer worship songs
   sung along to recorded tracks — confirmed (Kevin, 2026-10-19)
@@ -43,8 +43,8 @@ site.
 
 ## Contact
 - Church phone: none (Kevin, 2026-10-19)
-- Church email: none (Kevin, 2026-10-19) — Contact page has no contact
-  method yet; see backlog *Proposed*
+- Church email: doublebranchbaptist@gmail.com — confirmed (Kevin,
+  2026-10-21; set up by Kevin). Who holds the login: unknown
 - Mailing address (if different): unknown
 
 ## People (public-approved only)
@@ -56,7 +56,9 @@ site.
   (Kevin, 2026-10-19). Names/blurbs: unknown, need each person's OK
 
 ## Online presence
-- Facebook page: exists, used for live sermon broadcast — URL unknown
-- YouTube: none yet (planned)
+- Facebook: a private group, used for live sermon broadcast — not
+  linked from the site (Kevin, 2026-10-20)
+- YouTube: none yet. Planned home for live services and past sermons;
+  site will embed the latest/live service (Kevin, 2026-10-20)
 - Website: none (this project)
 - Online giving: none
