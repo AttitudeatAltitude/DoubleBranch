@@ -8,14 +8,18 @@ their phase closes.
 - [done] Repo structure + CLAUDE.md files drafted — Claude, 2026-10-19
 - [done] CLAUDE.md files approved — Kevin, 2026-10-19
 - [done] Leadership-team approval wording merged — Kevin, 2026-10-19
-- [todo] Tell the pastor/leadership team about the project; get an OK
-  to proceed and agreement on how approvals will work (D6) — Kevin
+- [doing] Tell the pastor/leadership team about the project; get an OK
+  to proceed and agreement on how approvals will work (D6) — Kevin.
+  One deacon on board (2026-10-20) and gathering content; full team at
+  the Nov 8 meeting
 - [todo] Decide D3, D4, D6, D7 (decisions-needed.md) — Kevin / leadership
 
 ## Phase 1 — Content gathering
 - [doing] Fill facts.md — remaining: which Baptist body the church is
-  affiliated with; Facebook page link (Sermons + Contact pages); year
-  founded; mailing address if different — Kevin
+  affiliated with; year founded; mailing address if different — Kevin
+  (a deacon is also gathering info)
+- [done] Church email doublebranchbaptist@gmail.com on Contact page —
+  Kevin set up, 2026-10-21
 - [todo] **Get a copy of the church bylaws** (photo or scan is fine)
   — Kevin. Feeds beliefs.md and possibly ministries/leadership
   structure. Original stays outside the repo; distil only.
@@ -46,6 +50,8 @@ their phase closes.
   ministries in `docs/_data/`; preview banner + noindex via
   `preview:` in `_config.yml` — Claude, 2026-10-19
 - [todo] Fill page copy as church/ facts are confirmed — Claude
+- [todo] **~80% of V1 ready for leadership's Nov 8 meeting** — Claude
+  (copy) / Kevin (facts, photos)
 - [done] Tracker board for Kevin (private artifact, two-way: answers,
   ticks, decisions, notes) — Claude, 2026-10-19. Sync steps in
   project/CLAUDE.md (approved)
@@ -66,7 +72,9 @@ their phase closes.
   test recording; pick where audio lives (D7) — Kevin
 - [todo] Video/camera upgrade recommendation — deferred until audio is
   running and a budget exists
-- [todo] YouTube channel setup + migration plan from Facebook
+- [todo] YouTube channel setup (D7: Kevin chose YouTube) — the Sermons
+  page waits on it; the Facebook group is private, so the site can't
+  link there — Kevin
 - [todo] Name a second maintainer (editing guide already in
   `docs/README.md`)
 
@@ -77,12 +85,10 @@ their phase closes.
   15 minutes. Helps Google show the address and times directly in
   search results. Pairs with the Google Business Profile item.
   (Claude, 2026-10-19)
-- **Free church email (e.g. a Gmail account) for the Contact page** —
-  the site currently has no way for a visitor to reach anyone. A free
-  address owned by the church (not a person), with login shared between
-  2 people on the leadership team, solves it in 15 minutes and survives
-  volunteers changing. Optionally a free Google Voice number later.
-  Needs leadership OK. (Claude, 2026-10-19)
+- **One-page handout for the Nov 8 meeting** — QR code to the preview,
+  what's done, and the decisions as tick-boxes with recommendations, so
+  leadership can answer in the room. About 30 minutes; Claude drafts,
+  Kevin prints. (Claude, 2026-10-21)
 - **Google Business Profile** — free; it's what shows when someone
   searches "Baptist church Poteau" or opens Maps. Arguably more visitors
   will find the church through it than through the site itself. Needs

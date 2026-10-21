@@ -4,11 +4,16 @@ STATE — budget 600 words. Phases, exit criteria, status.
 
 **Current phase: 0 — Setup & decisions.**
 
+**Targets (Kevin, 2026-10-21):** show leadership a ~80%-complete V1 at
+their next meeting, **Nov 8**; propose public launch around **New
+Year 2027**. Not yet agreed by leadership.
+
 ## Phase 0 — Setup & decisions — IN PROGRESS
 Repo structure and standing instructions in place; leadership on board;
 foundational decisions made.
 Exit when: Kevin approves the CLAUDE.md files; leadership has OK'd the
-project; decisions D1–D6 are made (D1, D2, D5 done).
+project; decisions D1–D6 are made (D1, D2, D5 done). One deacon is on
+board informally (2026-10-20); the team's OK is expected Nov 8.
 
 ## Phase 1 — Content gathering — NOT STARTED
 Fill `church/` with confirmed facts: service times, address, contact,
