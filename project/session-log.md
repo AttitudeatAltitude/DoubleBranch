@@ -146,3 +146,16 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   mailto renders; no "Facebook" left on any page.
 - Suggestion: one-page handout for the Nov 8 meeting (backlog
   *Proposed*).
+
+## 2026-10-22 — Nov 8 handout
+- Kevin: church leaders hold the email login (Kevin doesn't yet); a
+  deacon is gathering the bylaws, the mission statement and the street
+  number; YouTube channel targeted before Nov 8. Recorded in facts.md,
+  backlog.md, tracker.
+- Built the handout draft: HTML → Chromium PDF, one letter page, QR
+  (python `qrcode`, SVG) to the preview URL. Seven tick-box questions =
+  the leadership list. No names besides "Questions: Kevin". Sent to
+  Kevin; rebuild ~Nov 5.
+- Suggestion: add the church email as a Google account's recovery
+  contact for the YouTube channel, so the channel is owned by the
+  church, not Kevin's personal account (see next-steps).
