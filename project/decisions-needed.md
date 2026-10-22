@@ -5,8 +5,8 @@ recommendation. Remove once decided (→ decisions-log.md).
 
 **Leadership list (Nov 8 meeting):** OK to proceed, D6 how approvals
 work (and the draft preview is already online), D3 giving provider, D4
-photo policy, D7 confirm YouTube, the New Year 2027 launch target, and
-who holds the church email login.
+photo policy, D7 confirm YouTube, the New Year 2027 launch target, OK
+to ask leaders for About-page blurbs. All seven are on the handout.
 
 ## D3 — Online giving provider — leadership (and whoever handles
 finances)

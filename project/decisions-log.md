@@ -66,3 +66,11 @@ explicit dated note.
 - **No Facebook link on the site** — Kevin: the group is private.
 - **Targets: ~80% V1 at leadership's Nov 8 meeting; launch around New
   Year 2027** — Kevin. Leadership hasn't agreed the date.
+
+## 2026-10-22
+- **Nov 8 handout: build it** — Kevin approved the *Proposed* item.
+  Format: one-page letter PDF in the site's colors, QR to the preview;
+  not committed (printed material, not site content). Leadership
+  questions on it match decisions-needed.md.
+- **YouTube channel target: before Nov 8** — Kevin. Why: a working
+  Sermons page makes the ~80% draft more convincing at the meeting.

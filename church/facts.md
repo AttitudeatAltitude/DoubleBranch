@@ -44,7 +44,8 @@ site.
 ## Contact
 - Church phone: none (Kevin, 2026-10-19)
 - Church email: doublebranchbaptist@gmail.com — confirmed (Kevin,
-  2026-10-21; set up by Kevin). Who holds the login: unknown
+  2026-10-21; set up by Kevin). Login held by church leaders; Kevin
+  doesn't have it yet (Kevin, 2026-10-22)
 - Mailing address (if different): unknown
 
 ## People (public-approved only)
