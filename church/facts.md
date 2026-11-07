@@ -37,12 +37,11 @@ site.
   (Kevin, 2026-10-19)
 - Accessibility: no stairs; wheelchair accessible — confirmed (Kevin,
   2026-10-19). Accessible parking spaces: unknown
-- Children: nursery and a children's class both offered — confirmed
-  (Kevin, 2026-10-19). Nursery has two rooms: infants, and children up
-  to 4 years old — confirmed (Kevin, 2026-11-06). When the nursery is
-  open (Sunday school, 11:00, evening) and the children's class ages
-  and time: unknown. Kevin's 2026-11-06 Sunday school list had no
-  children's class — ask whether it still meets
+- Children: nursery has two rooms: infants, and children up to 4 —
+  confirmed (Kevin, 2026-11-06). Open during Sunday school and the
+  11:00 service — confirmed (Kevin, 2026-11-06). Children's class:
+  unconfirmed — Kevin said one exists (2026-10-19) but is unsure
+  (2026-11-06); off the site until confirmed
 
 ## Contact
 - Church phone: none (Kevin, 2026-10-19)

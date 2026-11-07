@@ -43,3 +43,8 @@ is kept (never this repo) · files it fed.
   teachers — names held out of the repo pending public approval. Fed
   facts.md, ministries.md, docs/ (About, Visit, Events via
   _data/ministries.yml).
+- 2026-11-06 — Kevin, in chat: nursery open during Sunday school and
+  11:00; unsure a children's class exists; men and women each have
+  Bible study every other Monday; youth have their own Sunday evening
+  service and Wednesday Bible study. Fed facts.md, ministries.md,
+  docs/ (Visit, About, Events via _data/ministries.yml).
