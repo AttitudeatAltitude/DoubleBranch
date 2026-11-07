@@ -170,3 +170,9 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   needs public approval; asked Kevin. About now has 2 deacon cards and
   per-class teacher cards. Built with Jekyll 3.10.0.
 - Suggestion: name-consent line on the Nov 8 handout (backlog).
+- Later: Kevin answered nursery hours, Monday Bible studies, youth
+  meetings; unsure about the children's class, so the site no longer
+  claims one. Rebuilt the Nov 8 handout (one letter page, QR, done
+  list, still-needed list, 7 decisions, name-consent table with blank
+  names, no names printed). Kevin agreed to the consent table. PDF sent,
+  not committed.

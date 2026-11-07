@@ -4,14 +4,14 @@
   when: Sundays, 10:00 AM
   details: Classes for men, for women, for adults (men and women together), and for youth.
 - name: Children
-  when:
-  details: A nursery with a room for infants and a room for children up to 4 years old, and a children's class.
+  when: Sundays, during Sunday school and the 11:00 AM service
+  details: A nursery with a room for infants and a room for children up to 4 years old.
 - name: Youth
-  when: Sundays, 10:00 AM (youth Sunday school class)
+  when: Sunday school at 10:00 AM, a youth service on Sunday evenings, and Bible study on Wednesdays
   details: Led by our youth leader, who also teaches the youth Sunday school class.
 - name: Men
-  when: Sundays, 10:00 AM (men's Sunday school class)
+  when: Sunday school at 10:00 AM, and Bible study every other Monday
   details:
 - name: Women
-  when: Sundays, 10:00 AM (women's Sunday school class)
+  when: Sunday school at 10:00 AM, and Bible study every other Monday
   details:
