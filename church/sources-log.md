@@ -36,3 +36,10 @@ is kept (never this repo) · files it fed.
   translation needed; church email doublebranchbaptist@gmail.com set
   up; D7 choice YouTube — fed facts.md, media.md, docs/ (Contact,
   Sermons, Home).
+- 2026-11-06 — Kevin, in chat: affiliation LeFlore Baptist
+  Association; bylaws still pending; nursery rooms (infants, up to 4);
+  Sunday school classes (men's taught by Kevin, women's, adult coed,
+  youth); names of pastor, two deacons, youth leader and adult-class
+  teachers — names held out of the repo pending public approval. Fed
+  facts.md, ministries.md, docs/ (About, Visit, Events via
+  _data/ministries.yml).

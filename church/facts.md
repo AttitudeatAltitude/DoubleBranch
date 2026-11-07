@@ -18,8 +18,8 @@ site.
 - Directions: no clear landmark. Heading north: church on the left,
   just around the bend. Heading west: on the right, just before the
   bend — confirmed (Kevin, 2026-10-19)
-- Affiliation: affiliated with a Baptist body (Kevin, 2026-10-19) — which one
-  unknown
+- Affiliation: LeFlore Baptist Association — confirmed (Kevin,
+  2026-11-06). Any state/national convention beyond it: unknown
 - Founded: unknown
 
 ## Services
@@ -38,8 +38,11 @@ site.
 - Accessibility: no stairs; wheelchair accessible — confirmed (Kevin,
   2026-10-19). Accessible parking spaces: unknown
 - Children: nursery and a children's class both offered — confirmed
-  (Kevin, 2026-10-19). Ages and whether during the 11:00 service or
-  Sunday school: unknown
+  (Kevin, 2026-10-19). Nursery has two rooms: infants, and children up
+  to 4 years old — confirmed (Kevin, 2026-11-06). When the nursery is
+  open (Sunday school, 11:00, evening) and the children's class ages
+  and time: unknown. Kevin's 2026-11-06 Sunday school list had no
+  children's class — ask whether it still meets
 
 ## Contact
 - Church phone: none (Kevin, 2026-10-19)
@@ -49,9 +52,10 @@ site.
 - Mailing address (if different): unknown
 
 ## People (public-approved only)
-- Pastor: unknown — name/bio/photo need the pastor's OK to publish
-- Leadership team: pastor and deacons (Kevin, 2026-10-19); names not
-  recorded here until approved for the site
+- Pastor: name given by Kevin (2026-11-06); held out of the repo until
+  approved for the public site. Bio/photo need the pastor's OK
+- Leadership team: pastor and two deacons (Kevin, 2026-11-06); deacon
+  names given, held out of the repo until approved for the site
 - No paid staff beyond the pastor in the usual sense; site shows the
   pastor, deacons, and each ministry's leader (e.g. Sunday school) —
   (Kevin, 2026-10-19). Names/blurbs: unknown, need each person's OK

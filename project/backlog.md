@@ -19,17 +19,19 @@ their phase closes.
 - [todo] Decide D3, D4, D6, D7 (decisions-needed.md) — Kevin / leadership
 
 ## Phase 1 — Content gathering
-- [doing] Fill facts.md — remaining: which Baptist body the church is
-  affiliated with; year founded; mailing address if different — Kevin
-  (a deacon is also gathering info)
+- [doing] Fill facts.md — remaining: year founded; mailing address if
+  different (affiliation done 2026-11-06) — Kevin (a deacon is also
+  gathering info)
 - [done] Church email doublebranchbaptist@gmail.com on Contact page —
   Kevin set up, 2026-10-21
 - [doing] **Get a copy of the church bylaws and the church's mission
   statement** (photo or scan is fine) — a deacon is gathering both
   (2026-10-22); Kevin as backup. Feeds beliefs.md and possibly ministries/leadership
   structure. Original stays outside the repo; distil only.
-- [todo] List ministries + recurring events with times and contact role
-  — Kevin
+- [doing] List ministries + recurring events with times and contact role
+  — Sunday school classes recorded 2026-11-06. Remaining: women's class
+  teacher; whether men's/women's/youth meet outside Sunday school;
+  upcoming events — Kevin
 - [todo] Pastor bio + photo, with permission to publish — Kevin → pastor
 - [todo] Photo policy (no identifiable kids) approved by leadership — Kevin
 - [todo] **Building photos** (agreed 2026-10-19): road sign, front of
@@ -38,6 +40,9 @@ their phase closes.
   overcast also works; avoid midday. Sanctuary mid-morning, lights on.
   Fall color now (late Oct–early Nov) is a good window — Kevin / a
   member
+- [blocked] Leader names on About: Kevin gave pastor, 2 deacons, youth
+  leader, adult-class teachers. Held off site and repo until approved
+  for public use (Privacy rule) — Kevin → leadership, since 2026-11-06
 - [todo] Leader blurbs for About: pastor, each deacon, each ministry
   leader — name, role, 1–2 sentences, each person's OK — Kevin
 - [done] Exact map pin set (35.073058, -94.588978); Directions links
@@ -45,8 +50,9 @@ their phase closes.
 - [todo] **Confirm the street number** (18650 or 18670 Old Highway 112)
   before launch, e.g. from the church's mail or a utility bill — Kevin,
   or the deacon if Kevin doesn't get to it first
-- [todo] Remaining visitor answers: nursery/children's class ages and
-  when each meets — Kevin
+- [doing] Remaining visitor answers: nursery rooms done (infants, up
+  to 4; 2026-11-06). Remaining: when the nursery is open; children's
+  class ages/time, and whether it still meets — Kevin
 - [done] "What to expect" copy on Plan a Visit from Kevin's answers —
   Claude, 2026-10-19
 
@@ -96,6 +102,11 @@ their phase closes.
   searches "Baptist church Poteau" or opens Maps. Arguably more visitors
   will find the church through it than through the site itself. Needs
   someone to verify the church address. (Claude, 2026-10-19)
+- **Name-consent line on the Nov 8 handout** — "OK to show my name and
+  role on the site" with a signature line for the pastor, each deacon,
+  and each teacher. One sheet clears every name on the About page in
+  one meeting instead of chasing six people. 5 minutes to add.
+  (Claude, 2026-11-06)
 - **Simple shared "events inbox"** — one person/channel (e.g. a church
   email or text thread) where ministry leaders send event updates, so
   events.md doesn't depend on Kevin hearing about things. (Claude,

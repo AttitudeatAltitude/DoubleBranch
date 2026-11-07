@@ -159,3 +159,14 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - Suggestion: add the church email as a Google account's recovery
   contact for the YouTube channel, so the channel is owned by the
   church, not Kevin's personal account (see next-steps).
+
+## 2026-11-06 — Status check, Kevin's facts
+- Status for Kevin: no input since Oct 22; handout rebuild (due ~Nov 5)
+  not done; site ~50% by TBD count (33). Tracker: no unsynced saves.
+- Kevin, in chat: LeFlore Baptist Association; nursery rooms; Sunday
+  school classes; bylaws still pending; names of pastor, deacons,
+  youth leader, adult-class teachers. Recorded in church/ and on About,
+  Visit, Events. Names withheld from repo and site — root Privacy rule
+  needs public approval; asked Kevin. About now has 2 deacon cards and
+  per-class teacher cards. Built with Jekyll 3.10.0.
+- Suggestion: name-consent line on the Nov 8 handout (backlog).
