@@ -2,18 +2,18 @@
 
 OVERWRITE — budget 250 words.
 
-Working toward **Nov 8**: leadership sees a ~80% V1 and ticks the
-handout's seven questions; launch target New Year 2027.
+**Nov 8 leadership meeting is in two days.** Launch target New Year
+2027.
 
-1. **Facts for the most-visited pages** — nursery / children's class
-   ages, affiliation, year founded, ministries and their times (Kevin);
-   bylaws, mission statement, street number (a deacon).
-2. **Building photos** while fall color lasts (now to early Nov).
-3. **YouTube channel before Nov 8** (Kevin) — create it under the
-   church email's Google account, not a personal one, so it stays with
-   the church; then Claude embeds it on the Sermons page.
-4. **~Nov 5: Claude rebuilds the handout** from current state; Kevin
-   prints copies.
+1. **Claude rebuilds the handout now** (was due ~Nov 5) — awaiting
+   Kevin's go-ahead, with a "what we still need" list (bylaws, year
+   founded, nursery hours, children's class, women's class teacher)
+   and, if Kevin agrees, a name-consent line (backlog *Proposed*).
+2. **Leader names**: Kevin has them; they go on About once the people
+   (or leadership) OK public use — ask at Nov 8.
+3. **YouTube channel** under the church's Google account (Kevin), then
+   Claude embeds it on Sermons.
+4. Bylaws (a deacon, since Oct 22); building photos.
 
 Leadership list (Nov 8): OK to proceed, D6, D4, D7 YouTube, D3, launch
-date, OK to ask leaders for About-page blurbs.
+date, OK to show leaders' names and ask for About-page blurbs.

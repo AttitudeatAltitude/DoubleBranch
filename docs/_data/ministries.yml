@@ -2,16 +2,16 @@
 # Leave a line blank and the site shows a yellow [TBD] box for it.
 - name: Sunday School
   when: Sundays, 10:00 AM
-  details:
+  details: Classes for men, for women, for adults (men and women together), and for youth.
 - name: Children
   when:
-  details: A nursery and a children's class.
+  details: A nursery with a room for infants and a room for children up to 4 years old, and a children's class.
 - name: Youth
-  when:
-  details:
+  when: Sundays, 10:00 AM (youth Sunday school class)
+  details: Led by our youth leader, who also teaches the youth Sunday school class.
 - name: Men
-  when:
+  when: Sundays, 10:00 AM (men's Sunday school class)
   details:
 - name: Women
-  when:
+  when: Sundays, 10:00 AM (women's Sunday school class)
   details:
