@@ -83,10 +83,12 @@ their phase closes.
   test recording; pick where audio lives (D7) — Kevin
 - [todo] Video/camera upgrade recommendation — deferred until audio is
   running and a budget exists
-- [todo] YouTube channel setup, **target: before Nov 8** (Kevin,
-  2026-10-22) (D7: Kevin chose YouTube) — the Sermons
-  page waits on it; the Facebook group is private, so the site can't
-  link there — Kevin
+- [done] YouTube channel @DoubleBranchBaptist live; linked from
+  Sermons — Kevin / Claude, 2026-11-08
+- [todo] Embed the latest/live service on Sermons once the first video
+  is up — Claude; needs the channel ID (UC…) from Kevin
+- [todo] Confirm the channel is owned by the church's Google account
+  (Kevin doesn't hold its login) — Kevin
 - [todo] Name a second maintainer (editing guide already in
   `docs/README.md`)
 

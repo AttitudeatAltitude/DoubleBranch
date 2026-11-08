@@ -11,4 +11,7 @@ maps_url: https://www.google.com/maps/search/?api=1&query=18650+Old+Highway+112%
 # Church email, shown on the Contact page.
 email: doublebranchbaptist@gmail.com
 
+# Church YouTube channel, linked from the Sermons page.
+youtube: https://www.youtube.com/@DoubleBranchBaptist
+
 map_pin: 35.073058,-94.588978

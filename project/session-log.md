@@ -176,3 +176,10 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   list, still-needed list, 7 decisions, name-consent table with blank
   names, no names printed). Kevin agreed to the consent table. PDF sent,
   not committed.
+
+## 2026-11-08 — YouTube linked
+- Kevin: channel live at @DoubleBranchBaptist, no videos. Sermons page
+  links it (URL in _data/church.yml); embed waits for a video and the
+  channel ID. Couldn't open youtube.com from the session (proxy).
+- Suggestion: post a short welcome or test-recording video first so the
+  channel isn't empty when leadership or visitors follow the link.

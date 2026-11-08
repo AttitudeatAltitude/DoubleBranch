@@ -62,7 +62,9 @@ site.
 ## Online presence
 - Facebook: a private group, used for live sermon broadcast — not
   linked from the site (Kevin, 2026-10-20)
-- YouTube: none yet. Planned home for live services and past sermons;
-  site will embed the latest/live service (Kevin, 2026-10-20)
+- YouTube: https://www.youtube.com/@DoubleBranchBaptist — live, no
+  videos yet (Kevin, 2026-11-08). Linked from Sermons; embed the
+  latest/live service once a video exists (needs the channel ID, UC…).
+  Owning Google account: unknown (plan: the church's account)
 - Website: none (this project)
 - Online giving: none
