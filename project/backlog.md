@@ -8,15 +8,10 @@ their phase closes.
 - [done] Repo structure + CLAUDE.md files drafted — Claude, 2026-10-19
 - [done] CLAUDE.md files approved — Kevin, 2026-10-19
 - [done] Leadership-team approval wording merged — Kevin, 2026-10-19
-- [doing] Tell the pastor/leadership team about the project; get an OK
-  to proceed and agreement on how approvals will work (D6) — Kevin.
-  One deacon on board (2026-10-20) and gathering content; full team at
-  the Nov 8 meeting
-- [doing] **One-page handout for Nov 8** (agreed 2026-10-22): QR code
-  to the preview, done / still to come, decisions as tick-boxes. Draft
-  PDF sent 2026-10-22; rebuilt and sent 2026-11-06 with a "still needed"
-  list and name-consent table (not committed) — Kevin prints
-- [todo] Decide D3, D4, D6, D7 (decisions-needed.md) — Kevin / leadership
+- [done] Leadership OK to proceed; D4, D6 (Kevin approves), D7,
+  launch date, blurbs — Nov 8 meeting, per Kevin
+- [blocked] D3 online giving — leadership comparing (incl. Venmo),
+  since 2026-11-08
 
 ## Phase 1 — Content gathering
 - [doing] Fill facts.md — remaining: year founded; mailing address if
@@ -32,7 +27,6 @@ their phase closes.
   — Sunday school classes recorded 2026-11-06. Remaining: times for
   Monday and youth meetings; events — Kevin
 - [todo] Pastor bio + photo, with permission to publish — Kevin → pastor
-- [todo] Photo policy (no identifiable kids) approved by leadership — Kevin
 - [todo] **Building photos** (agreed 2026-10-19): road sign, front of
   building, entrance, empty sanctuary. No people. Exterior in the first
   or last ~2 hours of sun, with the sun behind the photographer; bright
@@ -41,8 +35,9 @@ their phase closes.
   member
 - [done] Leader names on About, incl. deacons — leadership approved
   Nov 8 (per Kevin)
-- [todo] Leader blurbs for About: pastor, each deacon, each ministry
-  leader — name, role, 1–2 sentences, each person's OK — Kevin
+- [todo] Leader blurbs for About (leadership OK'd asking, Nov 8):
+  pastor, each deacon, each ministry leader — 1–2 sentences, each
+  person's OK; photos optional, under the photo policy — Kevin
 - [done] Exact map pin set (35.073058, -94.588978); Directions links
   use it — Claude, 2026-10-19
 - [todo] **Confirm the street number** (18650 or 18670 Old Highway 112)
