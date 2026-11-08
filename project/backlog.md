@@ -39,8 +39,8 @@ their phase closes.
   overcast also works; avoid midday. Sanctuary mid-morning, lights on.
   Fall color now (late Oct–early Nov) is a good window — Kevin / a
   member
-- [done] Leader names on About (pastor, ministry leaders) — approved
-  per Kevin 2026-11-08. Deacon names: ask Kevin — Claude
+- [done] Leader names on About, incl. deacons — leadership approved
+  Nov 8 (per Kevin)
 - [todo] Leader blurbs for About: pastor, each deacon, each ministry
   leader — name, role, 1–2 sentences, each person's OK — Kevin
 - [done] Exact map pin set (35.073058, -94.588978); Directions links
@@ -49,7 +49,7 @@ their phase closes.
   before launch, e.g. from the church's mail or a utility bill — Kevin,
   or the deacon if Kevin doesn't get to it first
 - [doing] Remaining visitor answers: nursery done (2026-11-06).
-  Remaining: children's church ages and time — Kevin
+  Children's church: "school age" for now; exact ages later — Kevin
 - [done] "What to expect" copy on Plan a Visit from Kevin's answers —
   Claude, 2026-10-19
 

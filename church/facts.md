@@ -40,8 +40,8 @@ site.
 - Children: nursery has two rooms: infants, and children up to 4 —
   confirmed (Kevin, 2026-11-06). Open during Sunday school and the
   11:00 service — confirmed (Kevin, 2026-11-06). Children's
-  church: exists, led by Melody Cook — confirmed (Kevin, 2026-11-08).
-  Ages and when it meets: unknown
+  church: led by Melody Cook, during the 11:00 service, "school age" —
+  confirmed (Kevin, 2026-11-08); exact ages to refine later
 
 ## Contact
 - Church phone: none (Kevin, 2026-10-19)
@@ -51,11 +51,10 @@ site.
 - Mailing address (if different): unknown
 
 ## People (public-approved only)
-Leaders' names approved for publication — Kevin, 2026-11-08 (see
-approvals-log.md). Spelling as Kevin gave it.
+Leaders' names approved for publication — per Kevin, leadership
+approved at the Nov 8 meeting (approvals-log.md). Spelling as Kevin gave it.
 - Pastor: Travis Cook. Bio/photo: need his OK
-- Deacons: two (Kevin, 2026-11-06). Names not in this list; ask Kevin
-  whether they're covered before publishing
+- Deacons: Danny Bosco, Johnny Baker
 - Youth leader: John Marshall
 - Men's Sunday school: Kevin Webster Jr.
 - Women's Sunday school: Ruth Bosco
