@@ -183,3 +183,5 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   channel ID. Couldn't open youtube.com from the session (proxy).
 - Suggestion: post a short welcome or test-recording video first so the
   channel isn't empty when leadership or visitors follow the link.
+- Kevin: channel is under the church's Google account; uploading the
+  Nov 8 sermon today. Embed waits on the channel ID.

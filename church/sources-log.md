@@ -52,3 +52,5 @@ is kept (never this repo) · files it fed.
   @DoubleBranchBaptist, no videos yet. Fed facts.md, media.md,
   docs/_data/church.yml, docs/sermons.html. Not verified: youtube.com
   blocked from the session.
+- 2026-11-08 — Kevin, in chat: YouTube channel owned by the church's
+  Google account; Nov 8 sermon being uploaded. Fed facts.md.
