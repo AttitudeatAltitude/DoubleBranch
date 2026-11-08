@@ -4,15 +4,6 @@ STATE — budget 900 words. Status: todo / doing / blocked / done.
 Blocked items name who and since when. Done items are cleared when
 their phase closes.
 
-## Phase 0 — Setup & decisions
-- [done] Repo structure + CLAUDE.md files drafted — Claude, 2026-10-19
-- [done] CLAUDE.md files approved — Kevin, 2026-10-19
-- [done] Leadership-team approval wording merged — Kevin, 2026-10-19
-- [done] Leadership OK to proceed; D4, D6 (Kevin approves), D7,
-  launch date, blurbs — Nov 8 meeting, per Kevin
-- [blocked] D3 online giving — leadership comparing (incl. Venmo),
-  since 2026-11-08
-
 ## Phase 1 — Content gathering
 - [doing] Fill facts.md — remaining: year founded; mailing address if
   different (affiliation done 2026-11-06) — Kevin (a deacon is also
@@ -49,6 +40,9 @@ their phase closes.
   Claude, 2026-10-19
 
 ## Phase 2 — Build V1
+- [blocked] D3 online giving — leadership comparing (incl. Venmo),
+  since 2026-11-08. One-page comparison sent to Kevin 2026-11-08
+  (not committed); summary in decisions-needed.md
 - [done] Site skeleton (runs ahead of phase, Kevin asked) — 7 pages
   (D5), Jekyll (D2): shared layout; services, church, nav, events,
   ministries in `docs/_data/`; preview banner + noindex via
@@ -84,6 +78,10 @@ their phase closes.
   `docs/README.md`)
 
 ## Proposed (not yet agreed)
+- **Weekly check-in** — a scheduled Claude session each week (e.g.
+  Sunday afternoon) that reads the tracker, lists what's waiting on
+  whom, and sends Kevin a short "this week" note. 10 minutes to set
+  up. Phase 0 lost ~2 weeks to silence. (Claude, 2026-11-08)
 - **Search-engine "church card" data** — add a hidden block to the
   layout that tells Google, in its own format (schema.org `Church`),
   the name, address, and service times, all read from `_data/`. About
