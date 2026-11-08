@@ -214,3 +214,8 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   happens when Kevin opens a session. The batched one-page handout
   worked: seven decisions answered in one meeting.
 - Change proposed: a weekly scheduled check-in (backlog *Proposed*).
+- Kevin approved the CLAUDE.md D6 wording; merged. Fixed docs/README
+  (YouTube, no Facebook). Scheduled "Weekly website check-in" (Sun
+  2:39 PM CT, fresh session; stores no repo/connectors — first run
+  Nov 15 to confirm). Wrote the editing guide as a Claude Doc for a
+  non-Claude editor.
