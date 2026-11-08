@@ -65,6 +65,14 @@ their phase closes.
 - [todo] Link site from Facebook page — whoever runs it
 
 ## Phase 4 — Post-launch
+- [done] Weekly check-in: scheduled task "Weekly website check-in",
+  Sundays 2:39 PM Central, fresh session, push note to Kevin (Kevin
+  agreed 2026-11-08). Runs ahead of phase. First run Nov 15 — check it
+  reached the repo (no repo or connectors stored on the task)
+- [done] Editing guide for a non-Claude editor: Claude Doc "How to
+  Edit the Double Branch Website" (Kevin's, private;
+  https://claude.ai/artifact/WMHvV1eTwSC9MViTDbUe9p), 2026-11-08.
+  docs/README.md is the in-repo version; keep both in step
 - [doing] **Sermon audio** (runs ahead of Phase 4) — guide drafted
   (church/audio-guide.md). Next: confirm an SD card is in the L-20; one
   test recording; pick where audio lives (D7) — Kevin
@@ -78,10 +86,6 @@ their phase closes.
   `docs/README.md`)
 
 ## Proposed (not yet agreed)
-- **Weekly check-in** — a scheduled Claude session each week (e.g.
-  Sunday afternoon) that reads the tracker, lists what's waiting on
-  whom, and sends Kevin a short "this week" note. 10 minutes to set
-  up. Phase 0 lost ~2 weeks to silence. (Claude, 2026-11-08)
 - **Search-engine "church card" data** — add a hidden block to the
   layout that tells Google, in its own format (schema.org `Church`),
   the name, address, and service times, all read from `_data/`. About
