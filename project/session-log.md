@@ -190,3 +190,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   uploads show without edits; "Watch live" links to @…/live rather
   than a live embed, which shows an error when not streaming. Couldn't
   play it from the session (YouTube blocked) — Kevin to check.
+- Kevin: sermon embed plays. Leaders' names allowed to be published;
+  list given (no deacons). Names on About; children's church added to
+  Visit and Events. Logged in approvals-log; asked about deacons and
+  the rest of the meeting's answers.

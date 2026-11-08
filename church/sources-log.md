@@ -56,3 +56,7 @@ is kept (never this repo) · files it fed.
   Google account; Nov 8 sermon being uploaded. Fed facts.md.
 - 2026-11-08 — Kevin, in chat: YouTube channel ID. Fed facts.md,
   docs/_data/church.yml, docs/sermons.html.
+- 2026-11-08 — Kevin, in chat: leaders' names approved for
+  publication, with a list (pastor, youth, Sunday school teachers,
+  nursery/children's church); children's church exists. Fed facts.md,
+  ministries.md, docs/ (About, Visit, Events), approvals-log.md.

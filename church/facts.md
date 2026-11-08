@@ -39,9 +39,9 @@ site.
   2026-10-19). Accessible parking spaces: unknown
 - Children: nursery has two rooms: infants, and children up to 4 —
   confirmed (Kevin, 2026-11-06). Open during Sunday school and the
-  11:00 service — confirmed (Kevin, 2026-11-06). Children's class:
-  unconfirmed — Kevin said one exists (2026-10-19) but is unsure
-  (2026-11-06); off the site until confirmed
+  11:00 service — confirmed (Kevin, 2026-11-06). Children's
+  church: exists, led by Melody Cook — confirmed (Kevin, 2026-11-08).
+  Ages and when it meets: unknown
 
 ## Contact
 - Church phone: none (Kevin, 2026-10-19)
@@ -51,13 +51,17 @@ site.
 - Mailing address (if different): unknown
 
 ## People (public-approved only)
-- Pastor: name given by Kevin (2026-11-06); held out of the repo until
-  approved for the public site. Bio/photo need the pastor's OK
-- Leadership team: pastor and two deacons (Kevin, 2026-11-06); deacon
-  names given, held out of the repo until approved for the site
-- No paid staff beyond the pastor in the usual sense; site shows the
-  pastor, deacons, and each ministry's leader (e.g. Sunday school) —
-  (Kevin, 2026-10-19). Names/blurbs: unknown, need each person's OK
+Leaders' names approved for publication — Kevin, 2026-11-08 (see
+approvals-log.md). Spelling as Kevin gave it.
+- Pastor: Travis Cook. Bio/photo: need his OK
+- Deacons: two (Kevin, 2026-11-06). Names not in this list; ask Kevin
+  whether they're covered before publishing
+- Youth leader: John Marshall
+- Men's Sunday school: Kevin Webster Jr.
+- Women's Sunday school: Ruth Bosco
+- Adult Sunday school: Curt and Noveta Leming
+- Nursery and children's church: Melody Cook
+- Blurbs and photos: each person's OK still needed
 
 ## Online presence
 - Facebook: a private group, used for live sermon broadcast — not
