@@ -202,3 +202,15 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   (comparing, incl. Venmo). Phase 0 exit met except D3 — proposed
   closing it and carrying D3 to Phase 2. Root CLAUDE.md still calls D6
   open — needs an edit, held for review (standing-instruction file).
+- Giving comparison: one-page PDF (Venmo charity, Tithe.ly, Givelify,
+  Zeffy) from web search of vendor pages and 2026 reviews; not
+  committed. Summary in decisions-needed D3.
+
+## 2026-11-08 — Phase 0 retro (closed with Kevin's OK)
+- Took 20 days (Oct 19 → Nov 8). Leadership said yes to everything
+  asked except D3 giving, carried to Phase 2.
+- What slowed us: a 15-day gap (Oct 22 → Nov 6) with no new facts and
+  no session; the handout rebuild due ~Nov 5 slipped because work only
+  happens when Kevin opens a session. The batched one-page handout
+  worked: seven decisions answered in one meeting.
+- Change proposed: a weekly scheduled check-in (backlog *Proposed*).

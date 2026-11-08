@@ -2,22 +2,22 @@
 
 STATE — budget 600 words. Phases, exit criteria, status.
 
-**Current phase: 0 — Setup & decisions.**
+**Current phase: 1 — Content gathering.**
 
 **Target: public launch around New Year 2027** — leadership agreed
 Nov 8 (per Kevin).
 
-## Phase 0 — Setup & decisions — IN PROGRESS
+## Phase 0 — Setup & decisions — DONE (2026-11-08)
 Repo structure and standing instructions in place; leadership on board;
 foundational decisions made.
 Exit when: Kevin approves the CLAUDE.md files; leadership has OK'd the
-project; decisions D1–D6 are made. All met (Nov 8) except D3 online
-giving, which leadership is still comparing.
+project; decisions D1–D6 are made. Closed Nov 8 with Kevin's OK; D3
+online giving carried to Phase 2 (Give page has a fallback).
 
-## Phase 1 — Content gathering — NOT STARTED
+## Phase 1 — Content gathering — IN PROGRESS (from 2026-11-08)
 Fill `church/` with confirmed facts: service times, address, contact,
 pastor/staff (public-approved), beliefs, ministries, recurring events.
-Agree the photo policy and collect a first set of approved photos.
+Photo policy adopted (D4, Nov 8); collect a first set of photos.
 Exit when: every fact the V1 pages need is `confirmed`, or knowingly
 deferred with `[TBD]`.
 
@@ -26,6 +26,7 @@ Pages (D5, decided): Home · Plan a Visit (what to expect, service
 times, map, parking/kids/dress) · About (beliefs; pastor, deacons,
 ministry leaders) · Sermons (link/embed Facebook) · Events & Ministries
 · Give · Contact.
+D3 online giving decided and wired into Give.
 Exit when: all pages built from `church/`, pass the phone visitor test,
 and preview is shareable with leadership.
 
