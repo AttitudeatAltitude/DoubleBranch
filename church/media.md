@@ -10,7 +10,8 @@ STATE — budget 600 words.
 - Archive: whatever Facebook retains; no separate archive.
 
 ## Direction
-- Intent to move to YouTube "at some point" — timing unknown.
+- YouTube channel @DoubleBranchBaptist created, no videos yet (Kevin,
+  2026-11-08).
 - **Audio-only first** — agreed (Kevin, 2026-10-19). Video/camera
   upgrade deferred.
 - Budget: none currently (Kevin, 2026-10-19). Recommendations must lead

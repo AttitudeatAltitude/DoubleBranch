@@ -48,3 +48,7 @@ is kept (never this repo) · files it fed.
   Bible study every other Monday; youth have their own Sunday evening
   service and Wednesday Bible study. Fed facts.md, ministries.md,
   docs/ (Visit, About, Events via _data/ministries.yml).
+- 2026-11-08 — Kevin, in chat: YouTube channel live at
+  @DoubleBranchBaptist, no videos yet. Fed facts.md, media.md,
+  docs/_data/church.yml, docs/sermons.html. Not verified: youtube.com
+  blocked from the session.
