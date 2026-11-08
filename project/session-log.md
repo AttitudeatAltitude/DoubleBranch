@@ -219,3 +219,8 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   2:39 PM CT, fresh session; stores no repo/connectors — first run
   Nov 15 to confirm). Wrote the editing guide as a Claude Doc for a
   non-Claude editor.
+- Tracker brought current (was Oct 22): phase 1, next moves, facts,
+  links (Sermons, YouTube, editing guide); answered questions and
+  decided items moved to Completed; new questions (Monday/youth times,
+  children's ages) and to-dos (giving, check-in); D3 options updated.
+  Kevin named as contact in the editing guide.
