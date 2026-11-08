@@ -85,8 +85,8 @@ their phase closes.
   running and a budget exists
 - [done] YouTube channel @DoubleBranchBaptist live; linked from
   Sermons — Kevin / Claude, 2026-11-08
-- [todo] Embed the latest/live service on Sermons once the first video
-  is up — Claude; needs the channel ID (UC…) from Kevin
+- [done] Sermons embeds the channel's uploads (newest first); "Watch
+  live" links to /live — Claude, 2026-11-08. Kevin to check it plays
 - [todo] Name a second maintainer (editing guide already in
   `docs/README.md`)
 

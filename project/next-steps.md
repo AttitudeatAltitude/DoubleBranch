@@ -8,8 +8,8 @@ OVERWRITE — budget 250 words.
    a "still needed" list, and a name-consent table. Afterwards, Kevin
    relays the ticks, signed names and answers; Claude records them
    (decisions-log, approvals-log) and puts approved names on About.
-2. **YouTube**: channel linked (2026-11-08). First video → Kevin sends
-   the channel ID (UC…) → Claude embeds it on Sermons.
+2. **YouTube**: Sermons page plays the newest upload (2026-11-08).
+   Kevin checks it on a phone; new sermons appear without site edits.
 3. Bylaws (a deacon, since Oct 22); building photos.
 
 Leadership list (Nov 8): OK to proceed, D6, D4, D7 YouTube, D3, launch

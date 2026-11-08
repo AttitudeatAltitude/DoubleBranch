@@ -185,3 +185,8 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   channel isn't empty when leadership or visitors follow the link.
 - Kevin: channel is under the church's Google account; uploading the
   Nov 8 sermon today. Embed waits on the channel ID.
+- Kevin uploaded the Nov 8 sermon and sent the channel ID. Sermons now
+  embeds the uploads playlist (UU + ID, youtube-nocookie) so new
+  uploads show without edits; "Watch live" links to @…/live rather
+  than a live embed, which shows an error when not streaming. Couldn't
+  play it from the session (YouTube blocked) — Kevin to check.

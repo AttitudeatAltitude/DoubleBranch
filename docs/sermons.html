@@ -6,17 +6,31 @@ eyebrow: "Sermons"
 heading: "Watch & listen"
 lede: "Watch Sunday services live, or catch up on past sermons."
 ---
+{%- assign uploads = site.data.church.youtube_channel_id | replace_first: "UC", "UU" -%}
+    <section class="section">
+      <div class="wrap">
+        <h2>Latest sermon</h2>
+        <div class="video">
+          <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={{ uploads }}"
+                  title="Latest sermon from Double Branch Baptist Church"
+                  loading="lazy"
+                  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                  allowfullscreen></iframe>
+        </div>
+      </div>
+    </section>
+
     <section class="section">
       <div class="wrap grid grid-2">
         <div class="card">
           <h2>Watch live</h2>
           <p>Sunday services will stream live on our YouTube channel.</p>
-          <p><a class="btn" href="{{ site.data.church.youtube }}">Open our YouTube channel</a></p>
-          <p><span class="tbd">[TBD: the latest or live service embedded here, once the first video is posted]</span></p>
+          <p><a class="btn" href="{{ site.data.church.youtube }}/live">Watch live on YouTube</a></p>
         </div>
         <div class="card">
           <h2>Past sermons</h2>
-          <p>Recorded sermons will be posted to the same YouTube channel. Subscribe there to be notified when a new one goes up.</p>
+          <p>Every sermon is posted to our YouTube channel. Subscribe there to be notified when a new one goes up.</p>
           <p><a href="{{ site.data.church.youtube }}">youtube.com/@DoubleBranchBaptist</a></p>
         </div>
       </div>
