@@ -65,6 +65,7 @@ site.
 - YouTube: https://www.youtube.com/@DoubleBranchBaptist — live, no
   videos yet (Kevin, 2026-11-08). Linked from Sermons; embed the
   latest/live service once a video exists (needs the channel ID, UC…).
-  Owning Google account: unknown (plan: the church's account)
+  Owned by the church's Google account — confirmed (Kevin, 2026-11-08).
+  First upload: the 2026-11-08 sermon (Kevin, same day)
 - Website: none (this project)
 - Online giving: none
