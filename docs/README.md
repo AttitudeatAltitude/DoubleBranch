@@ -19,7 +19,7 @@ in one place, so you change them once:
 | To change… | Edit this file |
 |---|---|
 | Service times (every page) | `_data/services.yml` |
-| Church name, address, map link, exact map pin | `_data/church.yml` |
+| Church name, address, map link, exact map pin, email, YouTube | `_data/church.yml` |
 | Upcoming events | `_data/events.yml` |
 | Ministries list | `_data/ministries.yml` |
 | Menu at the top | `_data/nav.yml` |
@@ -34,10 +34,10 @@ in one place, so you change them once:
 | `index.html` | Home | Service times and address first, then links to the main pages |
 | `visit.html` | Plan a Visit | First-time visitors: when, where, directions, common questions |
 | `about.html` | About | Who we are, statement of faith, and short blurbs on the pastor, deacons, and ministry leaders |
-| `sermons.html` | Sermons | Link to the Facebook livestream and past sermons |
+| `sermons.html` | Sermons | Newest sermon from the church YouTube channel (automatic), plus live and channel links |
 | `events.html` | Events & Ministries | Weekly schedule, upcoming events, ministries (from the `_data` files) |
 | `give.html` | Give | Ways to give |
-| `contact.html` | Contact | Address, email, Facebook |
+| `contact.html` | Contact | Address, email |
 
 ## How to edit
 
