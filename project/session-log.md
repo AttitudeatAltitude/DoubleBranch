@@ -197,3 +197,8 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - Deacons added to About; approval confirmed as from the Nov 8
   meeting (dated clarification in approvals-log); children's church
   "school age", during 11:00. Asking the handout decisions one by one.
+- Recorded the Nov 8 meeting (asked Kevin one by one): go-ahead, D4,
+  D6 = Kevin approves, D7, New Year 2027, blurbs all approved; D3 open
+  (comparing, incl. Venmo). Phase 0 exit met except D3 — proposed
+  closing it and carrying D3 to Phase 2. Root CLAUDE.md still calls D6
+  open — needs an edit, held for review (standing-instruction file).

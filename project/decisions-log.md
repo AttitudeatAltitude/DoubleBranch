@@ -74,3 +74,25 @@ explicit dated note.
   questions on it match decisions-needed.md.
 - **YouTube channel target: before Nov 8** — Kevin. Why: a working
   Sermons page makes the ~80% draft more convincing at the meeting.
+
+## 2026-11-08 — Leadership meeting (handout answers, per Kevin)
+- **OK to proceed with the website** — per Kevin, leadership approved.
+- **D6 approvals: one designated approver — Kevin** — per Kevin,
+  leadership approved. Kevin signs off on site content for the team
+  after the team has had the preview link a week (the handout wording).
+  Why: keeps approvals from waiting on a full meeting. Note: Kevin both
+  builds and approves; approvals-log entries should still say what was
+  shown to the team. Reopen if: leadership wants to see changes first.
+- **D4 photo policy adopted as written** — per Kevin, leadership
+  approved: no identifiable children, ever; adults only with their OK;
+  building, grounds and groups from behind are fine. Who can say yes
+  to a photo: the person in it.
+- **D7 sermons on the church's YouTube channel** — per Kevin, leadership
+  confirmed. Channel already live and embedded.
+- **Launch target: New Year 2027** — per Kevin, leadership agreed.
+- **OK to ask leaders for About-page blurbs** — per Kevin, leadership
+  approved.
+- **Leaders' names may be published** — per Kevin, leadership approved
+  (approvals-log.md).
+- **D3 online giving: still open** — leadership is comparing options,
+  including Venmo.
