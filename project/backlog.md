@@ -29,8 +29,8 @@ their phase closes.
   (2026-10-22); Kevin as backup. Feeds beliefs.md and possibly ministries/leadership
   structure. Original stays outside the repo; distil only.
 - [doing] List ministries + recurring events with times and contact role
-  — Sunday school classes recorded 2026-11-06. Remaining: women's class
-  teacher; times for Monday and youth meetings; events — Kevin
+  — Sunday school classes recorded 2026-11-06. Remaining: times for
+  Monday and youth meetings; events — Kevin
 - [todo] Pastor bio + photo, with permission to publish — Kevin → pastor
 - [todo] Photo policy (no identifiable kids) approved by leadership — Kevin
 - [todo] **Building photos** (agreed 2026-10-19): road sign, front of
@@ -39,9 +39,8 @@ their phase closes.
   overcast also works; avoid midday. Sanctuary mid-morning, lights on.
   Fall color now (late Oct–early Nov) is a good window — Kevin / a
   member
-- [blocked] Leader names on About: Kevin gave pastor, 2 deacons, youth
-  leader, adult-class teachers. Held off site and repo until approved
-  for public use (Privacy rule) — Kevin → leadership, since 2026-11-06
+- [done] Leader names on About (pastor, ministry leaders) — approved
+  per Kevin 2026-11-08. Deacon names: ask Kevin — Claude
 - [todo] Leader blurbs for About: pastor, each deacon, each ministry
   leader — name, role, 1–2 sentences, each person's OK — Kevin
 - [done] Exact map pin set (35.073058, -94.588978); Directions links
@@ -50,8 +49,7 @@ their phase closes.
   before launch, e.g. from the church's mail or a utility bill — Kevin,
   or the deacon if Kevin doesn't get to it first
 - [doing] Remaining visitor answers: nursery done (2026-11-06).
-  Remaining: is there a children's class, ages/time (Kevin unsure;
-  on the handout) — Kevin / leadership
+  Remaining: children's church ages and time — Kevin
 - [done] "What to expect" copy on Plan a Visit from Kevin's answers —
   Claude, 2026-10-19
 
