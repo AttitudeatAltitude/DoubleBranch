@@ -24,11 +24,14 @@ both every session:
 
 **Who's who.** The user (Kevin) is a church member driving this as a
 volunteer. **The church leadership team approves content** before it
-goes public (how — who signs off, whole team or one designee — is D6 in
-`project/decisions-needed.md`). Kevin relays leadership decisions;
-record them in `project/decisions-log.md` or `project/approvals-log.md`
-with the date and "per Kevin, leadership approved" — never record a
-leadership decision that wasn't relayed. In this repo, refer to
+goes public. Kevin is the team's designated approver (D6, decided
+2026-11-08): he signs off for the team once it has had the preview
+link a week. Record Kevin's sign-offs in `project/approvals-log.md` as
+"Kevin approved, as designated approver", saying what the team was
+shown. Decisions Kevin relays from the team go in
+`project/decisions-log.md` or `project/approvals-log.md` with the date
+and "per Kevin, leadership approved" — never record an approval or
+decision that wasn't given or relayed. In this repo, refer to
 leadership by role, not by name, unless a name is approved for the
 public site.
 
