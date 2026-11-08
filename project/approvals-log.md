@@ -14,3 +14,8 @@ that wasn't relayed.
 - Not yet clear: whether this came from the leadership team at the
   Nov 8 meeting; whether the two deacons are covered (not on the list).
   Blurbs and photos are not covered.
+
+## 2026-11-08 — Clarification of the entry above
+- Per Kevin, leadership approved publishing leaders' names at the Nov 8
+  meeting. Deacons Danny Bosco and Johnny Baker are covered. Applied to
+  docs/about.html.

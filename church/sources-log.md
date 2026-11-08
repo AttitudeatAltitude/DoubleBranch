@@ -60,3 +60,6 @@ is kept (never this repo) · files it fed.
   publication, with a list (pastor, youth, Sunday school teachers,
   nursery/children's church); children's church exists. Fed facts.md,
   ministries.md, docs/ (About, Visit, Events), approvals-log.md.
+- 2026-11-08 — Kevin, in chat: deacons' names OK; names approval came
+  from the Nov 8 leadership meeting; children's church during 11:00,
+  "school age". Fed facts.md, ministries.md, docs/, approvals-log.md.

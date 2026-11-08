@@ -194,3 +194,6 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   list given (no deacons). Names on About; children's church added to
   Visit and Events. Logged in approvals-log; asked about deacons and
   the rest of the meeting's answers.
+- Deacons added to About; approval confirmed as from the Nov 8
+  meeting (dated clarification in approvals-log); children's church
+  "school age", during 11:00. Asking the handout decisions one by one.

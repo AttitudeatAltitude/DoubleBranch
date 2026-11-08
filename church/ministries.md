@@ -21,5 +21,5 @@ contact role, status. Leader names: see facts.md (approved
   other Monday — confirmed (Kevin, 2026-11-06). Time, place, which
   Mondays, same week as men's: unknown
 - Children: nursery (infants; up to 4) during Sunday school and 11:00
-  — confirmed (Kevin, 2026-11-06). Children's church — confirmed
-  (Kevin, 2026-11-08); ages and time unknown. Both led by Melody Cook
+  — confirmed (Kevin, 2026-11-06). Children's church, school age,
+  during 11:00 — confirmed (Kevin, 2026-11-08). Both led by Melody Cook
