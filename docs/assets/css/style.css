@@ -243,6 +243,10 @@ p.tbd, div.tbd { display: block; padding: .75rem 1rem; }
   .page-hero { padding: 3rem 0 5rem; }
 }
 
+/* Embedded YouTube player, 16:9 at any width */
+.video { position: relative; aspect-ratio: 16 / 9; max-width: 52rem; background: var(--ink); border-radius: var(--radius); overflow: hidden; }
+.video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }

@@ -13,5 +13,8 @@ email: doublebranchbaptist@gmail.com
 
 # Church YouTube channel, linked from the Sermons page.
 youtube: https://www.youtube.com/@DoubleBranchBaptist
+# The channel's ID (starts with UC). The Sermons page uses it to show
+# the newest upload automatically.
+youtube_channel_id: UCcPxqAEgFhUQkzrnG0i_ymA
 
 map_pin: 35.073058,-94.588978

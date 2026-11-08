@@ -63,8 +63,9 @@ site.
 - Facebook: a private group, used for live sermon broadcast — not
   linked from the site (Kevin, 2026-10-20)
 - YouTube: https://www.youtube.com/@DoubleBranchBaptist — live, no
-  videos yet (Kevin, 2026-11-08). Linked from Sermons; embed the
-  latest/live service once a video exists (needs the channel ID, UC…).
+  videos yet (Kevin, 2026-11-08). Channel ID UCcPxqAEgFhUQkzrnG0i_ymA (Kevin,
+  2026-11-08). Sermons embeds the uploads playlist (UU…), newest
+  first; "Watch live" links to the channel's /live page.
   Owned by the church's Google account — confirmed (Kevin, 2026-11-08).
   First upload: the 2026-11-08 sermon (Kevin, same day)
 - Website: none (this project)
