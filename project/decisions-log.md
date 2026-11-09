@@ -126,3 +126,4 @@ explicit dated note.
   #795548); Women's pinker → trying custom #EC407A (fallback Cherry
   Blossom #D81B60). Names: Men's Ministry, Women's Ministry, Youth
   Ministry. Custom hex in the embed is unverified; Kevin checks.
+- **Custom calendar colors confirmed (2026-11-08)** — Kevin: rust and pink render correctly in the embed; custom hex colors work.
