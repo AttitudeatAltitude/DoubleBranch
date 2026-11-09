@@ -22,20 +22,21 @@ youtube_channel_id: UCcPxqAEgFhUQkzrnG0i_ymA
 # Calendar, not here. Colors must be Google Calendar colors:
 # Tomato #D50000, Flamingo #E67C73, Tangerine #F4511E, Banana #F6BF26,
 # Sage #33B679, Basil #0B8043, Peacock #039BE5, Blueberry #3F51B5,
-# Lavender #7986CB, Grape #8E24AA, Graphite #616161.
+# Lavender #7986CB, Grape #8E24AA, Graphite #616161, and from the
+# extended set Cherry Blossom #D81B60.
 calendars:
   - name: Church-wide
     id: 45d2c2b631c7615658ca16fbc508ee69e1d21c7fc6e348949a8e5b0b51122883@group.calendar.google.com
-    color: "#3F51B5"
+    color: "#D50000"
   - name: Men's ministry
     id: 1dc400e93f971ef17fe088f5241b1730f5335faaf2c4e4d3fd6e6824c404768e@group.calendar.google.com
-    color: "#0B8043"
+    color: "#3F51B5"
   - name: Women's ministry
     id: f727cbabe1f9d72c32144888eb240afc573cba2c67f5ed7fe253569450be3969@group.calendar.google.com
-    color: "#8E24AA"
+    color: "#D81B60"
   - name: Youth
     id: 9c9d4d3eff4fd19dd846111595e8200f6f5622ebe7ad1e8297082587e26374ae@group.calendar.google.com
     color: "#F4511E"
   - name: Golden Days
     id: 46ecf77ec713cfdb2348990f68b9d774aa856c64792411222c85b1fc9c410531@group.calendar.google.com
-    color: "#039BE5"
+    color: "#F6BF26"

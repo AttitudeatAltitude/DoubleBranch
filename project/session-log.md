@@ -241,3 +241,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   don't carry to public embeds, so set up one calendar per ministry
   (5), color-coded with a key and subscribe links per calendar. New
   ministry named: Golden Days (details unknown, [TBD] on Events).
+- Kevin set calendar colors (red, blue, pink, orange, gold); Golden
+  Days = seniors ministry, leader TBD — added to Events and an About
+  card with [TBD] name. Women's pink is from Google's extended palette;
+  Kevin to confirm it shows in the embed.
