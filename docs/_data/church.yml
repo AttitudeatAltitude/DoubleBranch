@@ -17,4 +17,8 @@ youtube: https://www.youtube.com/@DoubleBranchBaptist
 # the newest upload automatically.
 youtube_channel_id: UCcPxqAEgFhUQkzrnG0i_ymA
 
+# Church Google Calendar (must be set to public). The Events page shows
+# its upcoming events; add or change events in Google Calendar, not here.
+calendar_id: doublebranchbaptist@gmail.com
+
 map_pin: 35.073058,-94.588978

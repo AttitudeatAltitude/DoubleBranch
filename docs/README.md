@@ -20,7 +20,7 @@ in one place, so you change them once:
 |---|---|
 | Service times (every page) | `_data/services.yml` |
 | Church name, address, map link, exact map pin, email, YouTube | `_data/church.yml` |
-| Upcoming events | `_data/events.yml` |
+| Upcoming events | The church Google Calendar (doublebranchbaptist@gmail.com), not a file here |
 | Ministries list | `_data/ministries.yml` |
 | Menu at the top | `_data/nav.yml` |
 | Header, footer, preview banner | `_layouts/default.html` |
@@ -35,7 +35,7 @@ in one place, so you change them once:
 | `visit.html` | Plan a Visit | First-time visitors: when, where, directions, common questions |
 | `about.html` | About | Who we are, statement of faith, and short blurbs on the pastor, deacons, and ministry leaders |
 | `sermons.html` | Sermons | Newest sermon from the church YouTube channel (automatic), plus live and channel links |
-| `events.html` | Events & Ministries | Weekly schedule, upcoming events, ministries (from the `_data` files) |
+| `events.html` | Events & Ministries | Weekly schedule, upcoming events (Google Calendar), ministries |
 | `give.html` | Give | Ways to give |
 | `contact.html` | Contact | Address, email |
 
@@ -47,9 +47,10 @@ in one place, so you change them once:
   line is `label: value`. Keep the spacing exactly as in the lines
   around it: two spaces before each label under the `- `. Lines starting
   with `#` are notes and don't show on the site.
-- **Adding an event:** open `_data/events.yml`, copy the example at the
-  top, remove the `#` marks, and fill it in. Delete events once they've
-  passed.
+- **Adding an event:** add it to the church Google Calendar
+  (doublebranchbaptist@gmail.com). The Events page shows it within
+  minutes. Everything on that calendar is public; put "contact the
+  church" instead of a home address.
 - **On a page file**, the block between the two `---` lines at the top
   holds the page title, its search description, and the big heading.
   Below it is the page's own content. Change the words between the
