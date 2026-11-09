@@ -15,3 +15,6 @@
 - name: Women
   when: Sunday school at 10:00 AM, and Bible study every other Monday
   details:
+- name: Golden Days
+  when:
+  details:
