@@ -20,7 +20,7 @@ in one place, so you change them once:
 |---|---|
 | Service times (every page) | `_data/services.yml` |
 | Church name, address, map link, exact map pin, email, YouTube | `_data/church.yml` |
-| Upcoming events | The church Google Calendar (doublebranchbaptist@gmail.com), not a file here |
+| Upcoming events | The public events calendar on the church Google account (ID in `_data/church.yml`), not a file here |
 | Ministries list | `_data/ministries.yml` |
 | Menu at the top | `_data/nav.yml` |
 | Header, footer, preview banner | `_layouts/default.html` |
@@ -47,10 +47,11 @@ in one place, so you change them once:
   line is `label: value`. Keep the spacing exactly as in the lines
   around it: two spaces before each label under the `- `. Lines starting
   with `#` are notes and don't show on the site.
-- **Adding an event:** add it to the church Google Calendar
-  (doublebranchbaptist@gmail.com). The Events page shows it within
-  minutes. Everything on that calendar is public; put "contact the
-  church" instead of a home address.
+- **Adding an event:** in Google Calendar on the church account
+  (doublebranchbaptist@gmail.com), add it to the public events
+  calendar, not the account's main calendar. The Events page shows it
+  within minutes. Everything on that calendar is public; put "contact
+  the church" instead of a home address.
 - **On a page file**, the block between the two `---` lines at the top
   holds the page title, its search description, and the big heading.
   Below it is the page's own content. Change the words between the

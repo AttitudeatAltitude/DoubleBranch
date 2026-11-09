@@ -106,3 +106,6 @@ explicit dated note.
   Google's look, and everything on that calendar is public. Reopen if:
   the look matters more than simplicity (API-key version), or private
   events need to live on the same calendar (use a separate public one).
+- **Correction/update (2026-11-08):** the Events page uses a separate
+  public events calendar on the church account, not the main calendar
+  — Kevin created it. Removes the "private items leak" risk above.

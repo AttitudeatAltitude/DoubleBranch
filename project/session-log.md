@@ -234,3 +234,6 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - Suggestion: keep a separate "Double Branch Events" public calendar so
   personal or private items on the church account's main calendar never
   show on the site.
+- Kevin made a separate public events calendar (suggestion taken);
+  site switched to it (calendar_id in _data/church.yml). README,
+  church/events.md, editing guide updated.
