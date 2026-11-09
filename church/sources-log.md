@@ -71,3 +71,6 @@ is kept (never this repo) · files it fed.
 - 2026-11-08 — Kevin, in chat: four ministry calendar IDs (Youth,
   Women's, Men's, Golden Days). Fed docs/_data/church.yml,
   docs/_data/ministries.yml, church/events.md, church/ministries.md.
+- 2026-11-08 — Kevin, in chat: calendar colors; Golden Days is the
+  seniors ministry, leader TBD. Fed docs/_data/church.yml,
+  docs/_data/ministries.yml, docs/about.html, church/ministries.md.

@@ -116,3 +116,8 @@ explicit dated note.
   text key, and per-calendar subscribe links. Why: Google doesn't show
   per-event colors publicly. Reopen if: colors should change (edit
   `calendars` in _data/church.yml).
+- **Calendar colors changed (2026-11-08)** — Kevin: Church-wide deep
+  red (Tomato #D50000), Men's strong blue (Blueberry #3F51B5), Women's
+  strong pink (Cherry Blossom #D81B60, extended palette — check it
+  renders in the embed), Youth orange (Tangerine #F4511E), Golden Days
+  gold (Banana #F6BF26). Nearest Google colors to Kevin's words.
