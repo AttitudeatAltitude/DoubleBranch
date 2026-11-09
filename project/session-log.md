@@ -237,3 +237,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
 - Kevin made a separate public events calendar (suggestion taken);
   site switched to it (calendar_id in _data/church.yml). README,
   church/events.md, editing guide updated.
+- Kevin asked for Google's color labels on the site; per-event colors
+  don't carry to public embeds, so set up one calendar per ministry
+  (5), color-coded with a key and subscribe links per calendar. New
+  ministry named: Golden Days (details unknown, [TBD] on Events).

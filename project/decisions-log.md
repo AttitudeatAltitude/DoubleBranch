@@ -109,3 +109,10 @@ explicit dated note.
 - **Correction/update (2026-11-08):** the Events page uses a separate
   public events calendar on the church account, not the main calendar
   — Kevin created it. Removes the "private items leak" risk above.
+- **Color-coded ministry calendars** — Kevin. One public calendar per
+  ministry (Church-wide, Men's, Women's, Youth, Golden Days), shown in
+  one embed with Google palette colors (Men's = Basil green, Kevin's
+  choice; others Claude's: Blueberry, Grape, Tangerine, Peacock), a
+  text key, and per-calendar subscribe links. Why: Google doesn't show
+  per-event colors publicly. Reopen if: colors should change (edit
+  `calendars` in _data/church.yml).

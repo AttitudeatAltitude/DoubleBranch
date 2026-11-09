@@ -23,3 +23,6 @@ contact role, status. Leader names: see facts.md (approved
 - Children: nursery (infants; up to 4) during Sunday school and 11:00
   — confirmed (Kevin, 2026-11-06). Children's church, school age,
   during 11:00 — confirmed (Kevin, 2026-11-08). Both led by Melody Cook
+- Golden Days: a ministry with its own events calendar — confirmed
+  (Kevin, 2026-11-08). What it is, who it's for, when it meets,
+  leader: unknown

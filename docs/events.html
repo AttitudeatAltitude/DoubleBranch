@@ -6,7 +6,9 @@ eyebrow: "Get involved"
 heading: "Events & ministries"
 lede: "Our weekly schedule, groups, and what's coming up."
 ---
-{%- assign cal = site.data.church.calendar_id | url_encode -%}
+{%- capture cal_src -%}
+{%- for c in site.data.church.calendars -%}&amp;src={{ c.id | url_encode }}&amp;color={{ c.color | url_encode }}{%- endfor -%}
+{%- endcapture -%}
     <section class="section">
       <div class="wrap grid grid-2">
         <div class="card">
@@ -15,11 +17,17 @@ lede: "Our weekly schedule, groups, and what's coming up."
         </div>
         <div class="card">
           <h2>Never miss an event</h2>
-          <p>Add our church calendar to your phone and new events show up on their own.</p>
-          <p class="btn-row">
-            <a class="btn" href="https://calendar.google.com/calendar/r?cid={{ cal }}">Add to Google Calendar</a>
-            <a class="btn" href="webcal://calendar.google.com/calendar/ical/{{ cal }}/public/basic.ics">Add to iPhone or Outlook</a>
-          </p>
+          <p>Add any of our calendars to your phone, and new events show up on their own. Pick just the ones you want.</p>
+          <ul class="cal-list">
+            {%- for c in site.data.church.calendars %}
+            {%- assign cid = c.id | url_encode %}
+            <li>
+              <span class="swatch" style="background: {{ c.color }}" aria-hidden="true"></span>
+              <span class="cal-name">{{ c.name }}</span>
+              <span class="cal-links"><a href="https://calendar.google.com/calendar/r?cid={{ cid }}">Google</a> · <a href="webcal://calendar.google.com/calendar/ical/{{ cid }}/public/basic.ics">iPhone or Outlook</a></span>
+            </li>
+            {%- endfor %}
+          </ul>
         </div>
       </div>
     </section>
@@ -28,10 +36,15 @@ lede: "Our weekly schedule, groups, and what's coming up."
       <div class="wrap">
         <h2>Coming up</h2>
         <div class="calendar">
-          <iframe src="https://calendar.google.com/calendar/embed?src={{ cal }}&amp;ctz=America%2FChicago&amp;mode=AGENDA&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0"
+          <iframe src="https://calendar.google.com/calendar/embed?ctz=America%2FChicago&amp;mode=AGENDA&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0{{ cal_src }}"
                   title="Upcoming events at Double Branch Baptist Church"
                   loading="lazy"></iframe>
         </div>
+        <ul class="cal-key" aria-label="Color key">
+          {%- for c in site.data.church.calendars %}
+          <li><span class="swatch" style="background: {{ c.color }}" aria-hidden="true"></span>{{ c.name }}</li>
+          {%- endfor %}
+        </ul>
       </div>
     </section>
 
