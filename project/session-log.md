@@ -246,3 +246,4 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   card with [TBD] name. Women's pink is from Google's extended palette;
   Kevin to confirm it shows in the embed.
 - Kevin: church-wide darker (rust/brown), pinker pink, names capitalized; custom shades tried, Kevin to check.
+- Kevin: calendar colors look good on the live site — custom hex colors work in the Google embed. Session closed for the night.
