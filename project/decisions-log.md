@@ -121,3 +121,8 @@ explicit dated note.
   strong pink (Cherry Blossom #D81B60, extended palette — check it
   renders in the embed), Youth orange (Tangerine #F4511E), Golden Days
   gold (Banana #F6BF26). Nearest Google colors to Kevin's words.
+- **Calendar colors/names revised (2026-11-08)** — Kevin: Church-wide
+  darker, rust or brown → trying custom rust #9C3D16 (fallback Cocoa
+  #795548); Women's pinker → trying custom #EC407A (fallback Cherry
+  Blossom #D81B60). Names: Men's Ministry, Women's Ministry, Youth
+  Ministry. Custom hex in the embed is unverified; Kevin checks.

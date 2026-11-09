@@ -245,3 +245,4 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   Days = seniors ministry, leader TBD — added to Events and an About
   card with [TBD] name. Women's pink is from Google's extended palette;
   Kevin to confirm it shows in the embed.
+- Kevin: church-wide darker (rust/brown), pinker pink, names capitalized; custom shades tried, Kevin to check.
