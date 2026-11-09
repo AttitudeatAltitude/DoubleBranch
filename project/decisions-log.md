@@ -96,3 +96,13 @@ explicit dated note.
   (approvals-log.md).
 - **D3 online giving: still open** — leadership is comparing options,
   including Venmo.
+
+## 2026-11-08 (evening)
+- **Upcoming events come from the church Google Calendar** — Kevin
+  (sent the calendar link, doublebranchbaptist@gmail.com, main
+  calendar). Embedded on Events in agenda view, plus Google/iCal
+  subscribe links; `_data/events.yml` removed. Why: one place to add
+  events, no site edit, past events drop off automatically. Cost:
+  Google's look, and everything on that calendar is public. Reopen if:
+  the look matters more than simplicity (API-key version), or private
+  events need to live on the same calendar (use a separate public one).

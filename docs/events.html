@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Events & Ministries"
-description: "Weekly schedule, ministries, and upcoming events at Double Branch Baptist Church, Poteau, OK."
+description: "Weekly schedule, upcoming events, and ministries at Double Branch Baptist Church, Poteau, OK."
 eyebrow: "Get involved"
 heading: "Events & ministries"
 lede: "Our weekly schedule, groups, and what's coming up."
 ---
+{%- assign cal = site.data.church.calendar_id | url_encode -%}
     <section class="section">
       <div class="wrap grid grid-2">
         <div class="card">
@@ -13,22 +14,23 @@ lede: "Our weekly schedule, groups, and what's coming up."
           {% include service-times.html %}
         </div>
         <div class="card">
-          <h2>Coming up</h2>
-          {%- if site.data.events.size > 0 %}
-          <ul class="events">
-            {%- for ev in site.data.events %}
-            <li>
-              <h3>{{ ev.name }}</h3>
-              <p class="role">{{ ev.date }}{% if ev.time %} · {{ ev.time }}{% endif %}</p>
-              {%- if ev.details %}<p>{{ ev.details }}</p>{% endif %}
-            </li>
-            {%- endfor %}
-          </ul>
-          {%- elsif site.preview %}
-          <p class="tbd">[TBD: upcoming events, with dates.]</p>
-          {%- else %}
-          <p>No special events on the calendar right now. Join us at any of our weekly services.</p>
-          {%- endif %}
+          <h2>Never miss an event</h2>
+          <p>Add our church calendar to your phone and new events show up on their own.</p>
+          <p class="btn-row">
+            <a class="btn" href="https://calendar.google.com/calendar/r?cid={{ cal }}">Add to Google Calendar</a>
+            <a class="btn" href="webcal://calendar.google.com/calendar/ical/{{ cal }}/public/basic.ics">Add to iPhone or Outlook</a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Coming up</h2>
+        <div class="calendar">
+          <iframe src="https://calendar.google.com/calendar/embed?src={{ cal }}&amp;ctz=America%2FChicago&amp;mode=AGENDA&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0"
+                  title="Upcoming events at Double Branch Baptist Church"
+                  loading="lazy"></iframe>
         </div>
       </div>
     </section>

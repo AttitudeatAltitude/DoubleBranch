@@ -47,6 +47,9 @@ their phase closes.
   (D5), Jekyll (D2): shared layout; services, church, nav, events,
   ministries in `docs/_data/`; preview banner + noindex via
   `preview:` in `_config.yml` — Claude, 2026-10-19
+- [done] Events page embeds the church Google Calendar (agenda view)
+  with subscribe buttons; events.yml removed — Claude, 2026-11-08.
+  Kevin to confirm the calendar is public and shows on a phone
 - [todo] Fill page copy as church/ facts are confirmed — Claude
 - [todo] **~80% of V1 ready for leadership's Nov 8 meeting** — Claude
   (copy) / Kevin (facts, photos)

@@ -63,3 +63,6 @@ is kept (never this repo) · files it fed.
 - 2026-11-08 — Kevin, in chat: deacons' names OK; names approval came
   from the Nov 8 leadership meeting; children's church during 11:00,
   "school age". Fed facts.md, ministries.md, docs/, approvals-log.md.
+- 2026-11-08 — Kevin, in chat: church Google Calendar link
+  (doublebranchbaptist@gmail.com). Fed docs/_data/church.yml,
+  docs/events.html, church/events.md.

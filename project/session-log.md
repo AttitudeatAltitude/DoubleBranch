@@ -224,3 +224,13 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   decided items moved to Completed; new questions (Monday/youth times,
   children's ages) and to-dos (giving, check-in); D3 options updated.
   Kevin named as contact in the editing guide.
+
+## 2026-11-08 (evening) — Google Calendar on Events
+- Kevin asked how to show Google Calendar events; sent the church
+  account's calendar. Events page embeds it (agenda, Central time)
+  with subscribe buttons; events.yml removed; README, church/events.md,
+  editing guide and tracker links updated. Couldn't verify it's public
+  (Google blocked). Built with Jekyll 3.10.0; phone width checked.
+- Suggestion: keep a separate "Double Branch Events" public calendar so
+  personal or private items on the church account's main calendar never
+  show on the site.
