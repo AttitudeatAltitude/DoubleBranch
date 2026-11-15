@@ -85,3 +85,8 @@ is kept (never this repo) · files it fed.
   booth operator will run the live stream; expected budget ≤$1,000
   total, ≤$500 camera (unconfirmed) — Kevin, in chat — fed media.md,
   project/backlog.md, project/decisions-needed.md.
+- Live-stream equipment prices and requirements — web search results
+  (retailer listings, OBS forum, DistroAV README, Zoom driver note,
+  Restream, CCLI price pages; pages not opened, network blocked) — fed
+  media.md and the Claude Doc "Live Stream Equipment List". Verify
+  prices before buying.

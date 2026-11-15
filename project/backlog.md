@@ -103,7 +103,8 @@ their phase closes.
 - **Live stream to YouTube** — stream services live from the board PC
   with OBS Studio (free) and the L-20 over USB; camera later (4K NDI
   PTZ under consideration; ≤$1,000 total, ≤$500 camera hoped, D8);
-  run by the sound booth operator. First steps, ~1 hour, $0:
+  run by the sound booth operator. Costed list: about $500–$725
+  (Claude Doc, 2026-11-15; link in church/media.md). First steps, ~1 hour, $0:
   run an upload speed test at the church during a service; enable
   live streaming on the YouTube channel (first-time enable can take
   ~24 hours); one private test stream, audio only. Then the camera

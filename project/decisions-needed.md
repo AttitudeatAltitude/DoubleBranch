@@ -26,6 +26,8 @@ charity profile. Fallback until chosen: give in person or by mail.
 
 ## D8 — Live-stream equipment budget — leadership
 Kevin expects approval of up to $1,000 total, hoping ≤$500 for the
-camera (2026-11-15). Options: approve $1,000 cap; approve less; wait
-for a costed equipment list. Recommendation: approve the $1,000 cap,
+camera (2026-11-15). Costed list (church/media.md): must-haves about
+$500–$725, camera $360–$450; plus ~$70/yr music licence if needed.
+Also: what the camera may show (recommend pulpit/platform only, no
+congregation). Options: approve $1,000 cap; approve less. Recommendation: approve the $1,000 cap,
 spend nothing until the upload speed test and a $0 test stream pass.

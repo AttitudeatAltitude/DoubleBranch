@@ -43,5 +43,11 @@ STATE — budget 600 words.
   (TONGVEO type). Model and price: unknown; target ≤$500. NDI into OBS needs
   the free NDI runtime + DistroAV plugin (unverified; check before
   buying).
+- Equipment list (Claude Doc "Live Stream Equipment List", Kevin's,
+  private; https://claude.ai/artifact/Pwp2D6oNEGmeiUh8icfRke; 2026-11-15): must-haves about $500–$725
+  — camera $360–$450, PoE+ switch, Cat6, mount, headphones. Prices
+  from search listings, unverified. L-20: install Zoom driver, route
+  master to USB 1–2 (OBS reads ch 1–2). Music: CCLI Streaming ~$65–$75/yr
+  if copyrighted songs (unverified).
 - Blockers: upload speed test (YouTube suggests ~3x the stream
   bitrate, roughly 5+ Mbps up for 720p); budget approval (D8).

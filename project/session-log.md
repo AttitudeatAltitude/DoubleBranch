@@ -257,3 +257,8 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   stream; expected budget ≤$1,000 total / ≤$500 camera. media.md,
   backlog (audio done, old video item folded into live stream) and D8
   added to decisions-needed.
+- Kevin asked for the full requirement list: Claude Doc "Live Stream
+  Equipment List" (private to Kevin) — shopping list, camera options,
+  what's owned, pre-purchase checks, leadership questions. Summary in
+  media.md, D8, backlog. Suggestion: return window ≥30 days so a test
+  Sunday happens before the return deadline.
