@@ -262,3 +262,8 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   what's owned, pre-purchase checks, leadership questions. Summary in
   media.md, D8, backlog. Suggestion: return window ≥30 days so a test
   Sunday happens before the return deadline.
+- Kevin asked for a step-by-step setup list in aviation-mechanic
+  language for a novice: added "Setup Procedure" tab to the equipment
+  doc — 9 task cards (STE style, WARNING/CAUTION/NOTE, sign-off,
+  discrepancy log), troubleshooting table. L-20 USB routing and camera
+  remote steps point to the manuals (not verified).

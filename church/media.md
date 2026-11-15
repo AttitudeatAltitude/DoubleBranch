@@ -49,5 +49,9 @@ STATE — budget 600 words.
   from search listings, unverified. L-20: install Zoom driver, route
   master to USB 1–2 (OBS reads ch 1–2). Music: CCLI Streaming ~$65–$75/yr
   if copyrighted songs (unverified).
+- Setup procedure: same doc, "Setup Procedure" tab (2026-11-15) — 9
+  task cards in maintenance-manual style (pre-purchase checks →
+  install → tests → Sunday checklist) + troubleshooting. Operator-
+  facing; menu paths from general knowledge, unverified on this PC.
 - Blockers: upload speed test (YouTube suggests ~3x the stream
   bitrate, roughly 5+ Mbps up for 720p); budget approval (D8).
