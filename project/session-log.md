@@ -271,3 +271,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   Setup" artifact (tabs per task, tickable steps, recorded values,
   sign-off + discrepancy log, per-date Sunday checklist, shopping
   tracker; shared db Claude can read). Store empty at publish.
+- Closeout: tracker synced (audio items done, live-stream Task 1 todo,
+  D8 decision, app + doc links); next-steps rewritten. Kevin starts
+  Task 1 at church this evening. Unchecked: whether the 2:39 PM weekly
+  check-in reached the repo (no commit from it on main).
