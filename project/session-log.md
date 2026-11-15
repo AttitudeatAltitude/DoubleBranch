@@ -267,3 +267,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   doc — 9 task cards (STE style, WARNING/CAUTION/NOTE, sign-off,
   discrepancy log), troubleshooting table. L-20 USB routing and camera
   remote steps point to the manuals (not verified).
+- Kevin asked for the setup list as an app: published "Live Stream
+  Setup" artifact (tabs per task, tickable steps, recorded values,
+  sign-off + discrepancy log, per-date Sunday checklist, shopping
+  tracker; shared db Claude can read). Store empty at publish.

@@ -53,5 +53,10 @@ STATE — budget 600 words.
   task cards in maintenance-manual style (pre-purchase checks →
   install → tests → Sunday checklist) + troubleshooting. Operator-
   facing; menu paths from general knowledge, unverified on this PC.
+- Checklist app (artifact "Live Stream Setup", Kevin's, private;
+  https://claude.ai/artifact/2LrLKkw1ehJ694hSdhWr7m; 2026-11-15): same
+  task cards as tickable tabs; db: `progress/<t1..t8>`,
+  `sundays/<YYYY-MM-DD>`, `shopping/list`. Claude reads it with
+  ArtifactData. The doc tab and the app must be kept in step.
 - Blockers: upload speed test (YouTube suggests ~3x the stream
   bitrate, roughly 5+ Mbps up for 720p); budget approval (D8).
