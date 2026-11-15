@@ -247,3 +247,9 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   Kevin to confirm it shows in the embed.
 - Kevin: church-wide darker (rust/brown), pinker pink, names capitalized; custom shades tried, Kevin to check.
 - Kevin: calendar colors look good on the live site — custom hex colors work in the Google embed. Session closed for the night.
+
+## 2026-11-15 — Live-stream plan recorded
+- Kevin: Windows 11 PC at the board, church internet, goal to stream
+  live to YouTube via OBS + L-20 USB; PTZ camera under consideration.
+  Recorded in church/media.md and sources-log; backlog Proposed item
+  "Live stream to YouTube" added.

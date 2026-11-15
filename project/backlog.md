@@ -103,3 +103,10 @@ their phase closes.
   email or text thread) where ministry leaders send event updates, so
   events.md doesn't depend on Kevin hearing about things. (Claude,
   2026-10-19)
+- **Live stream to YouTube** — stream services live from the board PC
+  with OBS Studio (free) and the L-20 over USB; camera later (4K NDI
+  PTZ under consideration, budget unknown). First steps, ~1 hour, $0:
+  run an upload speed test at the church during a service; enable
+  live streaming on the YouTube channel (first-time enable can take
+  ~24 hours); one private test stream, audio only. Then the camera
+  decision. (Kevin, 2026-11-15)

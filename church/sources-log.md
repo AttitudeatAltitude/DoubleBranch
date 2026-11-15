@@ -74,3 +74,10 @@ is kept (never this repo) · files it fed.
 - 2026-11-08 — Kevin, in chat: calendar colors; Golden Days is the
   seniors ministry, leader TBD. Fed docs/_data/church.yml,
   docs/_data/ministries.yml, docs/about.html, church/ministries.md.
+
+## 2026-11-15
+- Windows 11 PC by the soundboard, internet at church (upload speed
+  untested), goal to live-stream services to YouTube, recommended
+  OBS Studio + L-20 over USB, camera under consideration (4K NDI PTZ,
+  20x, AI tracking, TONGVEO type; budget unknown) — Kevin, in chat —
+  fed media.md, project/backlog.md.

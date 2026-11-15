@@ -21,10 +21,24 @@ STATE — budget 600 words.
   a USB audio interface (retailer spec listings, 2026-10-19). SD-card
   recording means no computer needed — $0 path, plus ~$10 SD card if
   none. Steps in audio-guide.md.
-- No computer at the board (Kevin, 2026-10-19).
+- Computer at the board: Windows 11 PC by the soundboard (Kevin,
+  2026-11-15; replaces "no computer", 2026-10-19).
+- Internet at the church: yes; upload speed untested (Kevin, 2026-11-15).
 - Publish to YouTube: live services and past sermons; the Sermons page
   embeds the latest/live one (Kevin chose D7 A, 2026-10-21; leadership
   to confirm).
 - Unknown: whether an SD card is already in the board; who runs the
   board weekly.
 - Still needed later for video: room size, lighting, upload speed.
+
+## Live-stream plan (Kevin, 2026-11-15)
+- Goal: stream services live to YouTube instead of uploading
+  afterward. Status vs. "audio-only first" (2026-10-19): unconfirmed.
+- Recommended free setup: OBS Studio on the board PC, L-20 over USB
+  for sound (stereo mix into OBS).
+- Camera under consideration: 4K NDI PTZ, 20x zoom, AI tracking
+  (TONGVEO type). Model, price and budget: unknown. NDI into OBS needs
+  the free NDI runtime + DistroAV plugin (unverified; check before
+  buying).
+- Blockers: upload speed test (YouTube suggests ~3x the stream
+  bitrate, roughly 5+ Mbps up for 720p); camera budget; who runs it.
