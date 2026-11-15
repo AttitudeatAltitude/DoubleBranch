@@ -275,3 +275,10 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   D8 decision, app + doc links); next-steps rewritten. Kevin starts
   Task 1 at church this evening. Unchecked: whether the 2:39 PM weekly
   check-in reached the repo (no commit from it on main).
+
+## 2026-11-15 (evening) — Live stream Task 1 passed
+- Read app: Task 1 Pass (~99 Mbps up, i5-8265U/8 GB/UHD 620, cable);
+  Task 2 OBS + L-20 driver done, stopped at connecting L-20. Expanded
+  app Task 2 into Part B2 (port shape, data cable, no hub, Device
+  Manager and Windows input checks, 48 kHz, driver v2 supplementary
+  manual). Doc Setup Procedure tab not updated — app is ahead.

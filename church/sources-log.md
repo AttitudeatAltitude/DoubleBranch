@@ -90,3 +90,5 @@ is kept (never this repo) · files it fed.
   Restream, CCLI price pages; pages not opened, network blocked) — fed
   media.md and the Claude Doc "Live Stream Equipment List". Verify
   prices before buying.
+- Task 1 results (upload speeds, board PC specs) and Task 2 progress —
+  Kevin, via the Live Stream Setup app db — fed media.md.

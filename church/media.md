@@ -26,7 +26,12 @@ STATE — budget 600 words.
   none. Steps in audio-guide.md.
 - Computer at the board: Windows 11 PC by the soundboard (Kevin,
   2026-11-15; replaces "no computer", 2026-10-19).
-- Internet at the church: yes; upload speed untested (Kevin, 2026-11-15).
+- Internet at the church: ~99 Mbps upload, 3 runs, board PC on cable
+  (Kevin via app, Sun 2026-11-15 ~5:27 PM, before the 6 PM service —
+  not under service load; margin makes 1080p safe).
+- Board PC: Intel i5-8265U (2018 laptop CPU), 8 GB RAM, UHD 620 (has
+  QuickSync hardware encoder); wired port and free USB: yes (Kevin via
+  app, 2026-11-15). Task 1 signed off Pass.
 - Publish to YouTube: live services and past sermons; the Sermons page
   embeds the latest/live one (Kevin chose D7 A, 2026-10-21; leadership
   to confirm).
@@ -58,5 +63,5 @@ STATE — budget 600 words.
   task cards as tickable tabs; db: `progress/<t1..t8>`,
   `sundays/<YYYY-MM-DD>`, `shopping/list`. Claude reads it with
   ArtifactData. The doc tab and the app must be kept in step.
-- Blockers: upload speed test (YouTube suggests ~3x the stream
-  bitrate, roughly 5+ Mbps up for 720p); budget approval (D8).
+- Blockers: budget approval (D8); L-20 not yet connected to PC (Task 2
+  B2, 2026-11-15).
