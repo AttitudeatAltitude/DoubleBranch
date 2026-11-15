@@ -76,11 +76,8 @@ their phase closes.
   Edit the Double Branch Website" (Kevin's, private;
   https://claude.ai/artifact/WMHvV1eTwSC9MViTDbUe9p), 2026-11-08.
   docs/README.md is the in-repo version; keep both in step
-- [doing] **Sermon audio** (runs ahead of Phase 4) — guide drafted
-  (church/audio-guide.md). Next: confirm an SD card is in the L-20; one
-  test recording; pick where audio lives (D7) — Kevin
-- [todo] Video/camera upgrade recommendation — deferred until audio is
-  running and a budget exists
+- [done] **Sermon audio** — audio on a still image uploaded to YouTube
+  two weeks running as of 2026-11-15 — Kevin / sound booth operator
 - [done] YouTube channel @DoubleBranchBaptist live; linked from
   Sermons — Kevin / Claude, 2026-11-08
 - [done] Sermons embeds the channel's uploads (newest first); "Watch
@@ -105,7 +102,8 @@ their phase closes.
   2026-10-19)
 - **Live stream to YouTube** — stream services live from the board PC
   with OBS Studio (free) and the L-20 over USB; camera later (4K NDI
-  PTZ under consideration, budget unknown). First steps, ~1 hour, $0:
+  PTZ under consideration; ≤$1,000 total, ≤$500 camera hoped, D8);
+  run by the sound booth operator. First steps, ~1 hour, $0:
   run an upload speed test at the church during a service; enable
   live streaming on the YouTube channel (first-time enable can take
   ~24 hours); one private test stream, audio only. Then the camera

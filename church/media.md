@@ -12,10 +12,13 @@ STATE — budget 600 words.
 ## Direction
 - YouTube channel @DoubleBranchBaptist created, no videos yet (Kevin,
   2026-11-08).
-- **Audio-only first** — agreed (Kevin, 2026-10-19). Video/camera
-  upgrade deferred.
-- Budget: none currently (Kevin, 2026-10-19). Recommendations must lead
-  with a $0 option using what the church already has.
+- **Audio-only first** — agreed (Kevin, 2026-10-19) and done: sermon
+  audio on a still image uploaded to YouTube two weeks in a row as of
+  2026-11-15 (Kevin). Live video is the next step.
+- Budget: Kevin expects leadership to approve up to $1,000 for all
+  live-stream equipment, hoping ≤$500 for the camera — unconfirmed
+  (Kevin, 2026-11-15; was "none", 2026-10-19). Still lead with a $0
+  option.
 - Soundboard: **Zoom LiveTrak L-20** (Kevin, 2026-10-19). Records to SD card
   (20 channels + stereo mix, WAV 44.1/48/96 kHz, 16/24-bit) and works as
   a USB audio interface (retailer spec listings, 2026-10-19). SD-card
@@ -27,18 +30,18 @@ STATE — budget 600 words.
 - Publish to YouTube: live services and past sermons; the Sermons page
   embeds the latest/live one (Kevin chose D7 A, 2026-10-21; leadership
   to confirm).
-- Unknown: whether an SD card is already in the board; who runs the
-  board weekly.
+- Board and live stream run weekly by the sound booth operator
+  (Kevin, 2026-11-15).
 - Still needed later for video: room size, lighting, upload speed.
 
 ## Live-stream plan (Kevin, 2026-11-15)
 - Goal: stream services live to YouTube instead of uploading
-  afterward. Status vs. "audio-only first" (2026-10-19): unconfirmed.
+  afterward; follows the audio-only stage (now running).
 - Recommended free setup: OBS Studio on the board PC, L-20 over USB
   for sound (stereo mix into OBS).
 - Camera under consideration: 4K NDI PTZ, 20x zoom, AI tracking
-  (TONGVEO type). Model, price and budget: unknown. NDI into OBS needs
+  (TONGVEO type). Model and price: unknown; target ≤$500. NDI into OBS needs
   the free NDI runtime + DistroAV plugin (unverified; check before
   buying).
 - Blockers: upload speed test (YouTube suggests ~3x the stream
-  bitrate, roughly 5+ Mbps up for 720p); camera budget; who runs it.
+  bitrate, roughly 5+ Mbps up for 720p); budget approval (D8).

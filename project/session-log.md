@@ -253,3 +253,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   live to YouTube via OBS + L-20 USB; PTZ camera under consideration.
   Recorded in church/media.md and sources-log; backlog Proposed item
   "Live stream to YouTube" added.
+- Kevin: audio uploads running two weeks; sound booth operator runs the
+  stream; expected budget ≤$1,000 total / ≤$500 camera. media.md,
+  backlog (audio done, old video item folded into live stream) and D8
+  added to decisions-needed.

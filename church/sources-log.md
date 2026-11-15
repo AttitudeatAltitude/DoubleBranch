@@ -81,3 +81,7 @@ is kept (never this repo) · files it fed.
   OBS Studio + L-20 over USB, camera under consideration (4K NDI PTZ,
   20x, AI tracking, TONGVEO type; budget unknown) — Kevin, in chat —
   fed media.md, project/backlog.md.
+- Audio-on-still-image uploads to YouTube two weeks running; sound
+  booth operator will run the live stream; expected budget ≤$1,000
+  total, ≤$500 camera (unconfirmed) — Kevin, in chat — fed media.md,
+  project/backlog.md, project/decisions-needed.md.
