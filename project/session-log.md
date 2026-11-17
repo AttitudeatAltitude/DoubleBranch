@@ -282,3 +282,16 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   app Task 2 into Part B2 (port shape, data cable, no hub, Device
   Manager and Windows input checks, 48 kHz, driver v2 supplementary
   manual). Doc Setup Procedure tab not updated — app is ahead.
+
+## 2026-11-17 — Custom domain
+- Kevin asked how to get a domain. Gave registrar/DNS steps for GitHub
+  Pages; site links are relative, so no code change needed. rdap.org
+  blocked from the session — availability not checked by Claude.
+- Kevin: DoubleBranchBaptist.org available, ~$12/yr, church card.
+  Logged decision; backlog buy + connect items; roadmap moves domain
+  from Phase 4 to Phase 3; next-steps rewritten (also updated stale
+  Task 1 item). Reminder scheduled Sun Nov 22 9 AM Central.
+- Connect steps given: verify domain in GitHub profile Settings →
+  Pages (TXT); A @ 185.199.108–111.153; AAAA 2606:50c0:8000–8003::153;
+  CNAME www → attitudeataltitude.github.io; repo Settings → Pages →
+  custom domain (adds docs/CNAME); Enforce HTTPS once cert issues.

@@ -29,8 +29,7 @@ their phase closes.
 - [todo] Leader blurbs for About (leadership OK'd asking, Nov 8):
   pastor, each deacon, each ministry leader — 1–2 sentences, each
   person's OK; photos optional, under the photo policy — Kevin
-- [done] Exact map pin set (35.073058, -94.588978); Directions links
-  use it — Claude, 2026-10-19
+- [done] Exact map pin; Directions links use it — Claude, 2026-10-19
 - [todo] **Confirm the street number** (18650 or 18670 Old Highway 112)
   before launch, e.g. from the church's mail or a utility bill — Kevin,
   or the deacon if Kevin doesn't get to it first
@@ -53,9 +52,8 @@ their phase closes.
 - [todo] Fill page copy as church/ facts are confirmed — Claude
 - [todo] **~80% of V1 ready for leadership's Nov 8 meeting** — Claude
   (copy) / Kevin (facts, photos)
-- [done] Tracker board for Kevin (private artifact, two-way: answers,
-  ticks, decisions, notes) — Claude, 2026-10-19. Sync steps in
-  project/CLAUDE.md (approved)
+- [done] Tracker board for Kevin (private artifact) — Claude,
+  2026-10-19; sync steps in project/CLAUDE.md
 - [done] Preview link live: https://attitudeataltitude.github.io/DoubleBranch/
   — repo public + Pages from `main` `/docs` (Kevin), first deploy
   verified 2026-10-19
@@ -65,6 +63,10 @@ their phase closes.
   leadership
 - [todo] Launch: set `preview: false` in docs/_config.yml after
   leadership approval — Claude
+- [todo] **Buy DoubleBranchBaptist.org**: church card, auto-renew,
+  lock, 2FA, church Gmail — Kevin
+- [todo] Connect domain at launch (steps: session-log 2026-11-17) —
+  Kevin / Claude
 - [todo] Link site from Facebook page — whoever runs it
 
 ## Phase 4 — Post-launch

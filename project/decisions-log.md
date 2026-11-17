@@ -127,3 +127,12 @@ explicit dated note.
   Blossom #D81B60). Names: Men's Ministry, Women's Ministry, Youth
   Ministry. Custom hex in the embed is unverified; Kevin checks.
 - **Custom calendar colors confirmed (2026-11-08)** — Kevin: rust and pink render correctly in the embed; custom hex colors work.
+
+## 2026-11-17
+- **Custom domain: buy DoubleBranchBaptist.org now, connect at launch**
+  — Kevin. Reopens "no custom domain for now" (2026-10-19). Why: ~$12/yr
+  (Kevin checked: available); buying now keeps the name from being
+  taken; connecting at launch (Phase 3) means the congregation's first
+  address is the permanent one. Pay with the church card so renewal
+  doesn't lapse on a personal card. Church card use is on the
+  leadership list. Reopen if: leadership won't fund it.

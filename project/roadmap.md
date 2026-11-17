@@ -32,11 +32,10 @@ and preview is shareable with leadership.
 
 ## Phase 3 — Review & launch — NOT STARTED
 Leadership reviews the full site; approvals logged; repo visibility and
-preview mode turned off (`preview: false`); Google Business Profile
-and Facebook page link to the site.
+preview mode turned off (`preview: false`); DoubleBranchBaptist.org
+connected; Google Business Profile and Facebook page link to the site.
 Exit when: site is live and findable by searching the church name.
 
 ## Phase 4 — Post-launch — NOT STARTED
 Keep events current; hand-off plan so the site doesn't depend on one
-person; YouTube migration; streaming equipment upgrade; optional custom
-domain.
+person; YouTube migration; streaming equipment upgrade.
