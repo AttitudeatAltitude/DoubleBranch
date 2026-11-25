@@ -30,8 +30,7 @@ STATE — budget 600 words.
   (Kevin via app, Sun 2026-11-15 ~5:27 PM, before the 6 PM service —
   not under service load; margin makes 1080p safe).
 - Board PC: Intel i5-8265U (2018 laptop CPU), 8 GB RAM, UHD 620 (has
-  QuickSync hardware encoder); wired port and free USB: yes (Kevin via
-  app, 2026-11-15). Task 1 signed off Pass.
+  QuickSync); wired port, free USB (Kevin via app, 2026-11-15).
 - Publish to YouTube: live services and past sermons; the Sermons page
   embeds the latest/live one (Kevin chose D7 A, 2026-10-21; leadership
   to confirm).
