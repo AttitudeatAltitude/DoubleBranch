@@ -295,3 +295,11 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   Pages (TXT); A @ 185.199.108–111.153; AAAA 2606:50c0:8000–8003::153;
   CNAME www → attitudeataltitude.github.io; repo Settings → Pages →
   custom domain (adds docs/CNAME); Enforce HTTPS once cert issues.
+
+## 2026-11-25 — Camera bought
+- Kevin sent the box label: iuZee 4K AI NDI PTZ, IUZ-UHD20U-4KN.
+  Recorded in media.md; app Buy tab marked Received, mount noted as
+  included; new app Task 6 Part 0 bench test (contents, serial, return
+  date, PoE check, NDI in OBS, remote) before mounting. Read app: Task 2
+  L-20 connection checks not ticked; Task 3 live streaming enabled
+  today. Asked Kevin: was D8 approved, price/return date, PoE.

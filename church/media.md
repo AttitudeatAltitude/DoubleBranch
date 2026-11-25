@@ -44,10 +44,14 @@ STATE — budget 600 words.
   afterward; follows the audio-only stage (now running).
 - Recommended free setup: OBS Studio on the board PC, L-20 over USB
   for sound (stereo mix into OBS).
-- Camera under consideration: 4K NDI PTZ, 20x zoom, AI tracking
-  (TONGVEO type). Model and price: unknown; target ≤$500. NDI into OBS needs
-  the free NDI runtime + DistroAV plugin (unverified; check before
-  buying).
+- Camera bought: iuZee 4K AI NDI PTZ Camera, model IUZ-UHD20U-4KN
+  (Kevin, box-label photo, 2026-11-25). Price, seller, return date:
+  unknown. Per retailer listings (unverified for this exact model): 20x
+  optical, 4K30, USB 3.0/HDMI/LAN, presenter tracking + auto-framing,
+  255 presets (10 on remote), box has 12V adapter, USB 3.0 cable, wall
+  mount, remote. PoE and NDI HX version unconfirmed — app Task 6 Part 0
+  bench test checks both before mounting. NDI into OBS via NDI runtime
+  + DistroAV (installed, Task 2).
 - Equipment list (Claude Doc "Live Stream Equipment List", Kevin's,
   private; https://claude.ai/artifact/Pwp2D6oNEGmeiUh8icfRke; 2026-11-15): must-haves about $500–$725
   — camera $360–$450, PoE+ switch, Cat6, mount, headphones. Prices
@@ -63,5 +67,8 @@ STATE — budget 600 words.
   task cards as tickable tabs; db: `progress/<t1..t8>`,
   `sundays/<YYYY-MM-DD>`, `shopping/list`. Claude reads it with
   ArtifactData. The doc tab and the app must be kept in step.
-- Blockers: budget approval (D8); L-20 not yet connected to PC (Task 2
-  B2, 2026-11-15).
+- App progress (2026-11-25): Task 1 Pass; Task 2 done except L-20
+  connection checks (B2; L-20 port is USB-B); Task 3 live streaming
+  enabled 2026-11-25, Part B after 24 h.
+- Open: D8 status (camera already bought — approval not recorded);
+  PoE yes/no; who runs it besides the operator.

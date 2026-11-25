@@ -92,3 +92,9 @@ is kept (never this repo) · files it fed.
   prices before buying.
 - Task 1 results (upload speeds, board PC specs) and Task 2 progress —
   Kevin, via the Live Stream Setup app db — fed media.md.
+
+## 2026-11-25
+- Camera box label photo (iuZee IUZ-UHD20U-4KN) — Kevin, in chat;
+  original kept in the chat only, not committed — fed media.md, app Buy
+  tab and Task 6 Part 0. Camera specs from retailer search listings
+  (unverified for this model).
