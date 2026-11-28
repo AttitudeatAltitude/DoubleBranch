@@ -66,8 +66,8 @@ STATE — budget 600 words.
   task cards as tickable tabs; db: `progress/<t1..t8>`,
   `sundays/<YYYY-MM-DD>`, `shopping/list`. Claude reads it with
   ArtifactData. The doc tab and the app must be kept in step.
-- App progress (2026-11-25): Task 1 Pass; Task 2 done except L-20
-  connection checks (B2; L-20 port is USB-B); Task 3 live streaming
-  enabled 2026-11-25, Part B after 24 h.
+- App progress (2026-11-28): Tasks 1, 2, 4 Pass; L-20 shows as "ZOOM
+  L-20 Audio"; Task 3 done to B5 (title/auto-start not ticked); Task 5
+  at s5 — sound reaches stream but has static (app Fix tab procedure).
 - Open: D8 status (camera already bought — approval not recorded);
   PoE yes/no; who runs it besides the operator.

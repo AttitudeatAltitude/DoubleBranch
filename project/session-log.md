@@ -303,3 +303,11 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   date, PoE check, NDI in OBS, remote) before mounting. Read app: Task 2
   L-20 connection checks not ticked; Task 3 live streaming enabled
   today. Asked Kevin: was D8 approved, price/return date, PoE.
+
+## 2026-11-28 — Static on the test stream
+- Read app: Tasks 1, 2, 4 signed off Pass; Task 3 B6–B7 not ticked;
+  Task 5 stopped at s5; Task 4 "bitrate" field reads 160 (likely the
+  audio value — label changed to "Video bitrate"). Kevin: sound comes
+  through with static. Added app Fix tab procedure "Static in the
+  sound" (locate, level, 48 kHz L-20/Windows/OBS, Listen-to-device,
+  driver buffer, power/USB, ground loop, bitrates, monitoring).
