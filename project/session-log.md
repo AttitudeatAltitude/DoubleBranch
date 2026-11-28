@@ -311,3 +311,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   through with static. Added app Fix tab procedure "Static in the
   sound" (locate, level, 48 kHz L-20/Windows/OBS, Listen-to-device,
   driver buffer, power/USB, ground loop, bitrates, monitoring).
+- Kevin: the fault is broken-up (choppy) sound, not hiss; room sound
+  clean (app step 1). Added choppy-sound path to the app procedure:
+  OBS recording test, then driver buffer, power, USB selective
+  suspend, close programs, listen on a phone not the PC.
