@@ -319,3 +319,8 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   (room clean). Likely overload into the USB feed or sample-rate
   mismatch. Added app procedure Part 0: master meter/gain, OBS filters
   off, Windows level 100 + 48 kHz format, OBS 48 kHz + re-record.
+- Camera: USB picture fine; NDI source listed in OBS but black; camera
+  IP times out in browser. Likely camera on a different subnet (factory
+  static IP) — discovery crosses, video doesn't. Told Kevin: ipconfig vs
+  camera OSD network menu, set camera DHCP or same-subnet static, ping,
+  then web page/NDI. App not changed (Kevin asked).
