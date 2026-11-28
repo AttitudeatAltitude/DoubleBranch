@@ -315,3 +315,7 @@ APPEND-ONLY LOG. Dated: work done, suggestions made, phase retros.
   clean (app step 1). Added choppy-sound path to the app procedure:
   OBS recording test, then driver buffer, power, USB selective
   suspend, close programs, listen on a phone not the PC.
+- Kevin: buzz/choppy only while talking, also in the local recording
+  (room clean). Likely overload into the USB feed or sample-rate
+  mismatch. Added app procedure Part 0: master meter/gain, OBS filters
+  off, Windows level 100 + 48 kHz format, OBS 48 kHz + re-record.
